@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q_anim
+  rotate: false
+  xy: 2, 2
+  size: 266, 216
+  orig: 266, 216
+  offset: 0, 0
+  index: -1
+q_feather_1
+  rotate: false
+  xy: 494, 84
+  size: 90, 134
+  orig: 90, 134
+  offset: 0, 0
+  index: -1
+q_feather_2
+  rotate: false
+  xy: 586, 86
+  size: 91, 132
+  orig: 91, 132
+  offset: 0, 0
+  index: -1
+q_light
+  rotate: true
+  xy: 270, 2
+  size: 216, 222
+  orig: 216, 222
+  offset: 0, 0
+  index: -1
+q_rope
+  rotate: false
+  xy: 494, 13
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1

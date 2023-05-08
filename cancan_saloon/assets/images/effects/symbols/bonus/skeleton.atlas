@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1332,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_glass-1
+  rotate: false
+  xy: 340, 8
+  size: 362, 326
+  orig: 362, 326
+  offset: 0, 0
+  index: -1
+fx_shootshine
+  rotate: false
+  xy: 1132, 162
+  size: 158, 172
+  orig: 158, 172
+  offset: 0, 0
+  index: -1
+fx_water
+  rotate: false
+  xy: 2, 2
+  size: 336, 332
+  orig: 336, 332
+  offset: 0, 0
+  index: -1
+sb_body
+  rotate: false
+  xy: 704, 67
+  size: 316, 267
+  orig: 316, 267
+  offset: 0, 0
+  index: -1
+sb_bottle
+  rotate: false
+  xy: 1132, 3
+  size: 198, 157
+  orig: 198, 157
+  offset: 0, 0
+  index: -1
+sb_textbot
+  rotate: true
+  xy: 1022, 52
+  size: 282, 108
+  orig: 282, 108
+  offset: 0, 0
+  index: -1
+sb_texttop
+  rotate: false
+  xy: 704, 5
+  size: 281, 60
+  orig: 281, 60
+  offset: 0, 0
+  index: -1

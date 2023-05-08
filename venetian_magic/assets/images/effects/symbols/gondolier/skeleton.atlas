@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 1608,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gon_belt
+  rotate: true
+  xy: 785, 6
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+gon_bgshadow
+  rotate: true
+  xy: 785, 25
+  size: 259, 197
+  orig: 259, 197
+  offset: 0, 0
+  index: -1
+gon_boat
+  rotate: false
+  xy: 984, 141
+  size: 332, 143
+  orig: 332, 143
+  offset: 0, 0
+  index: -1
+gon_body
+  rotate: true
+  xy: 1539, 57
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+gon_border
+  rotate: true
+  xy: 576, 15
+  size: 269, 207
+  orig: 269, 207
+  offset: 0, 0
+  index: -1
+gon_fire
+  rotate: false
+  xy: 1318, 60
+  size: 140, 224
+  orig: 140, 224
+  offset: 0, 0
+  index: -1
+gon_girlhand
+  rotate: false
+  xy: 1275, 81
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+gon_girlhead
+  rotate: false
+  xy: 1569, 21
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+gon_hand1
+  rotate: false
+  xy: 1539, 8
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+gon_hand2
+  rotate: false
+  xy: 1275, 110
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+gon_sparks
+  rotate: false
+  xy: 2, 14
+  size: 349, 270
+  orig: 349, 270
+  offset: 0, 0
+  index: -1
+gon_veslo
+  rotate: false
+  xy: 1460, 106
+  size: 146, 178
+  orig: 146, 178
+  offset: 0, 0
+  index: -1
+gon_veslo_light2
+  rotate: false
+  xy: 1460, 18
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+gon_veslo_lightbig
+  rotate: false
+  xy: 984, 71
+  size: 289, 68
+  orig: 289, 68
+  offset: 0, 0
+  index: -1
+gon_winbox
+  rotate: true
+  xy: 353, 2
+  size: 282, 221
+  orig: 282, 221
+  offset: 0, 0
+  index: -1

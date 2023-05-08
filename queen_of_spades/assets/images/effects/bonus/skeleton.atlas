@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 322,1933
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus/Rectangle 3
+  rotate: true
+  xy: 2, 1439
+  size: 238, 318
+  orig: 242, 322
+  offset: 2, 2
+  index: -1
+bonus/card
+  rotate: true
+  xy: 2, 737
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+bonus/coin
+  rotate: false
+  xy: 158, 63
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+bonus/king
+  rotate: true
+  xy: 2, 533
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+bonus/luck
+  rotate: false
+  xy: 2, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+bonus/luckShine
+  rotate: false
+  xy: 2, 1679
+  size: 305, 252
+  orig: 315, 269
+  offset: 3, 4
+  index: -1
+bonus/queen
+  rotate: true
+  xy: 2, 329
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+bonus/title
+  rotate: false
+  xy: 2, 158
+  size: 210, 169
+  orig: 213, 171
+  offset: 2, 0
+  index: -1
+shine-blue
+  rotate: false
+  xy: 2, 1190
+  size: 272, 247
+  orig: 286, 261
+  offset: 3, 4
+  index: -1
+shine-pink
+  rotate: false
+  xy: 2, 941
+  size: 259, 247
+  orig: 276, 261
+  offset: 3, 4
+  index: -1

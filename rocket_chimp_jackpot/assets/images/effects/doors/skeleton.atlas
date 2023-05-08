@@ -1,0 +1,9 @@
+skeleton.png
+size:1595,941
+filter:Linear,Linear
+doors/flapLeft
+bounds:828,43,765,896
+offsets:2,0,767,896
+doors/flapRight
+bounds:2,2,824,937
+offsets:4,0,828,940

@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 431,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spin_hover
+  rotate: false
+  xy: 256, 20
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+spin_icon
+  rotate: true
+  xy: 374, 83
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+spin_normal
+  rotate: false
+  xy: 2, 2
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+spin_press
+  rotate: false
+  xy: 138, 20
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1

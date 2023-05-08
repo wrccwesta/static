@@ -1,0 +1,13 @@
+skeleton.png
+size:230,254
+filter:Linear,Linear
+spin/border
+bounds:2,2,116,116
+spin/border-light
+bounds:2,120,132,132
+offsets:3,3,138,138
+spin/icn
+bounds:136,164,89,88
+spin/light-1
+bounds:120,10,108,108
+offsets:3,3,114,114

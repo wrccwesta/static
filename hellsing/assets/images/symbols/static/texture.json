@@ -1,0 +1,116 @@
+{"frames": {
+
+"a":
+{
+	"frame": {"x":299,"y":1,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"butler":
+{
+	"frame": {"x":597,"y":1,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"girl":
+{
+	"frame": {"x":895,"y":1,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"j":
+{
+	"frame": {"x":1193,"y":1,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"k":
+{
+	"frame": {"x":1491,"y":1,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"polisman":
+{
+	"frame": {"x":1789,"y":1,"w":296,"h":207},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"q":
+{
+	"frame": {"x":1,"y":210,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"scatter_vampire":
+{
+	"frame": {"x":299,"y":210,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"scatter_werewolf":
+{
+	"frame": {"x":597,"y":210,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"Ten":
+{
+	"frame": {"x":1,"y":1,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"vampire":
+{
+	"frame": {"x":895,"y":210,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"werewolf":
+{
+	"frame": {"x":1193,"y":210,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+},
+"wildscat (man)":
+{
+	"frame": {"x":1491,"y":210,"w":296,"h":207},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":207},
+	"sourceSize": {"w":296,"h":207}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":1997,"h":418},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c7e866ce6ed54bf00ccbbabbc81d0141:2cad00ff6d30b97301ddd9205540f653:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

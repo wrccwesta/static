@@ -1,0 +1,52 @@
+{"frames": {
+
+"buy_bg":
+{
+	"frame": {"x":1,"y":778,"w":270,"h":725},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":725},
+	"sourceSize": {"w":270,"h":725}
+},
+"buy_btn":
+{
+	"frame": {"x":1,"y":1505,"w":277,"h":237},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":237},
+	"sourceSize": {"w":277,"h":237}
+},
+"risk_bg":
+{
+	"frame": {"x":1,"y":1,"w":270,"h":775},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":775},
+	"sourceSize": {"w":270,"h":775}
+},
+"risk_btn":
+{
+	"frame": {"x":1,"y":1784,"w":292,"h":218},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":292,"h":218},
+	"sourceSize": {"w":292,"h":218}
+},
+"stars":
+{
+	"frame": {"x":240,"y":1505,"w":124,"h":131},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":131},
+	"sourceSize": {"w":124,"h":131}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "risk.png",
+	"format": "RGBA8888",
+	"size": {"w":365,"h":2003},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6c2cb1f268d6d58f7db5299f66ccfb09:602e07443c7a963451ee2b0a5f5965fc:b4983291c8b70c591d7a7117d24a6ce5$"
+}
+}

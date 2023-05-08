@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 1033,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_sparks
+  rotate: true
+  xy: 2, 2
+  size: 451, 713
+  orig: 451, 713
+  offset: 0, 0
+  index: -1
+dragon_sparks1
+  rotate: true
+  xy: 717, 95
+  size: 358, 314
+  orig: 358, 314
+  offset: 0, 0
+  index: -1

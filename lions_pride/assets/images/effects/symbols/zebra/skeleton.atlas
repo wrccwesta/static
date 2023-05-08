@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hoof2
+  rotate: true
+  xy: 625, 94
+  size: 143, 166
+  orig: 143, 166
+  offset: 0, 0
+  index: -1
+zebra_bg
+  rotate: false
+  xy: 2, 21
+  size: 266, 216
+  orig: 266, 216
+  offset: 0, 0
+  index: -1
+zebra_body
+  rotate: false
+  xy: 468, 79
+  size: 155, 158
+  orig: 155, 158
+  offset: 0, 0
+  index: -1
+zebra_ear
+  rotate: true
+  xy: 2, 2
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+zebra_head
+  rotate: false
+  xy: 850, 138
+  size: 60, 99
+  orig: 60, 99
+  offset: 0, 0
+  index: -1
+zebra_light
+  rotate: false
+  xy: 270, 43
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+zebra_neck
+  rotate: false
+  xy: 793, 121
+  size: 55, 116
+  orig: 55, 116
+  offset: 0, 0
+  index: -1

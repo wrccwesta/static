@@ -1,0 +1,467 @@
+
+skeleton.png
+size: 2031,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chalice/body
+  rotate: false
+  xy: 1700, 21
+  size: 84, 200
+  orig: 117, 205
+  offset: 17, 1
+  index: -1
+chalice/card
+  rotate: false
+  xy: 1827, 1765
+  size: 202, 281
+  orig: 204, 283
+  offset: 1, 1
+  index: -1
+clubs/card
+  rotate: false
+  xy: 1827, 1482
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+crown/card
+  rotate: false
+  xy: 1827, 1199
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+diamonds/card
+  rotate: false
+  xy: 1827, 916
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+hearts/card
+  rotate: false
+  xy: 1827, 633
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+hunter/border
+  rotate: false
+  xy: 1827, 350
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+hunter/card
+  rotate: false
+  xy: 1827, 67
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+hunter/eyes
+  rotate: false
+  xy: 2, 2
+  size: 75, 15
+  orig: 77, 17
+  offset: 1, 1
+  index: -1
+king/border
+  rotate: true
+  xy: 2, 19
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+king/card
+  rotate: true
+  xy: 285, 19
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+king/eyes
+  rotate: false
+  xy: 79, 3
+  size: 66, 14
+  orig: 68, 16
+  offset: 1, 1
+  index: -1
+main/main 2_00000
+  rotate: false
+  xy: 2, 1683
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00001
+  rotate: false
+  xy: 2, 1318
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00002
+  rotate: false
+  xy: 2, 953
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00004
+  rotate: false
+  xy: 2, 588
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00006
+  rotate: false
+  xy: 2, 223
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00008
+  rotate: false
+  xy: 367, 1683
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00010
+  rotate: false
+  xy: 367, 1318
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00012
+  rotate: false
+  xy: 367, 953
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00014
+  rotate: false
+  xy: 367, 588
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00016
+  rotate: false
+  xy: 367, 223
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00018
+  rotate: false
+  xy: 732, 1683
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00020
+  rotate: false
+  xy: 732, 1318
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00022
+  rotate: false
+  xy: 732, 953
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00024
+  rotate: false
+  xy: 732, 588
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00026
+  rotate: false
+  xy: 732, 223
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00028
+  rotate: false
+  xy: 1097, 1683
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00030
+  rotate: false
+  xy: 1097, 1318
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00032
+  rotate: false
+  xy: 1097, 953
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00034
+  rotate: false
+  xy: 1097, 588
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00036
+  rotate: false
+  xy: 1097, 223
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00038
+  rotate: false
+  xy: 1462, 1683
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00040
+  rotate: false
+  xy: 1462, 1318
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00042
+  rotate: false
+  xy: 1462, 953
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00044
+  rotate: false
+  xy: 1462, 588
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00046
+  rotate: false
+  xy: 1462, 223
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+queen/border
+  rotate: true
+  xy: 568, 19
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+queen/card
+  rotate: true
+  xy: 851, 19
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+queen/eyes
+  rotate: false
+  xy: 147, 4
+  size: 70, 13
+  orig: 72, 16
+  offset: 1, 1
+  index: -1
+queen/eyesshine
+  rotate: false
+  xy: 1700, 2
+  size: 75, 17
+  orig: 78, 19
+  offset: 2, 1
+  index: -1
+queen/mouth
+  rotate: true
+  xy: 1786, 73
+  size: 63, 37
+  orig: 64, 38
+  offset: 1, 0
+  index: -1
+queen/queenFace2
+  rotate: true
+  xy: 1786, 138
+  size: 83, 35
+  orig: 85, 37
+  offset: 1, 1
+  index: -1
+queen/queenHair2
+  rotate: true
+  xy: 1786, 2
+  size: 63, 169
+  orig: 66, 171
+  offset: 1, 1
+  index: -1
+spades/card
+  rotate: true
+  xy: 1134, 19
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+sticky-border
+  rotate: true
+  xy: 1417, 19
+  size: 202, 281
+  orig: 202, 281
+  offset: 0, 0
+  index: -1
+sticky-lock-light
+  rotate: true
+  xy: 1957, 6
+  size: 59, 64
+  orig: 59, 65
+  offset: 0, 1
+  index: -1
+
+skeleton2.png
+size: 2018,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild
+  rotate: false
+  xy: 1024, 53
+  size: 138, 74
+  orig: 142, 77
+  offset: 2, 1
+  index: -1
+clubs/gem
+  rotate: true
+  xy: 1791, 48
+  size: 139, 137
+  orig: 139, 137
+  offset: 0, 0
+  index: -1
+crown/ace
+  rotate: false
+  xy: 1526, 177
+  size: 145, 214
+  orig: 145, 215
+  offset: 0, 1
+  index: -1
+diamonds/gem
+  rotate: true
+  xy: 875, 31
+  size: 96, 147
+  orig: 96, 147
+  offset: 0, 0
+  index: -1
+hearts/gem
+  rotate: false
+  xy: 1380, 2
+  size: 141, 129
+  orig: 141, 152
+  offset: 0, 0
+  index: -1
+hunter/body
+  rotate: false
+  xy: 981, 129
+  size: 202, 262
+  orig: 202, 262
+  offset: 0, 0
+  index: -1
+king/body
+  rotate: false
+  xy: 1185, 121
+  size: 193, 270
+  orig: 193, 270
+  offset: 0, 0
+  index: -1
+main/main 2_00048
+  rotate: false
+  xy: 2, 28
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+main/main 2_00049
+  rotate: false
+  xy: 367, 28
+  size: 363, 363
+  orig: 363, 363
+  offset: 0, 0
+  index: -1
+queen/body
+  rotate: true
+  xy: 1791, 189
+  size: 202, 126
+  orig: 204, 141
+  offset: 1, 1
+  index: -1
+queen/head
+  rotate: true
+  xy: 732, 26
+  size: 104, 141
+  orig: 106, 143
+  offset: 1, 1
+  index: -1
+queen/queenFace1
+  rotate: false
+  xy: 1930, 131
+  size: 63, 59
+  orig: 65, 61
+  offset: 1, 1
+  index: -1
+queen/queenHairBase1
+  rotate: false
+  xy: 1673, 148
+  size: 116, 243
+  orig: 116, 243
+  offset: 0, 0
+  index: -1
+queen/queenHairBase2
+  rotate: false
+  xy: 1380, 133
+  size: 144, 258
+  orig: 144, 258
+  offset: 0, 0
+  index: -1
+shine-pink
+  rotate: true
+  xy: 732, 132
+  size: 259, 247
+  orig: 276, 261
+  offset: 3, 4
+  index: -1
+spades/gem
+  rotate: false
+  xy: 1526, 41
+  size: 136, 134
+  orig: 136, 134
+  offset: 0, 0
+  index: -1
+sticky-lock
+  rotate: false
+  xy: 1919, 192
+  size: 69, 80
+  orig: 71, 81
+  offset: 1, 1
+  index: -1
+sticky-side
+  rotate: false
+  xy: 1919, 274
+  size: 97, 117
+  orig: 99, 118
+  offset: 1, 1
+  index: -1

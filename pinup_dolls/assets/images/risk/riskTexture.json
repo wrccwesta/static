@@ -1,0 +1,52 @@
+{"frames": {
+
+"btn-get":
+{
+	"frame": {"x":0,"y":0,"w":161,"h":109},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":109},
+	"sourceSize": {"w":161,"h":109}
+},
+"btn-play":
+{
+	"frame": {"x":0,"y":109,"w":176,"h":117},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":176,"h":117},
+	"sourceSize": {"w":176,"h":117}
+},
+"Buy":
+{
+	"frame": {"x":0,"y":226,"w":163,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":163,"h":121},
+	"sourceSize": {"w":163,"h":121}
+},
+"divider":
+{
+	"frame": {"x":0,"y":347,"w":99,"h":1},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":1},
+	"sourceSize": {"w":99,"h":1}
+},
+"Risk":
+{
+	"frame": {"x":0,"y":348,"w":175,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":95},
+	"sourceSize": {"w":175,"h":95}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "riskTexture.png",
+	"format": "RGBA8888",
+	"size": {"w":176,"h":443},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:910bed4cce33fbdd6e1b2d6e524a4c09:7937d4d981f9eacade76c86fad2a6182:b4983291c8b70c591d7a7117d24a6ce5$"
+}
+}

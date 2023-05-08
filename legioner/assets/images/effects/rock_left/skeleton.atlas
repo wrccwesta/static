@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 1872,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_1
+  rotate: false
+  xy: 2, 2
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_10
+  rotate: false
+  xy: 686, 16
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_11
+  rotate: false
+  xy: 1028, 74
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_12
+  rotate: false
+  xy: 1370, 74
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_2
+  rotate: false
+  xy: 344, 2
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_3
+  rotate: false
+  xy: 698, 722
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_4
+  rotate: false
+  xy: 1040, 722
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_5
+  rotate: false
+  xy: 1382, 722
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_6
+  rotate: true
+  xy: 467, 340
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_7
+  rotate: false
+  xy: 791, 398
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_8
+  rotate: false
+  xy: 1133, 398
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_9
+  rotate: false
+  xy: 1475, 398
+  size: 340, 322
+  orig: 340, 322
+  offset: 0, 0
+  index: -1
+fire_spark
+  rotate: false
+  xy: 791, 352
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+rock_body
+  rotate: false
+  xy: 2, 682
+  size: 694, 362
+  orig: 694, 362
+  offset: 0, 0
+  index: -1
+rock_fire3
+  rotate: false
+  xy: 2, 326
+  size: 463, 354
+  orig: 463, 354
+  offset: 0, 0
+  index: -1
+rock_helm
+  rotate: false
+  xy: 1712, 159
+  size: 158, 237
+  orig: 158, 237
+  offset: 0, 0
+  index: -1
+rock_helm_back
+  rotate: true
+  xy: 1724, 860
+  size: 184, 105
+  orig: 184, 105
+  offset: 0, 0
+  index: -1
+rock_helm_light
+  rotate: true
+  xy: 1724, 733
+  size: 125, 139
+  orig: 125, 139
+  offset: 0, 0
+  index: -1
+rock_helm_shadow
+  rotate: false
+  xy: 1712, 76
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1

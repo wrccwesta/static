@@ -1,0 +1,102 @@
+{"frames": {
+
+"betlines_box":
+{
+	"frame": {"x":1,"y":951,"w":83,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":53},
+	"sourceSize": {"w":83,"h":53}
+},
+"betlines_normal":
+{
+	"frame": {"x":86,"y":995,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"betlines_win":
+{
+	"frame": {"x":101,"y":995,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"f_black_wild":
+{
+	"frame": {"x":236,"y":1,"w":245,"h":337},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":1,"w":245,"h":337},
+	"sourceSize": {"w":280,"h":370}
+},
+"f_pink_wild":
+{
+	"frame": {"x":236,"y":676,"w":245,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":6,"w":245,"h":332},
+	"sourceSize": {"w":280,"h":370}
+},
+"f_yellow_wild":
+{
+	"frame": {"x":236,"y":340,"w":245,"h":334},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":4,"w":245,"h":334},
+	"sourceSize": {"w":280,"h":370}
+},
+"soldier-wild-x3":
+{
+	"frame": {"x":1,"y":1,"w":233,"h":948},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":48,"w":233,"h":948},
+	"sourceSize": {"w":280,"h":998}
+},
+"table_close_hover":
+{
+	"frame": {"x":86,"y":951,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"table_close_normal":
+{
+	"frame": {"x":86,"y":973,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"table_scroll_bar":
+{
+	"frame": {"x":483,"y":1,"w":7,"h":745},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":745},
+	"sourceSize": {"w":7,"h":745}
+},
+"table_scroll_tool":
+{
+	"frame": {"x":483,"y":748,"w":7,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":121},
+	"sourceSize": {"w":7,"h":121}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paytable.png",
+	"format": "RGBA8888",
+	"size": {"w":491,"h":1009},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5e7f8de5052ecdc5accd7b2ab5ea2fa7:ae4637142b0a09507d367c41de311a1d:0f68fea9f431d65eb54c267865589464$"
+}
+}

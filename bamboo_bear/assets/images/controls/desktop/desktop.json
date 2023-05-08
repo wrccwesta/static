@@ -1,0 +1,164 @@
+{"frames": {
+
+"btn_autoplay_active":
+{
+	"frame": {"x":994,"y":102,"w":261,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":261,"h":106},
+	"sourceSize": {"w":261,"h":106}
+},
+"btn_autoplay_hover":
+{
+	"frame": {"x":994,"y":210,"w":261,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":261,"h":106},
+	"sourceSize": {"w":261,"h":106}
+},
+"btn_autoplay_inactive":
+{
+	"frame": {"x":1257,"y":102,"w":261,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":261,"h":106},
+	"sourceSize": {"w":261,"h":106}
+},
+"btn_autoplay_press":
+{
+	"frame": {"x":1257,"y":210,"w":261,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":261,"h":106},
+	"sourceSize": {"w":261,"h":106}
+},
+"btn_maxbet_active":
+{
+	"frame": {"x":466,"y":102,"w":262,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":106},
+	"sourceSize": {"w":262,"h":106}
+},
+"btn_maxbet_hover":
+{
+	"frame": {"x":466,"y":210,"w":262,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":106},
+	"sourceSize": {"w":262,"h":106}
+},
+"btn_maxbet_inactive":
+{
+	"frame": {"x":730,"y":102,"w":262,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":106},
+	"sourceSize": {"w":262,"h":106}
+},
+"btn_maxbet_press":
+{
+	"frame": {"x":730,"y":210,"w":262,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":262,"h":106},
+	"sourceSize": {"w":262,"h":106}
+},
+"btn_small_active":
+{
+	"frame": {"x":299,"y":102,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_hover":
+{
+	"frame": {"x":335,"y":102,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_inactive":
+{
+	"frame": {"x":371,"y":102,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_press":
+{
+	"frame": {"x":407,"y":102,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_spin_active":
+{
+	"frame": {"x":1,"y":167,"w":153,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":152},
+	"sourceSize": {"w":153,"h":152}
+},
+"btn_spin_hover":
+{
+	"frame": {"x":1,"y":1,"w":165,"h":164},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":164},
+	"sourceSize": {"w":165,"h":164}
+},
+"btn_spin_inactive":
+{
+	"frame": {"x":156,"y":167,"w":153,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":152},
+	"sourceSize": {"w":153,"h":152}
+},
+"btn_spin_press":
+{
+	"frame": {"x":311,"y":138,"w":153,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":153,"h":152},
+	"sourceSize": {"w":153,"h":152}
+},
+"icn_spin_active":
+{
+	"frame": {"x":168,"y":102,"w":72,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":61},
+	"sourceSize": {"w":72,"h":61}
+},
+"icn_spin_inactive":
+{
+	"frame": {"x":242,"y":102,"w":55,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":55},
+	"sourceSize": {"w":55,"h":55}
+},
+"panel":
+{
+	"frame": {"x":168,"y":1,"w":1401,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1401,"h":99},
+	"sourceSize": {"w":1401,"h":99}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "desktop.png",
+	"format": "RGBA8888",
+	"size": {"w":1570,"h":320},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:081fa19d7dce6b5239c193bd220bca8b:a9558909a0c216b50b860afc1b032fe1:0b077c73a0795f36362c69075e5df9fe$"
+}
+}

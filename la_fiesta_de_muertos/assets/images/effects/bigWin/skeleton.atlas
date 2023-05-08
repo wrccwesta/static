@@ -1,0 +1,11 @@
+skeleton.png
+size:1249,660
+filter:Linear,Linear
+bigWin/bigElectricity_00000
+bounds:680,89,569,567
+offsets:656,258,1920,1080
+rotate:90
+bigWin/bigFire_00000
+bounds:2,2,656,676
+offsets:578,192,1920,1080
+rotate:90

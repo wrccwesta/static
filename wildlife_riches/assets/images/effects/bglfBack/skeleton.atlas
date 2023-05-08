@@ -1,0 +1,13 @@
+skeleton.png
+size:1924,954
+filter:Linear,Linear
+bglf/sky
+bounds:2,2,1920,950
+offsets:0,166,1920,1116
+
+skeleton_2.png
+size:1269,1269
+filter:Linear,Linear
+bglf/sun
+bounds:2,2,1265,1265
+offsets:40,39,1344,1344

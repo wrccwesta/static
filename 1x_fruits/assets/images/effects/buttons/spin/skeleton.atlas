@@ -1,0 +1,14 @@
+skeleton.png
+size:469,335
+filter:Linear,Linear
+fx_circle_yellow
+bounds:2,14,319,319
+fx_spark1
+bounds:391,29,36,35
+spin_icon
+bounds:323,2,62,66
+rotate:90
+spin_light
+bounds:323,66,132,130
+spin_normal
+bounds:323,198,144,135

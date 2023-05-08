@@ -1,0 +1,116 @@
+{"frames": {
+
+"bg_chains":
+{
+	"frame": {"x":398,"y":163,"w":73,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":216},
+	"sourceSize": {"w":73,"h":216}
+},
+"buy_bg":
+{
+	"frame": {"x":0,"y":587,"w":246,"h":639},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":639},
+	"sourceSize": {"w":246,"h":639}
+},
+"buy_btn":
+{
+	"frame": {"x":166,"y":0,"w":137,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":68},
+	"sourceSize": {"w":137,"h":68}
+},
+"buy_btn_ru":
+{
+	"frame": {"x":0,"y":68,"w":187,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":57},
+	"sourceSize": {"w":187,"h":57}
+},
+"buy_lamp":
+{
+	"frame": {"x":0,"y":379,"w":230,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":230,"h":208},
+	"sourceSize": {"w":230,"h":208}
+},
+"coins":
+{
+	"frame": {"x":342,"y":68,"w":165,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":95},
+	"sourceSize": {"w":165,"h":95}
+},
+"divider":
+{
+	"frame": {"x":0,"y":0,"w":166,"h":1},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":1},
+	"sourceSize": {"w":166,"h":1}
+},
+"risk_bg":
+{
+	"frame": {"x":246,"y":587,"w":246,"h":639},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":639},
+	"sourceSize": {"w":246,"h":639}
+},
+"risk_btn":
+{
+	"frame": {"x":303,"y":0,"w":150,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":68},
+	"sourceSize": {"w":150,"h":68}
+},
+"risk_btn_ru":
+{
+	"frame": {"x":0,"y":163,"w":211,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":211,"h":53},
+	"sourceSize": {"w":211,"h":53}
+},
+"risk_lamp":
+{
+	"frame": {"x":230,"y":379,"w":230,"h":208},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":230,"h":208},
+	"sourceSize": {"w":230,"h":208}
+},
+"btn-get":
+{
+	"frame": {"x":187,"y":68,"w":155,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":155,"h":90},
+	"sourceSize": {"w":155,"h":90}
+},
+"btn-play":
+{
+	"frame": {"x":211,"y":163,"w":187,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":187,"h":90},
+	"sourceSize": {"w":187,"h":90}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "riskTexture.png",
+	"format": "RGBA8888",
+	"size": {"w":507,"h":1226},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9e5abe710b90c47ed0149514c61c7840:fe5ff3f66d1270a0728dbfd64ab69cde:3867469fc5c7f50b8cbdf862f51cbce1$"
+}
+}

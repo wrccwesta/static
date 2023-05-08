@@ -1,0 +1,17 @@
+skeleton.png
+size:254,500
+filter:Linear,Linear
+bonusGame/bottle
+bounds:2,197,188,233
+offsets:60,28,266,269
+rotate:90
+bonusGame/crackedBottle
+bounds:2,2,193,235
+offsets:59,23,266,268
+rotate:90
+bonusGame/paper
+bounds:103,387,149,111
+offsets:14,144,266,268
+fxs/dust
+bounds:2,403,99,95
+offsets:1,1,100,98

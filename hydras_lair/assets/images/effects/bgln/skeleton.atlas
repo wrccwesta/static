@@ -1,0 +1,13 @@
+skeleton.png
+size:1227,1067
+filter:Linear,Linear
+bubble
+bounds:1191,1031,34,34
+offsets:8,8,50,50
+rays
+bounds:2,2,1063,1187
+offsets:104,62,1183,1249
+rotate:90
+spark
+bounds:1191,995,34,34
+offsets:3,3,40,40

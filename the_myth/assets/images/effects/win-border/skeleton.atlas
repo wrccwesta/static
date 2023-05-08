@@ -1,0 +1,660 @@
+
+skeleton.jpg
+size: 1808,905
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+myth-fire/myth-fire_00000
+  rotate: false
+  xy: 2, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00001
+  rotate: false
+  xy: 2, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00002
+  rotate: false
+  xy: 2, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00003
+  rotate: false
+  xy: 303, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00004
+  rotate: false
+  xy: 303, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00005
+  rotate: false
+  xy: 303, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00006
+  rotate: false
+  xy: 604, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00007
+  rotate: false
+  xy: 604, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00008
+  rotate: false
+  xy: 604, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00009
+  rotate: false
+  xy: 905, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00010
+  rotate: false
+  xy: 905, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00011
+  rotate: false
+  xy: 905, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00012
+  rotate: false
+  xy: 1206, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00013
+  rotate: false
+  xy: 1206, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00014
+  rotate: false
+  xy: 1206, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00015
+  rotate: false
+  xy: 1507, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00016
+  rotate: false
+  xy: 1507, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00017
+  rotate: false
+  xy: 1507, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+
+skeleton2.jpg
+size: 1808,905
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+myth-fire/myth-fire_00018
+  rotate: false
+  xy: 2, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00019
+  rotate: false
+  xy: 2, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00020
+  rotate: false
+  xy: 2, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00021
+  rotate: false
+  xy: 303, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00022
+  rotate: false
+  xy: 303, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00023
+  rotate: false
+  xy: 303, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00024
+  rotate: false
+  xy: 604, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00025
+  rotate: false
+  xy: 604, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00026
+  rotate: false
+  xy: 604, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00027
+  rotate: false
+  xy: 905, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00028
+  rotate: false
+  xy: 905, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00029
+  rotate: false
+  xy: 905, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00030
+  rotate: false
+  xy: 1206, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00031
+  rotate: false
+  xy: 1206, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00032
+  rotate: false
+  xy: 1206, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00033
+  rotate: false
+  xy: 1507, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00034
+  rotate: false
+  xy: 1507, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00035
+  rotate: false
+  xy: 1507, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+
+skeleton3.jpg
+size: 1808,905
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+myth-fire/myth-fire_00036
+  rotate: false
+  xy: 2, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00037
+  rotate: false
+  xy: 2, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00038
+  rotate: false
+  xy: 2, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00039
+  rotate: false
+  xy: 303, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00040
+  rotate: false
+  xy: 303, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00041
+  rotate: false
+  xy: 303, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00042
+  rotate: false
+  xy: 604, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00043
+  rotate: false
+  xy: 604, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00044
+  rotate: false
+  xy: 604, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00045
+  rotate: false
+  xy: 905, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00046
+  rotate: false
+  xy: 905, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00047
+  rotate: false
+  xy: 905, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00048
+  rotate: false
+  xy: 1206, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00049
+  rotate: false
+  xy: 1206, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00050
+  rotate: false
+  xy: 1206, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00051
+  rotate: false
+  xy: 1507, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00052
+  rotate: false
+  xy: 1507, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00053
+  rotate: false
+  xy: 1507, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+
+skeleton4.jpg
+size: 1808,905
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+myth-fire/myth-fire_00054
+  rotate: false
+  xy: 2, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00055
+  rotate: false
+  xy: 2, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00056
+  rotate: false
+  xy: 2, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00057
+  rotate: false
+  xy: 303, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00058
+  rotate: false
+  xy: 303, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00059
+  rotate: false
+  xy: 303, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00060
+  rotate: false
+  xy: 604, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00061
+  rotate: false
+  xy: 604, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00062
+  rotate: false
+  xy: 604, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00063
+  rotate: false
+  xy: 905, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00064
+  rotate: false
+  xy: 905, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00065
+  rotate: false
+  xy: 905, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00066
+  rotate: false
+  xy: 1206, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00067
+  rotate: false
+  xy: 1206, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00068
+  rotate: false
+  xy: 1206, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00069
+  rotate: false
+  xy: 1507, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00070
+  rotate: false
+  xy: 1507, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00071
+  rotate: false
+  xy: 1507, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+
+skeleton5.jpg
+size: 1808,905
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+myth-fire/myth-fire_00072
+  rotate: false
+  xy: 2, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00073
+  rotate: false
+  xy: 2, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00074
+  rotate: false
+  xy: 2, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00075
+  rotate: false
+  xy: 303, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00076
+  rotate: false
+  xy: 303, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00077
+  rotate: false
+  xy: 303, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00078
+  rotate: false
+  xy: 604, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00079
+  rotate: false
+  xy: 604, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00080
+  rotate: false
+  xy: 604, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00081
+  rotate: false
+  xy: 905, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00082
+  rotate: false
+  xy: 905, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00083
+  rotate: false
+  xy: 905, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00084
+  rotate: false
+  xy: 1206, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00085
+  rotate: false
+  xy: 1206, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00086
+  rotate: false
+  xy: 1206, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00087
+  rotate: false
+  xy: 1507, 604
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00088
+  rotate: false
+  xy: 1507, 303
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1
+myth-fire/myth-fire_00089
+  rotate: false
+  xy: 1507, 2
+  size: 299, 299
+  orig: 299, 299
+  offset: 0, 0
+  index: -1

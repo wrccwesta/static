@@ -1,0 +1,233 @@
+{"frames": {
+
+"10":
+{
+	"frame": {"x":1603,"y":1,"w":284,"h":304},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":28,"w":284,"h":304},
+	"sourceSize": {"w":360,"h":360}
+},
+"A":
+{
+	"frame": {"x":1603,"y":287,"w":284,"h":304},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":28,"w":284,"h":304},
+	"sourceSize": {"w":360,"h":360}
+},
+"box-x2":
+{
+	"frame": {"x":180,"y":1256,"w":177,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":32,"w":177,"h":137},
+	"sourceSize": {"w":200,"h":200}
+},
+"box-x3":
+{
+	"frame": {"x":359,"y":1256,"w":177,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":32,"w":177,"h":137},
+	"sourceSize": {"w":200,"h":200}
+},
+"box-x5":
+{
+	"frame": {"x":1,"y":1256,"w":177,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":31,"w":177,"h":140},
+	"sourceSize": {"w":200,"h":200}
+},
+"butcher":
+{
+	"frame": {"x":943,"y":922,"w":284,"h":331},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":1,"w":284,"h":331},
+	"sourceSize": {"w":360,"h":360}
+},
+"ghost":
+{
+	"frame": {"x":955,"y":335,"w":299,"h":331},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":1,"w":299,"h":331},
+	"sourceSize": {"w":360,"h":360}
+},
+"guns":
+{
+	"frame": {"x":1288,"y":621,"w":284,"h":304},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":28,"w":284,"h":304},
+	"sourceSize": {"w":360,"h":360}
+},
+"J":
+{
+	"frame": {"x":1603,"y":573,"w":284,"h":304},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":28,"w":284,"h":304},
+	"sourceSize": {"w":360,"h":360}
+},
+"K":
+{
+	"frame": {"x":637,"y":913,"w":284,"h":304},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":28,"w":284,"h":304},
+	"sourceSize": {"w":360,"h":360}
+},
+"man-wild":
+{
+	"frame": {"x":1288,"y":335,"w":284,"h":313},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":19,"w":284,"h":313},
+	"sourceSize": {"w":360,"h":360}
+},
+"man-x2":
+{
+	"frame": {"x":1,"y":938,"w":316,"h":624},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":38,"w":316,"h":624},
+	"sourceSize": {"w":360,"h":690}
+},
+"man-x3":
+{
+	"frame": {"x":1,"y":1,"w":316,"h":935},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":37,"w":316,"h":935},
+	"sourceSize": {"w":360,"h":1000}
+},
+"man":
+{
+	"frame": {"x":637,"y":627,"w":284,"h":313},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":19,"w":284,"h":313},
+	"sourceSize": {"w":360,"h":360}
+},
+"monster":
+{
+	"frame": {"x":933,"y":1208,"w":284,"h":328},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":4,"w":284,"h":328},
+	"sourceSize": {"w":360,"h":360}
+},
+"necronomicon":
+{
+	"frame": {"x":1594,"y":859,"w":284,"h":304},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":28,"w":284,"h":304},
+	"sourceSize": {"w":360,"h":360}
+},
+"paytable_man":
+{
+	"frame": {"x":1263,"y":1208,"w":164,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":32,"w":164,"h":151},
+	"sourceSize": {"w":200,"h":200}
+},
+"paytable_monster":
+{
+	"frame": {"x":1416,"y":1193,"w":164,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":32,"w":164,"h":151},
+	"sourceSize": {"w":200,"h":200}
+},
+"paytable_witch":
+{
+	"frame": {"x":1416,"y":1346,"w":164,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":32,"w":164,"h":151},
+	"sourceSize": {"w":200,"h":200}
+},
+"Q":
+{
+	"frame": {"x":627,"y":1199,"w":284,"h":304},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":28,"w":284,"h":304},
+	"sourceSize": {"w":360,"h":360}
+},
+"saw":
+{
+	"frame": {"x":1286,"y":907,"w":284,"h":304},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":28,"w":284,"h":304},
+	"sourceSize": {"w":360,"h":360}
+},
+"wild-man-x2":
+{
+	"frame": {"x":637,"y":1,"w":316,"h":624},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":38,"w":316,"h":624},
+	"sourceSize": {"w":360,"h":690}
+},
+"wild-man-x3":
+{
+	"frame": {"x":319,"y":1,"w":316,"h":935},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":37,"w":316,"h":935},
+	"sourceSize": {"w":360,"h":1000}
+},
+"wild-monster":
+{
+	"frame": {"x":1592,"y":1145,"w":284,"h":328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":4,"w":284,"h":328},
+	"sourceSize": {"w":360,"h":360}
+},
+"wild-witch":
+{
+	"frame": {"x":955,"y":1,"w":322,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":322,"h":332},
+	"sourceSize": {"w":360,"h":360}
+},
+"witch":
+{
+	"frame": {"x":1279,"y":1,"w":322,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":322,"h":332},
+	"sourceSize": {"w":360,"h":360}
+},
+"zombie":
+{
+	"frame": {"x":952,"y":636,"w":284,"h":332},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":0,"w":284,"h":332},
+	"sourceSize": {"w":360,"h":360}
+}},
+"animations": {
+	"box-x": ["box-x2","box-x3","box-x5"],
+	"man-x": ["man-x2","man-x3"],
+	"wild-man-x": ["wild-man-x2","wild-man-x3"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":1908,"h":1498},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bf9b9ca95532d339c371a5b135587aed:4c529b995d8296d39452e0ada15e07b6:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

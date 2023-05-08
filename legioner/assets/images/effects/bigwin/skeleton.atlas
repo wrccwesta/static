@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 885,313
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin1
+  rotate: false
+  xy: 626, 190
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: true
+  xy: 762, 177
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 626, 67
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: true
+  xy: 762, 41
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+fire_spark
+  rotate: true
+  xy: 626, 19
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+rock_fire1
+  rotate: true
+  xy: 2, 10
+  size: 301, 353
+  orig: 301, 353
+  offset: 0, 0
+  index: -1
+rock_light
+  rotate: true
+  xy: 357, 2
+  size: 309, 267
+  orig: 309, 267
+  offset: 0, 0
+  index: -1

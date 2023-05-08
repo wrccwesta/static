@@ -1,0 +1,244 @@
+
+skeleton.png
+size: 1786,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A/letter
+  rotate: true
+  xy: 1627, 357
+  size: 106, 140
+  orig: 108, 142
+  offset: 1, 1
+  index: -1
+A_special/letter
+  rotate: false
+  xy: 616, 294
+  size: 112, 146
+  orig: 112, 146
+  offset: 0, 0
+  index: -1
+Amaterasu/ama-bg
+  rotate: false
+  xy: 780, 470
+  size: 284, 284
+  orig: 286, 286
+  offset: 1, 1
+  index: -1
+Amaterasu/ama-bg-spec
+  rotate: false
+  xy: 655, 2
+  size: 290, 290
+  orig: 292, 292
+  offset: 1, 1
+  index: -1
+Amaterasu/ama-body
+  rotate: true
+  xy: 1075, 294
+  size: 175, 137
+  orig: 175, 137
+  offset: 0, 0
+  index: -1
+Amaterasu/ama-earring1
+  rotate: true
+  xy: 663, 442
+  size: 14, 57
+  orig: 14, 57
+  offset: 0, 0
+  index: -1
+Amaterasu/ama-earring2
+  rotate: true
+  xy: 1666, 216
+  size: 23, 79
+  orig: 23, 79
+  offset: 0, 0
+  index: -1
+Amaterasu/ama-eyes
+  rotate: false
+  xy: 1209, 2
+  size: 103, 18
+  orig: 104, 19
+  offset: 1, 1
+  index: -1
+Amaterasu/ama-hair1
+  rotate: true
+  xy: 1627, 465
+  size: 65, 144
+  orig: 66, 144
+  offset: 1, 0
+  index: -1
+Amaterasu/ama-hair2
+  rotate: true
+  xy: 1627, 284
+  size: 71, 140
+  orig: 72, 141
+  offset: 0, 0
+  index: -1
+Amaterasu/ama-head
+  rotate: false
+  xy: 328, 12
+  size: 325, 270
+  orig: 325, 271
+  offset: 0, 0
+  index: -1
+Amaterasu/ama-headpiece1
+  rotate: true
+  xy: 1622, 532
+  size: 28, 99
+  orig: 28, 99
+  offset: 0, 0
+  index: -1
+Amaterasu/ama-headpiece2
+  rotate: true
+  xy: 1625, 241
+  size: 41, 91
+  orig: 41, 91
+  offset: 0, 0
+  index: -1
+Amaterasu/shine
+  rotate: true
+  xy: 413, 442
+  size: 312, 248
+  orig: 315, 251
+  offset: 1, 2
+  index: -1
+Cat/cat
+  rotate: false
+  xy: 1436, 302
+  size: 189, 222
+  orig: 192, 222
+  offset: 0, 0
+  index: -1
+Cat_special/cat
+  rotate: false
+  xy: 1425, 526
+  size: 195, 228
+  orig: 195, 228
+  offset: 0, 0
+  index: -1
+Coin/coin
+  rotate: true
+  xy: 892, 294
+  size: 174, 181
+  orig: 186, 233
+  offset: 0, 20
+  index: -1
+Coin_special/coin
+  rotate: false
+  xy: 1459, 13
+  size: 205, 219
+  orig: 205, 233
+  offset: 0, 8
+  index: -1
+Flower/lotos copy
+  rotate: true
+  xy: 1233, 484
+  size: 270, 190
+  orig: 270, 190
+  offset: 0, 0
+  index: -1
+Flower_special/lotos copy
+  rotate: true
+  xy: 2, 6
+  size: 276, 196
+  orig: 276, 196
+  offset: 0, 0
+  index: -1
+J/letter
+  rotate: true
+  xy: 1622, 562
+  size: 60, 158
+  orig: 62, 160
+  offset: 1, 1
+  index: -1
+J_special/letter
+  rotate: true
+  xy: 1459, 234
+  size: 66, 164
+  orig: 66, 164
+  offset: 0, 0
+  index: -1
+K/letter
+  rotate: true
+  xy: 490, 284
+  size: 156, 124
+  orig: 158, 126
+  offset: 1, 1
+  index: -1
+K_special/letter
+  rotate: false
+  xy: 1622, 624
+  size: 162, 130
+  orig: 162, 130
+  offset: 0, 0
+  index: -1
+Mask/mask
+  rotate: true
+  xy: 1209, 22
+  size: 270, 248
+  orig: 270, 248
+  offset: 0, 0
+  index: -1
+Mask_special/mask
+  rotate: true
+  xy: 947, 10
+  size: 282, 260
+  orig: 282, 260
+  offset: 0, 0
+  index: -1
+Q/letter
+  rotate: false
+  xy: 332, 284
+  size: 156, 154
+  orig: 158, 156
+  offset: 1, 1
+  index: -1
+Q_special/letter
+  rotate: true
+  xy: 730, 294
+  size: 162, 160
+  orig: 162, 160
+  offset: 0, 0
+  index: -1
+extrafree
+  rotate: true
+  xy: 663, 458
+  size: 296, 115
+  orig: 311, 124
+  offset: 7, 5
+  index: -1
+free
+  rotate: false
+  xy: 1214, 298
+  size: 220, 171
+  orig: 235, 183
+  offset: 7, 8
+  index: -1
+shine-pink
+  rotate: true
+  xy: 2, 284
+  size: 470, 328
+  orig: 487, 353
+  offset: 6, 9
+  index: -1
+wildscat(book)/ray
+  rotate: false
+  xy: 332, 440
+  size: 79, 314
+  orig: 93, 343
+  offset: 7, 29
+  index: -1
+wildscat(book)/scatter-book
+  rotate: true
+  xy: 1066, 471
+  size: 283, 165
+  orig: 283, 165
+  offset: 0, 0
+  index: -1
+wildscat(book)/scatter-word
+  rotate: true
+  xy: 200, 11
+  size: 271, 126
+  orig: 287, 137
+  offset: 7, 6
+  index: -1

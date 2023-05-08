@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 1001,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_table_shine
+  rotate: false
+  xy: 2, 2
+  size: 997, 9
+  orig: 997, 9
+  offset: 0, 0
+  index: -1

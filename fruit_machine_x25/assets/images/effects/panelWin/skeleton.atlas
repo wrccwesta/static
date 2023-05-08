@@ -1,0 +1,11 @@
+skeleton.png
+size:237,198
+filter:Linear,Linear
+panels/arrow
+bounds:2,132,147,64
+panels/arrowLight
+bounds:2,2,191,112
+offsets:12,10,213,132
+panels/light
+bounds:151,116,84,80
+offsets:8,11,100,100

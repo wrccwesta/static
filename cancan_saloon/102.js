@@ -1,0 +1,2 @@
+/*! @mascot-banner branch: master - commit: eec7ab288d9808d47857735ff89bf963ec3bdcf9 */
+"use strict";(self.webpackChunkcancan_saloon=self.webpackChunkcancan_saloon||[]).push([[102],{7102:(a,s,e)=>{e.r(s),e.d(s,{ANALYTICS:()=>p});var n=e(8511),c=e(6950),p=(0,n.cp)({app:"mascot-games",version:"1.0.0",plugins:[(0,c.Z)({measurementIds:["G-3273EBNHSB"],debug:!0})]})}}]);

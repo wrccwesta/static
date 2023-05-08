@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 441,955
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl-5/body
+  rotate: false
+  xy: 2, 482
+  size: 307, 471
+  orig: 309, 471
+  offset: 2, 0
+  index: -1
+girl-5/hand-1
+  rotate: false
+  xy: 238, 9
+  size: 198, 143
+  orig: 198, 143
+  offset: 0, 0
+  index: -1
+girl-5/hand-2
+  rotate: false
+  xy: 238, 154
+  size: 201, 326
+  orig: 201, 326
+  offset: 0, 0
+  index: -1
+girl-5/head
+  rotate: false
+  xy: 311, 807
+  size: 118, 146
+  orig: 122, 146
+  offset: 0, 0
+  index: -1
+girl-5/head-win
+  rotate: false
+  xy: 311, 659
+  size: 118, 146
+  orig: 122, 146
+  offset: 0, 0
+  index: -1
+girl-5/leg-1
+  rotate: false
+  xy: 142, 91
+  size: 94, 389
+  orig: 94, 400
+  offset: 0, 11
+  index: -1
+girl-5/leg-1-1
+  rotate: false
+  xy: 311, 537
+  size: 55, 120
+  orig: 60, 120
+  offset: 5, 0
+  index: -1
+girl-5/leg-2
+  rotate: false
+  xy: 2, 2
+  size: 138, 478
+  orig: 138, 478
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,143 @@
+{"frames": {
+
+"clubs":
+{
+	"frame": {"x":646,"y":1017,"w":201,"h":204},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":55,"w":201,"h":204},
+	"sourceSize": {"w":314,"h":314}
+},
+"coins":
+{
+	"frame": {"x":295,"y":557,"w":272,"h":282},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":15,"w":272,"h":282},
+	"sourceSize": {"w":300,"h":300}
+},
+"cup":
+{
+	"frame": {"x":260,"y":831,"w":195,"h":226},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":44,"w":195,"h":226},
+	"sourceSize": {"w":314,"h":314}
+},
+"diamonds":
+{
+	"frame": {"x":230,"y":1036,"w":172,"h":203},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":56,"w":172,"h":203},
+	"sourceSize": {"w":314,"h":314}
+},
+"egg_1":
+{
+	"frame": {"x":301,"y":285,"w":270,"h":294},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":11,"w":270,"h":294},
+	"sourceSize": {"w":314,"h":314}
+},
+"egg_2":
+{
+	"frame": {"x":597,"y":301,"w":270,"h":293},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":12,"w":270,"h":293},
+	"sourceSize": {"w":314,"h":314}
+},
+"egg_3":
+{
+	"frame": {"x":1,"y":557,"w":270,"h":292},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":13,"w":270,"h":292},
+	"sourceSize": {"w":314,"h":314}
+},
+"egg_4":
+{
+	"frame": {"x":605,"y":1,"w":270,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":9,"w":270,"h":298},
+	"sourceSize": {"w":314,"h":314}
+},
+"egg_5":
+{
+	"frame": {"x":1,"y":285,"w":270,"h":298},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":8,"w":270,"h":298},
+	"sourceSize": {"w":314,"h":314}
+},
+"eye":
+{
+	"frame": {"x":579,"y":807,"w":208,"h":204},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":55,"w":208,"h":204},
+	"sourceSize": {"w":314,"h":314}
+},
+"free":
+{
+	"frame": {"x":1,"y":1,"w":300,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":300,"h":282},
+	"sourceSize": {"w":300,"h":300}
+},
+"hearts":
+{
+	"frame": {"x":435,"y":1028,"w":209,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":63,"w":209,"h":189},
+	"sourceSize": {"w":314,"h":314}
+},
+"helmet":
+{
+	"frame": {"x":1,"y":829,"w":205,"h":257},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":50,"y":20,"w":205,"h":257},
+	"sourceSize": {"w":314,"h":314}
+},
+"ring":
+{
+	"frame": {"x":1,"y":1036,"w":154,"h":227},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":43,"w":154,"h":227},
+	"sourceSize": {"w":314,"h":314}
+},
+"spades":
+{
+	"frame": {"x":579,"y":596,"w":209,"h":211},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":52,"w":209,"h":211},
+	"sourceSize": {"w":314,"h":314}
+},
+"wild":
+{
+	"frame": {"x":303,"y":1,"w":300,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":300,"h":282},
+	"sourceSize": {"w":300,"h":300}
+}},
+"animations": {
+	"egg": ["egg_1","egg_2","egg_3","egg_4","egg_5"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":876,"h":1219},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7a741deeb32ad0753b67d6eede143642:c5be95a403a265fb99074667fdce5393:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

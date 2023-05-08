@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 451,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clown_bell1
+  rotate: false
+  xy: 211, 18
+  size: 74, 127
+  orig: 74, 127
+  offset: 0, 0
+  index: -1
+clown_bell2
+  rotate: true
+  xy: 354, 60
+  size: 80, 88
+  orig: 80, 88
+  offset: 0, 0
+  index: -1
+clown_bell3
+  rotate: false
+  xy: 287, 22
+  size: 49, 123
+  orig: 49, 123
+  offset: 0, 0
+  index: -1
+clown_bell4
+  rotate: true
+  xy: 354, 13
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+clown_bell5
+  rotate: false
+  xy: 354, 142
+  size: 91, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+clown_bell5-1
+  rotate: false
+  xy: 348, 196
+  size: 101, 83
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+clown_bg
+  rotate: true
+  xy: 2, 10
+  size: 269, 207
+  orig: 269, 207
+  offset: 0, 0
+  index: -1
+clown_eyes
+  rotate: false
+  xy: 287, 2
+  size: 65, 18
+  orig: 65, 18
+  offset: 0, 0
+  index: -1
+clown_head
+  rotate: true
+  xy: 211, 147
+  size: 132, 135
+  orig: 132, 135
+  offset: 0, 0
+  index: -1

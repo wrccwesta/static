@@ -1,0 +1,25 @@
+<font>
+	<info face="WinFont" size="238" />
+	<common lineHeight="238" scaleW="823" scaleH="839" pages="1" />
+	<pages>
+		<page id="0" file="winFont.png" />
+	</pages>
+	<chars count="14">
+		<char id="48" x="203" y="581" width="184" height="257" xoffset="0" yoffset="-14" xadvance="197" /><!-- 0 -->
+		<char id="49" x="690" y="0" width="132" height="256" xoffset="0" yoffset="-18" xadvance="145" /><!-- 1 -->
+		<char id="50" x="203" y="324" width="188" height="256" xoffset="0" yoffset="-18" xadvance="201" /><!-- 2 -->
+		<char id="51" x="576" y="261" width="176" height="266" xoffset="0" yoffset="-24" xadvance="189" /><!-- 3 -->
+		<char id="52" x="0" y="324" width="202" height="259" xoffset="0" yoffset="-20" xadvance="215" /><!-- 4 -->
+		<char id="53" x="507" y="0" width="182" height="260" xoffset="0" yoffset="-18" xadvance="195" /><!-- 5 -->
+		<char id="54" x="320" y="0" width="186" height="264" xoffset="0" yoffset="-22" xadvance="199" /><!-- 6 -->
+		<char id="55" x="392" y="265" width="183" height="272" xoffset="0" yoffset="-24" xadvance="196" /><!-- 7 -->
+		<char id="56" x="388" y="581" width="182" height="257" xoffset="0" yoffset="-19" xadvance="195" /><!-- 8 -->
+		<char id="57" x="571" y="538" width="180" height="263" xoffset="0" yoffset="-19" xadvance="193" /><!-- 9 -->
+		<char id="46" x="0" y="584" width="56" height="57" xoffset="0" yoffset="198" xadvance="69" /><!-- . -->
+		<char id="88" x="0" y="0" width="319" height="323" xoffset="0" yoffset="-47" xadvance="332" /><!-- X -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="84" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="672" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

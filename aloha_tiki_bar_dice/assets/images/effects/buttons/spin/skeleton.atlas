@@ -1,0 +1,15 @@
+skeleton.png
+size:761,294
+filter:Linear,Linear
+rays
+bounds:297,42,251,250
+offsets:2,0,255,252
+sparks
+bounds:2,2,293,290
+offsets:27,27,350,350
+spin/spin-button
+bounds:550,148,143,144
+spin/spin-button-up
+bounds:550,12,133,134
+spin/spin-icon
+bounds:685,61,74,85

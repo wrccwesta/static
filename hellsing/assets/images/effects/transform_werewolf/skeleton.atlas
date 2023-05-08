@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 678,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans_1_bg_w
+  rotate: true
+  xy: 2, 2
+  size: 296, 207
+  orig: 296, 207
+  offset: 0, 0
+  index: -1
+trans_1_border_w
+  rotate: true
+  xy: 211, 2
+  size: 296, 207
+  orig: 296, 207
+  offset: 0, 0
+  index: -1
+trans_claws
+  rotate: false
+  xy: 578, 111
+  size: 98, 187
+  orig: 98, 187
+  offset: 0, 0
+  index: -1
+trans_moon
+  rotate: false
+  xy: 420, 20
+  size: 122, 121
+  orig: 122, 121
+  offset: 0, 0
+  index: -1
+trans_moon_bg
+  rotate: false
+  xy: 420, 143
+  size: 156, 155
+  orig: 156, 155
+  offset: 0, 0
+  index: -1

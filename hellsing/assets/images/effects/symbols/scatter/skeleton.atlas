@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 302,2153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ScatteR
+  rotate: false
+  xy: 2, 106
+  size: 262, 119
+  orig: 274, 129
+  offset: 5, 5
+  index: -1
+Vampire Hunt
+  rotate: false
+  xy: 2, 2
+  size: 298, 102
+  orig: 298, 113
+  offset: 0, 6
+  index: -1
+Werewolf Hunt
+  rotate: false
+  xy: 2, 382
+  size: 253, 155
+  orig: 264, 166
+  offset: 6, 6
+  index: -1
+bg
+  rotate: false
+  xy: 2, 1944
+  size: 296, 207
+  orig: 298, 209
+  offset: 1, 1
+  index: -1
+vamp/bat-sparks
+  rotate: false
+  xy: 2, 931
+  size: 268, 205
+  orig: 270, 207
+  offset: 1, 1
+  index: -1
+vamp/body
+  rotate: false
+  xy: 2, 1743
+  size: 296, 199
+  orig: 298, 201
+  offset: 1, 1
+  index: -1
+vamp/bodybg
+  rotate: false
+  xy: 2, 1340
+  size: 288, 200
+  orig: 290, 202
+  offset: 1, 1
+  index: -1
+vamp/light
+  rotate: false
+  xy: 2, 1542
+  size: 296, 199
+  orig: 298, 201
+  offset: 1, 1
+  index: -1
+wolf/bat-sparks copy
+  rotate: false
+  xy: 2, 227
+  size: 250, 153
+  orig: 254, 155
+  offset: 2, 1
+  index: -1
+wolf/body
+  rotate: false
+  xy: 2, 734
+  size: 215, 195
+  orig: 217, 197
+  offset: 1, 1
+  index: -1
+wolf/bodybg
+  rotate: false
+  xy: 2, 1138
+  size: 288, 200
+  orig: 290, 202
+  offset: 1, 1
+  index: -1
+wolf/eyes
+  rotate: true
+  xy: 219, 539
+  size: 110, 61
+  orig: 122, 73
+  offset: 6, 6
+  index: -1
+wolf/light
+  rotate: false
+  xy: 2, 539
+  size: 215, 193
+  orig: 217, 197
+  offset: 1, 2
+  index: -1

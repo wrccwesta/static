@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 479,805
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g1_paper
+  rotate: false
+  xy: 2, 2
+  size: 280, 801
+  orig: 280, 801
+  offset: 0, 0
+  index: -1
+paper_wild
+  rotate: false
+  xy: 284, 149
+  size: 193, 654
+  orig: 193, 654
+  offset: 0, 0
+  index: -1

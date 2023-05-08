@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 1526,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border-overlay-blue
+  rotate: false
+  xy: 348, 64
+  size: 273, 274
+  orig: 273, 274
+  offset: 0, 0
+  index: -1
+knight/bg
+  rotate: false
+  xy: 623, 64
+  size: 273, 274
+  orig: 275, 276
+  offset: 1, 1
+  index: -1
+knight/bg-overlay
+  rotate: false
+  xy: 1134, 111
+  size: 226, 226
+  orig: 228, 228
+  offset: 1, 1
+  index: -1
+knight/body
+  rotate: true
+  xy: 898, 64
+  size: 273, 234
+  orig: 275, 237
+  offset: 1, 1
+  index: -1
+knight/eyes
+  rotate: false
+  xy: 348, 50
+  size: 85, 12
+  orig: 87, 14
+  offset: 1, 1
+  index: -1
+knight/face
+  rotate: false
+  xy: 1134, 12
+  size: 119, 97
+  orig: 120, 97
+  offset: 1, 0
+  index: -1
+knight/face-lower
+  rotate: false
+  xy: 1255, 2
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+knight/head
+  rotate: false
+  xy: 1362, 84
+  size: 162, 254
+  orig: 165, 256
+  offset: 2, 1
+  index: -1
+mist-blue
+  rotate: false
+  xy: 2, 12
+  size: 344, 326
+  orig: 347, 341
+  offset: 3, 3
+  index: -1

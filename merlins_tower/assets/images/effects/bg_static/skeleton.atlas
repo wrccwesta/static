@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 1701,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_star
+  rotate: true
+  xy: 893, 89
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+branch1
+  rotate: false
+  xy: 1047, 43
+  size: 533, 147
+  orig: 533, 147
+  offset: 0, 0
+  index: -1
+branch1_rope
+  rotate: false
+  xy: 1020, 7
+  size: 25, 183
+  orig: 25, 183
+  offset: 0, 0
+  index: -1
+branch1_rope_shadow
+  rotate: false
+  xy: 1582, 11
+  size: 18, 195
+  orig: 18, 195
+  offset: 0, 0
+  index: -1
+branch1_shadow
+  rotate: false
+  xy: 893, 192
+  size: 492, 270
+  orig: 492, 270
+  offset: 0, 0
+  index: -1
+branch2
+  rotate: true
+  xy: 272, 2
+  size: 460, 218
+  orig: 460, 218
+  offset: 0, 0
+  index: -1
+branch2_shadow
+  rotate: true
+  xy: 2, 2
+  size: 460, 268
+  orig: 460, 268
+  offset: 0, 0
+  index: -1
+fx_bg_star
+  rotate: false
+  xy: 1602, 16
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+fx_spark_Star
+  rotate: false
+  xy: 1641, 415
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+fx_sparks_big
+  rotate: false
+  xy: 492, 44
+  size: 399, 418
+  orig: 399, 418
+  offset: 0, 0
+  index: -1
+fx_stand
+  rotate: false
+  xy: 1387, 208
+  size: 252, 254
+  orig: 252, 254
+  offset: 0, 0
+  index: -1
+rope2
+  rotate: true
+  xy: 492, 3
+  size: 39, 156
+  orig: 39, 156
+  offset: 0, 0
+  index: -1
+rope3
+  rotate: true
+  xy: 650, 6
+  size: 36, 368
+  orig: 36, 368
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: false
+  xy: 1602, 109
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1

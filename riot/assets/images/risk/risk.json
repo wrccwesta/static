@@ -1,0 +1,44 @@
+{"frames": {
+
+"bg":
+{
+	"frame": {"x":1,"y":1,"w":206,"h":1038},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":1038},
+	"sourceSize": {"w":206,"h":1038}
+},
+"logo-raze":
+{
+	"frame": {"x":209,"y":1,"w":226,"h":351},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":351},
+	"sourceSize": {"w":226,"h":351}
+},
+"logo-survivors":
+{
+	"frame": {"x":1,"y":1041,"w":277,"h":374},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":374},
+	"sourceSize": {"w":277,"h":374}
+},
+"logo-thelaw":
+{
+	"frame": {"x":209,"y":354,"w":228,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":228,"h":336},
+	"sourceSize": {"w":228,"h":336}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "risk.png",
+	"format": "RGBA8888",
+	"size": {"w":438,"h":1319},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e0ccc0c30b090538c1b5130e576577b3:2d017b8ae95e55e04e2de4c54cad7396:b4983291c8b70c591d7a7117d24a6ce5$"
+}
+}

@@ -1,0 +1,145 @@
+skeleton.png
+size:1833,1616
+filter:Linear,Linear
+demon-x1/bg
+bounds:2,1320,220,294
+offsets:10,8,240,310
+demon-x1/border
+bounds:2,1026,218,292
+offsets:11,9,240,310
+demon-x1/win/DMN Win1
+bounds:1172,223,218,287
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win10
+bounds:1324,1324,218,290
+offsets:0,0,218,292
+demon-x1/win/DMN Win11
+bounds:442,441,218,291
+offsets:0,0,218,292
+demon-x1/win/DMN Win12
+bounds:442,148,218,291
+offsets:0,0,218,292
+demon-x1/win/DMN Win13
+bounds:662,1102,218,291
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win14
+bounds:664,1323,218,291
+offsets:0,0,218,292
+demon-x1/win/DMN Win15
+bounds:884,1323,218,291
+offsets:0,0,218,292
+demon-x1/win/DMN Win16
+bounds:955,1103,218,291
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win17
+bounds:2,732,218,292
+demon-x1/win/DMN Win18
+bounds:2,438,218,292
+demon-x1/win/DMN Win19
+bounds:2,144,218,292
+demon-x1/win/DMN Win2
+bounds:953,443,218,288
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win20
+bounds:222,1026,218,292
+demon-x1/win/DMN Win21
+bounds:224,1322,218,292
+demon-x1/win/DMN Win22
+bounds:222,732,218,292
+demon-x1/win/DMN Win23
+bounds:222,438,218,292
+demon-x1/win/DMN Win24
+bounds:222,144,218,292
+demon-x1/win/DMN Win25
+bounds:442,1028,218,292
+demon-x1/win/DMN Win26
+bounds:444,1322,218,292
+demon-x1/win/DMN Win27
+bounds:442,734,218,292
+demon-x1/win/DMN Win28
+bounds:1104,1323,218,291
+offsets:0,0,218,292
+demon-x1/win/DMN Win29
+bounds:1248,1103,218,291
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win3
+bounds:662,442,218,288
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win30
+bounds:1541,1104,218,290
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win31
+bounds:1544,1324,218,290
+offsets:0,0,218,292
+demon-x1/win/DMN Win32
+bounds:955,883,218,289
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win33
+bounds:662,882,218,289
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win34
+bounds:1246,883,218,289
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win35
+bounds:1537,664,218,289
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win36
+bounds:953,663,218,289
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win37
+bounds:1243,443,218,288
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win38
+bounds:1533,224,218,288
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win39
+bounds:952,153,218,288
+offsets:0,0,218,292
+demon-x1/win/DMN Win4
+bounds:662,222,218,288
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win40
+bounds:1461,4,218,287
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win41
+bounds:1172,3,218,287
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win5
+bounds:662,2,218,288
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win6
+bounds:662,662,218,289
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win7
+bounds:1244,663,218,289
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win8
+bounds:1535,444,218,289
+offsets:0,0,218,292
+rotate:90
+demon-x1/win/DMN Win9
+bounds:1541,884,218,290
+offsets:0,0,218,292
+rotate:90
+word-fs
+bounds:2,29,177,113

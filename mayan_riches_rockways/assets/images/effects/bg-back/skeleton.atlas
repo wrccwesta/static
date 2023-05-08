@@ -1,0 +1,14 @@
+skeleton.png
+size:1412,803
+filter:Linear,Linear
+bg/star
+bounds:2,768,33,33
+offsets:7,6,46,46
+clouds
+bounds:37,448,976,353
+sky
+bounds:707,2,703,444
+offsets:0,636,1920,1080
+sky-free
+bounds:2,2,703,444
+offsets:0,636,1920,1080

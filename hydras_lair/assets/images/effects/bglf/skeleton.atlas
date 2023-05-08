@@ -1,0 +1,8 @@
+skeleton.png
+size:1000,544
+filter:Linear,Linear
+bglfMask
+bounds:2,2,960,540
+spark-1
+bounds:964,508,34,34
+offsets:3,3,40,40

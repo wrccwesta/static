@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 605,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_shine
+  rotate: false
+  xy: 2, 9
+  size: 303, 235
+  orig: 303, 235
+  offset: 0, 0
+  index: -1
+fx_shine2
+  rotate: true
+  xy: 442, 4
+  size: 133, 148
+  orig: 133, 148
+  offset: 0, 0
+  index: -1
+g4_back
+  rotate: false
+  xy: 442, 139
+  size: 159, 178
+  orig: 159, 178
+  offset: 0, 0
+  index: -1
+g4_body
+  rotate: false
+  xy: 2, 246
+  size: 220, 529
+  orig: 220, 529
+  offset: 0, 0
+  index: -1
+g4_eye
+  rotate: false
+  xy: 587, 765
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+g4_hair
+  rotate: true
+  xy: 224, 297
+  size: 65, 134
+  orig: 65, 134
+  offset: 0, 0
+  index: -1
+g4_hand1
+  rotate: false
+  xy: 461, 319
+  size: 129, 195
+  orig: 129, 195
+  offset: 0, 0
+  index: -1
+g4_hand2
+  rotate: false
+  xy: 461, 516
+  size: 124, 259
+  orig: 124, 259
+  offset: 0, 0
+  index: -1
+g4_hat
+  rotate: true
+  xy: 307, 2
+  size: 74, 76
+  orig: 74, 76
+  offset: 0, 0
+  index: -1
+g4_head
+  rotate: false
+  xy: 307, 78
+  size: 133, 217
+  orig: 133, 217
+  offset: 0, 0
+  index: -1
+g4_leg1
+  rotate: false
+  xy: 224, 364
+  size: 161, 411
+  orig: 161, 411
+  offset: 0, 0
+  index: -1
+g4_leg2
+  rotate: false
+  xy: 387, 324
+  size: 72, 451
+  orig: 72, 451
+  offset: 0, 0
+  index: -1
+g4_tights
+  rotate: false
+  xy: 224, 252
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1

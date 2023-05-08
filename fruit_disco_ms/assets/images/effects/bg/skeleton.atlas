@@ -1,0 +1,36 @@
+skeleton.png
+size:3023,2948
+filter:Linear,Linear
+bg-bg/0
+bounds:2735,633,542,262
+offsets:0,911,2395,1627
+rotate:90
+bg-bg/2
+bounds:2009,1177,863,262
+offsets:1495,432,2395,1627
+bg-bg/3
+bounds:2,51,1228,511
+offsets:1167,0,2395,1627
+bg-bg/4
+bounds:2245,1441,1505,606
+offsets:0,1020,2395,1627
+rotate:90
+bg-bg/5
+bounds:1232,150,1087,412
+offsets:0,140,2395,1627
+bg-bg/6
+bounds:2321,2,1173,412
+offsets:1023,907,2395,1627
+rotate:90
+bg-bg/all linee
+bounds:2,919,2005,581
+offsets:4,0,2013,584
+bg-bg/blue line
+bounds:2853,1576,1370,168
+offsets:0,4,1431,177
+rotate:90
+bg-bg/purple line
+bounds:2,564,2077,353
+offsets:39,4,2116,361
+bg-bg/white line
+bounds:2,1502,2241,1444

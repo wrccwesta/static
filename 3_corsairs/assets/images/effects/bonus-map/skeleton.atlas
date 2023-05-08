@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 1854,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus-map-feature/map-bg
+  rotate: false
+  xy: 2, 2
+  size: 1850, 1011
+  orig: 1850, 1012
+  offset: 0, 1
+  index: -1

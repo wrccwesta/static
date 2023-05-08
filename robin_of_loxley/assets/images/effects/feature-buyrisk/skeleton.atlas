@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 161,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buy
+  rotate: false
+  xy: 2, 2
+  size: 130, 55
+  orig: 130, 55
+  offset: 0, 0
+  index: -1
+RISK
+  rotate: false
+  xy: 2, 59
+  size: 143, 55
+  orig: 143, 55
+  offset: 0, 0
+  index: -1
+buy-coin
+  rotate: false
+  xy: 2, 116
+  size: 109, 109
+  orig: 114, 113
+  offset: 3, 2
+  index: -1
+gold-spark
+  rotate: false
+  xy: 113, 116
+  size: 46, 46
+  orig: 49, 48
+  offset: 1, 1
+  index: -1

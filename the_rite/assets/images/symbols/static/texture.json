@@ -1,0 +1,108 @@
+{"frames": {
+
+"a":
+{
+	"frame": {"x":284,"y":1,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+},
+"bonus (doll)":
+{
+	"frame": {"x":284,"y":201,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+},
+"girl":
+{
+	"frame": {"x":567,"y":1,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+},
+"j":
+{
+	"frame": {"x":567,"y":201,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+},
+"k":
+{
+	"frame": {"x":850,"y":1,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+},
+"knife":
+{
+	"frame": {"x":850,"y":201,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+},
+"man":
+{
+	"frame": {"x":1133,"y":1,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+},
+"Nine":
+{
+	"frame": {"x":1,"y":1,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+},
+"q":
+{
+	"frame": {"x":1133,"y":201,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+},
+"scat (skull)":
+{
+	"frame": {"x":1416,"y":1,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+},
+"Ten":
+{
+	"frame": {"x":1,"y":201,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+},
+"wild (cross)":
+{
+	"frame": {"x":1416,"y":201,"w":281,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":281,"h":198},
+	"sourceSize": {"w":281,"h":198}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":1698,"h":400},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:57436bf91c84db3b9ae18763dbdc27e3:e45dcb41bb5bfa8b821f4e4e91afbaea:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

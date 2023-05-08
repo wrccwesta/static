@@ -1,0 +1,14 @@
+skeleton.png
+size:610,165
+filter:Linear,Linear
+dust-gold
+bounds:169,3,160,157
+rotate:90
+sidegem-bg
+bounds:2,2,165,161
+sidegem-off
+bounds:328,18,145,139
+rotate:90
+sidegem-on
+bounds:469,18,145,139
+rotate:90

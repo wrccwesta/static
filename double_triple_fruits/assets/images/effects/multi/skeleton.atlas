@@ -1,0 +1,22 @@
+skeleton.png
+size:2508,522
+filter:Linear,Linear
+Lens flare 19
+bounds:2028,42,478,478
+offsets:61,61,600,600
+fxs/Lens flare 01
+bounds:1034,14,506,494
+offsets:47,48,600,600
+rotate:90
+fxs/Lens flare 18
+bounds:522,10,510,510
+offsets:45,45,600,600
+fxs/Lens flare 19
+bounds:2,2,518,518
+offsets:41,41,600,600
+fxs/circle_00008
+bounds:1530,24,496,496
+offsets:52,52,600,600
+fxs/circle_00010
+bounds:1530,24,496,496
+offsets:52,52,600,600

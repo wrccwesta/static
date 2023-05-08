@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 362,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish1
+  rotate: false
+  xy: 2, 6
+  size: 174, 125
+  orig: 174, 125
+  offset: 0, 0
+  index: -1
+fish2
+  rotate: false
+  xy: 178, 77
+  size: 182, 54
+  orig: 182, 54
+  offset: 0, 0
+  index: -1
+fx_bubble_one
+  rotate: false
+  xy: 178, 2
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1

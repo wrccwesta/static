@@ -1,0 +1,11 @@
+skeleton.png
+size:1236,1060
+filter:Linear,Linear
+magic-big
+bounds:2,2,1056,1089
+offsets:81,66,1200,1200
+rotate:90
+smoke
+bounds:1093,910,148,141
+offsets:2,1,150,147
+rotate:90

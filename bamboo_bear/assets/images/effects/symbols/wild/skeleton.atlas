@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_light
+  rotate: false
+  xy: 298, 154
+  size: 182, 155
+  orig: 182, 155
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 238, 2
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 238, 158
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 337, 84
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+lantern_light_bg
+  rotate: false
+  xy: 298, 311
+  size: 177, 194
+  orig: 177, 194
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 238, 79
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1
+wild_box
+  rotate: false
+  xy: 2, 228
+  size: 294, 277
+  orig: 294, 277
+  offset: 0, 0
+  index: -1
+wild_eye
+  rotate: false
+  xy: 477, 480
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+wild_panda
+  rotate: false
+  xy: 2, 3
+  size: 234, 223
+  orig: 234, 223
+  offset: 0, 0
+  index: -1

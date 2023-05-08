@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 761,1075
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q/letter-bg
+  rotate: false
+  xy: 296, 225
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+feature/Layer 3
+  rotate: false
+  xy: 563, 833
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+feature/Layer 4 copy
+  rotate: false
+  xy: 563, 792
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+feature/ice
+  rotate: false
+  xy: 563, 876
+  size: 180, 197
+  orig: 180, 197
+  offset: 0, 0
+  index: -1
+feature/magic
+  rotate: false
+  xy: 2, 770
+  size: 306, 303
+  orig: 360, 360
+  offset: 28, 30
+  index: -1
+feature/shine-blue
+  rotate: false
+  xy: 2, 507
+  size: 310, 261
+  orig: 319, 278
+  offset: 3, 4
+  index: -1
+goddess/skadi-light
+  rotate: false
+  xy: 525, 6
+  size: 232, 217
+  orig: 235, 226
+  offset: 2, 7
+  index: -1
+scatter
+  rotate: true
+  xy: 578, 335
+  size: 210, 50
+  orig: 211, 50
+  offset: 1, 0
+  index: -1
+scatter/axe
+  rotate: false
+  xy: 314, 509
+  size: 217, 266
+  orig: 217, 266
+  offset: 0, 0
+  index: -1
+scatter/shield
+  rotate: false
+  xy: 533, 547
+  size: 226, 228
+  orig: 230, 230
+  offset: 2, 2
+  index: -1
+wild_dragon/wild-body
+  rotate: true
+  xy: 2, 27
+  size: 201, 279
+  orig: 210, 282
+  offset: 4, 3
+  index: -1
+wild_goddess/wild-body
+  rotate: true
+  xy: 283, 2
+  size: 221, 240
+  orig: 227, 248
+  offset: 4, 4
+  index: -1
+wild_viking/wild-body
+  rotate: false
+  xy: 310, 777
+  size: 251, 296
+  orig: 262, 303
+  offset: 4, 7
+  index: -1
+wild_wolf/wild-body
+  rotate: false
+  xy: 2, 230
+  size: 292, 275
+  orig: 292, 278
+  offset: 0, 3
+  index: -1

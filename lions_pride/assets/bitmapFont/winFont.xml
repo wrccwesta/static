@@ -1,0 +1,28 @@
+<font>
+	<info face="WinFont" size="296" />
+	<common lineHeight="296" scaleW="821" scaleH="789" pages="1" />
+	<pages>
+		<page id="0" file="winFont.png" />
+	</pages>
+	<chars count="17">
+		<char id="48" x="0" y="0" width="205" height="224" xoffset="0" yoffset="72" xadvance="222" /><!-- 0 -->
+		<char id="49" x="547" y="456" width="141" height="223" xoffset="0" yoffset="73" xadvance="158" /><!-- 1 -->
+		<char id="50" x="0" y="225" width="188" height="224" xoffset="0" yoffset="72" xadvance="205" /><!-- 2 -->
+		<char id="51" x="0" y="450" width="185" height="224" xoffset="0" yoffset="72" xadvance="202" /><!-- 3 -->
+		<char id="52" x="206" y="0" width="181" height="225" xoffset="0" yoffset="72" xadvance="198" /><!-- 4 -->
+		<char id="53" x="189" y="226" width="180" height="221" xoffset="0" yoffset="74" xadvance="197" /><!-- 5 -->
+		<char id="54" x="368" y="448" width="178" height="226" xoffset="0" yoffset="71" xadvance="195" /><!-- 6 -->
+		<char id="55" x="186" y="450" width="181" height="223" xoffset="0" yoffset="73" xadvance="198" /><!-- 7 -->
+		<char id="56" x="547" y="229" width="174" height="226" xoffset="0" yoffset="71" xadvance="191" /><!-- 8 -->
+		<char id="57" x="388" y="0" width="176" height="228" xoffset="0" yoffset="70" xadvance="193" /><!-- 9 -->
+		<char id="46" x="0" y="680" width="106" height="108" xoffset="0" yoffset="184" xadvance="123" /><!-- . -->
+		<char id="33" x="370" y="229" width="154" height="153" xoffset="0" yoffset="150" xadvance="171" /><!-- ! -->
+		<char id="94" x="689" y="456" width="131" height="152" xoffset="0" yoffset="151" xadvance="148" /><!-- ^ -->
+		<char id="36" x="689" y="609" width="117" height="153" xoffset="0" yoffset="150" xadvance="134" /><!-- $ -->
+		<char id="37" x="565" y="0" width="137" height="152" xoffset="0" yoffset="151" xadvance="154" /><!-- % -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="113" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="904" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

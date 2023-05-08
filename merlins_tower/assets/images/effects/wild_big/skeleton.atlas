@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 2014,659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_magic_mist
+  rotate: true
+  xy: 1202, 21
+  size: 385, 303
+  orig: 385, 303
+  offset: 0, 0
+  index: -1
+fx_merlin_ball
+  rotate: true
+  xy: 920, 26
+  size: 221, 220
+  orig: 221, 220
+  offset: 0, 0
+  index: -1
+fx_merlin_green
+  rotate: true
+  xy: 594, 3
+  size: 115, 162
+  orig: 115, 162
+  offset: 0, 0
+  index: -1
+fx_rune_fat
+  rotate: false
+  xy: 1899, 116
+  size: 109, 121
+  orig: 109, 121
+  offset: 0, 0
+  index: -1
+fx_sparks_big
+  rotate: false
+  xy: 1613, 239
+  size: 399, 418
+  orig: 399, 418
+  offset: 0, 0
+  index: -1
+merlin_ball
+  rotate: false
+  xy: 1899, 2
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+merlin_bg
+  rotate: true
+  xy: 754, 408
+  size: 249, 857
+  orig: 249, 857
+  offset: 0, 0
+  index: -1
+merlin_body
+  rotate: true
+  xy: 2, 239
+  size: 418, 750
+  orig: 418, 750
+  offset: 0, 0
+  index: -1
+merlin_hand1_1
+  rotate: false
+  xy: 857, 172
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+merlin_hand1_1-2
+  rotate: false
+  xy: 1142, 74
+  size: 54, 173
+  orig: 54, 173
+  offset: 0, 0
+  index: -1
+merlin_hand1_2
+  rotate: true
+  xy: 2, 10
+  size: 108, 381
+  orig: 108, 381
+  offset: 0, 0
+  index: -1
+merlin_hand2_1
+  rotate: true
+  xy: 385, 18
+  size: 100, 207
+  orig: 100, 207
+  offset: 0, 0
+  index: -1
+merlin_hand2_2
+  rotate: true
+  xy: 1507, 93
+  size: 144, 390
+  orig: 144, 390
+  offset: 0, 0
+  index: -1
+merlin_hand2_3
+  rotate: true
+  xy: 1507, 332
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+merlin_head
+  rotate: true
+  xy: 754, 249
+  size: 157, 446
+  orig: 157, 446
+  offset: 0, 0
+  index: -1
+merlin_staf
+  rotate: true
+  xy: 2, 120
+  size: 117, 853
+  orig: 117, 853
+  offset: 0, 0
+  index: -1
+wild_word
+  rotate: false
+  xy: 758, 12
+  size: 160, 106
+  orig: 160, 106
+  offset: 0, 0
+  index: -1

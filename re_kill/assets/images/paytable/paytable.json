@@ -1,0 +1,92 @@
+{"frames": {
+
+"betlines_box":
+{
+	"frame": {"x":1,"y":988,"w":83,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":53},
+	"sourceSize": {"w":83,"h":53}
+},
+"betlines_normal":
+{
+	"frame": {"x":897,"y":1,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"betlines_win":
+{
+	"frame": {"x":1,"y":1065,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"paytable_hands":
+{
+	"frame": {"x":398,"y":1,"w":863,"h":479},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":863,"h":479},
+	"sourceSize": {"w":863,"h":479}
+},
+"paytable_hands_feature":
+{
+	"frame": {"x":398,"y":866,"w":584,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":584,"h":325},
+	"sourceSize": {"w":584,"h":325}
+},
+"paytable_zombie":
+{
+	"frame": {"x":1,"y":1,"w":985,"h":395},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":32,"w":985,"h":395},
+	"sourceSize": {"w":1000,"h":500}
+},
+"table_close_hover":
+{
+	"frame": {"x":1,"y":1043,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"table_close_normal":
+{
+	"frame": {"x":86,"y":988,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"table_scroll_bar":
+{
+	"frame": {"x":879,"y":1,"w":7,"h":745},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":745},
+	"sourceSize": {"w":7,"h":745}
+},
+"table_scroll_tool":
+{
+	"frame": {"x":888,"y":1,"w":7,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":121},
+	"sourceSize": {"w":7,"h":121}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paytable.png",
+	"format": "RGBA8888",
+	"size": {"w":983,"h":1192},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e888c2be3fc60f8b430c9ddb6df2dac5:70490bc7fb994e6f65049ff171a875b6:0f68fea9f431d65eb54c267865589464$"
+}
+}

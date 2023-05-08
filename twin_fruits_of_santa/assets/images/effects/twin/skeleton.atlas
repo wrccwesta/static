@@ -1,0 +1,487 @@
+
+skeleton.jpg
+size: 1816,1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border/skadi_00000
+  rotate: true
+  xy: 50, 1148
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00001
+  rotate: true
+  xy: 2, 766
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00002
+  rotate: false
+  xy: 1052, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00003
+  rotate: false
+  xy: 1434, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00004
+  rotate: true
+  xy: 2, 384
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00005
+  rotate: true
+  xy: 2, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+spark
+  rotate: false
+  xy: 2, 1482
+  size: 46, 46
+  orig: 49, 48
+  offset: 1, 1
+  index: -1
+
+skeleton2.jpg
+size: 1768,1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border/skadi_00006
+  rotate: true
+  xy: 2, 1148
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00007
+  rotate: true
+  xy: 2, 766
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00008
+  rotate: false
+  xy: 1004, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00009
+  rotate: false
+  xy: 1386, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00010
+  rotate: true
+  xy: 2, 384
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00011
+  rotate: true
+  xy: 2, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+
+skeleton3.jpg
+size: 1768,1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border/skadi_00012
+  rotate: true
+  xy: 2, 1148
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00013
+  rotate: true
+  xy: 2, 766
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00014
+  rotate: false
+  xy: 1004, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00015
+  rotate: false
+  xy: 1386, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00016
+  rotate: true
+  xy: 2, 384
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00017
+  rotate: true
+  xy: 2, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+
+skeleton4.jpg
+size: 1768,1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border/skadi_00018
+  rotate: true
+  xy: 2, 1148
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00019
+  rotate: true
+  xy: 2, 766
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00020
+  rotate: false
+  xy: 1004, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00021
+  rotate: false
+  xy: 1386, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00022
+  rotate: true
+  xy: 2, 384
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00023
+  rotate: true
+  xy: 2, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+
+skeleton5.jpg
+size: 1768,1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border/skadi_00024
+  rotate: true
+  xy: 2, 1148
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00025
+  rotate: true
+  xy: 2, 766
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00026
+  rotate: false
+  xy: 1004, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00027
+  rotate: false
+  xy: 1386, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00028
+  rotate: true
+  xy: 2, 384
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00029
+  rotate: true
+  xy: 2, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+
+skeleton6.jpg
+size: 1768,1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border/skadi_00030
+  rotate: true
+  xy: 2, 1148
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00031
+  rotate: true
+  xy: 2, 766
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00032
+  rotate: false
+  xy: 1004, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00033
+  rotate: false
+  xy: 1386, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00034
+  rotate: true
+  xy: 2, 384
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00035
+  rotate: true
+  xy: 2, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+
+skeleton7.jpg
+size: 1768,1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border/skadi_00036
+  rotate: true
+  xy: 2, 1148
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00037
+  rotate: true
+  xy: 2, 766
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00038
+  rotate: false
+  xy: 1004, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00039
+  rotate: false
+  xy: 1386, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00040
+  rotate: true
+  xy: 2, 384
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00041
+  rotate: true
+  xy: 2, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+
+skeleton8.jpg
+size: 1768,1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border/skadi_00042
+  rotate: true
+  xy: 2, 1148
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00043
+  rotate: true
+  xy: 2, 766
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00044
+  rotate: false
+  xy: 1004, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00045
+  rotate: false
+  xy: 1386, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00046
+  rotate: true
+  xy: 2, 384
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00047
+  rotate: true
+  xy: 2, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+
+skeleton9.jpg
+size: 1768,1530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border/skadi_00048
+  rotate: true
+  xy: 2, 1148
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00049
+  rotate: true
+  xy: 2, 766
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00050
+  rotate: false
+  xy: 1004, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00051
+  rotate: false
+  xy: 1386, 528
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00052
+  rotate: true
+  xy: 2, 384
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00053
+  rotate: true
+  xy: 2, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+
+skeleton10.jpg
+size: 1768,1386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border/skadi_00054
+  rotate: true
+  xy: 2, 1004
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00055
+  rotate: false
+  xy: 1004, 384
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00056
+  rotate: false
+  xy: 1386, 384
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00057
+  rotate: false
+  xy: 2, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00058
+  rotate: false
+  xy: 384, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1
+border/skadi_00059
+  rotate: true
+  xy: 766, 2
+  size: 380, 1000
+  orig: 380, 1000
+  offset: 0, 0
+  index: -1

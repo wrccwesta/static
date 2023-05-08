@@ -1,0 +1,16 @@
+skeleton.png
+size:824,510
+filter:Linear,Linear
+fxs/flare-spin-2
+bounds:2,2,506,506
+offsets:47,47,600,600
+rays-2
+bounds:510,253,255,252
+rotate:90
+spin/icn
+bounds:681,102,141,149
+offsets:4,5,150,159
+spin/spin
+bounds:510,79,172,169
+offsets:1,0,174,170
+rotate:90

@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 1628,1969
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1193, 1788
+  size: 179, 179
+  orig: 185, 181
+  offset: 3, 0
+  index: -1
+1 2
+  rotate: false
+  xy: 1415, 1486
+  size: 169, 169
+  orig: 175, 175
+  offset: 3, 3
+  index: -1
+crystal-1
+  rotate: true
+  xy: 1193, 1389
+  size: 380, 220
+  orig: 382, 223
+  offset: 1, 1
+  index: -1
+crystal-2
+  rotate: false
+  xy: 1065, 2
+  size: 319, 306
+  orig: 321, 308
+  offset: 1, 1
+  index: -1
+crystal-right-1
+  rotate: true
+  xy: 830, 1536
+  size: 431, 361
+  orig: 437, 364
+  offset: 3, 0
+  index: -1
+crystal-right-2
+  rotate: false
+  xy: 788, 362
+  size: 378, 454
+  orig: 380, 460
+  offset: 2, 3
+  index: -1
+front-left
+  rotate: true
+  xy: 1168, 310
+  size: 506, 230
+  orig: 508, 232
+  offset: 1, 1
+  index: -1
+front-right
+  rotate: false
+  xy: 2, 969
+  size: 829, 392
+  orig: 831, 394
+  offset: 1, 1
+  index: -1
+mist
+  rotate: true
+  xy: 470, 362
+  size: 605, 316
+  orig: 618, 339
+  offset: 1, 1
+  index: -1
+mist-right
+  rotate: false
+  xy: 2, 1363
+  size: 826, 604
+  orig: 831, 710
+  offset: 5, 0
+  index: -1
+ray-1
+  rotate: false
+  xy: 1348, 854
+  size: 202, 253
+  orig: 209, 261
+  offset: 1, 1
+  index: -1
+ray-2
+  rotate: false
+  xy: 1415, 1657
+  size: 94, 310
+  orig: 98, 319
+  offset: 1, 1
+  index: -1
+ray-3
+  rotate: false
+  xy: 1386, 8
+  size: 224, 300
+  orig: 229, 308
+  offset: 1, 1
+  index: -1
+ray-4
+  rotate: false
+  xy: 1400, 310
+  size: 129, 374
+  orig: 132, 384
+  offset: 2, 1
+  index: -1
+ray-right--4
+  rotate: false
+  xy: 1077, 818
+  size: 269, 569
+  orig: 276, 585
+  offset: 6, 1
+  index: -1
+ray-right-1
+  rotate: false
+  xy: 2, 23
+  size: 555, 337
+  orig: 567, 345
+  offset: 11, 1
+  index: -1
+ray-right-2
+  rotate: true
+  xy: 559, 12
+  size: 348, 504
+  orig: 357, 518
+  offset: 8, 1
+  index: -1
+ray-right-3
+  rotate: false
+  xy: 2, 529
+  size: 466, 438
+  orig: 476, 448
+  offset: 9, 1
+  index: -1
+sparks-left
+  rotate: true
+  xy: 833, 818
+  size: 654, 242
+  orig: 657, 244
+  offset: 1, 1
+  index: -1
+sparks-right-circle
+  rotate: false
+  xy: 1348, 1109
+  size: 278, 278
+  orig: 280, 280
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 704,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hiero_yellow
+  rotate: false
+  xy: 308, 29
+  size: 204, 208
+  orig: 204, 208
+  offset: 0, 0
+  index: -1
+hiero_yellow_bg
+  rotate: false
+  xy: 514, 46
+  size: 188, 191
+  orig: 188, 191
+  offset: 0, 0
+  index: -1
+letter_yellow_bg
+  rotate: false
+  xy: 2, 2
+  size: 304, 235
+  orig: 304, 235
+  offset: 0, 0
+  index: -1

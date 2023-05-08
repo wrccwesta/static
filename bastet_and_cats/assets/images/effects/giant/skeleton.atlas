@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 192,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+riskbuy/coin
+  rotate: false
+  xy: 2, 2
+  size: 70, 69
+  orig: 78, 77
+  offset: 4, 4
+  index: -1
+rock-blue
+  rotate: false
+  xy: 74, 12
+  size: 57, 59
+  orig: 65, 67
+  offset: 4, 4
+  index: -1
+rock-gold
+  rotate: false
+  xy: 133, 12
+  size: 57, 59
+  orig: 65, 67
+  offset: 4, 4
+  index: -1

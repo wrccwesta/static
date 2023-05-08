@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 654,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin1
+  rotate: false
+  xy: 2, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 158, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 314, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 470, 2
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+fx-shine-bigwin
+  rotate: false
+  xy: 626, 130
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

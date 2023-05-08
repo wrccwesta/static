@@ -1,0 +1,111 @@
+{"frames": {
+
+"dice1":
+{
+	"frame": {"x":0,"y":0,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+},
+"dice2":
+{
+	"frame": {"x":206,"y":0,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+},
+"dice3":
+{
+	"frame": {"x":0,"y":203,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+},
+"dice4":
+{
+	"frame": {"x":206,"y":203,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+},
+"dice5":
+{
+	"frame": {"x":0,"y":406,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+},
+"dice6":
+{
+	"frame": {"x":206,"y":406,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+},
+"dice_athen":
+{
+	"frame": {"x":0,"y":609,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+},
+"dice_luck":
+{
+	"frame": {"x":206,"y":609,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+},
+"dice_pink_star":
+{
+	"frame": {"x":0,"y":812,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+},
+"dice_star":
+{
+	"frame": {"x":206,"y":812,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+},
+"dice_wild":
+{
+	"frame": {"x":0,"y":1015,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+},
+"dice_zeus":
+{
+	"frame": {"x":206,"y":1015,"w":206,"h":203},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":203},
+	"sourceSize": {"w":206,"h":203}
+}},
+"animations": {
+	"dice": ["dice1","dice2","dice3","dice4","dice5","dice6"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":412,"h":1218},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:939ec87bc4e0e1aa0d63d09fef54066c:16757a3039c57a0f34af32865d26575e:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

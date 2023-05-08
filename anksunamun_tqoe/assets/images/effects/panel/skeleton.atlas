@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+panel_light
+  rotate: false
+  xy: 2, 2
+  size: 293, 307
+  orig: 293, 307
+  offset: 0, 0
+  index: -1
+panellight_old
+  rotate: false
+  xy: 2, 311
+  size: 980, 278
+  orig: 980, 278
+  offset: 0, 0
+  index: -1

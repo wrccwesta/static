@@ -1,0 +1,272 @@
+
+skeleton.png
+size: 1816,703
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A/A
+  rotate: false
+  xy: 1443, 117
+  size: 113, 130
+  orig: 113, 130
+  offset: 0, 0
+  index: -1
+Afrodit/aph-eyes
+  rotate: false
+  xy: 1748, 93
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+Afrodit/bg
+  rotate: false
+  xy: 311, 203
+  size: 242, 233
+  orig: 242, 233
+  offset: 0, 0
+  index: -1
+Afrodit/body
+  rotate: false
+  xy: 555, 216
+  size: 205, 241
+  orig: 205, 241
+  offset: 0, 0
+  index: -1
+Afrodit/decoration
+  rotate: false
+  xy: 1693, 82
+  size: 53, 148
+  orig: 54, 148
+  offset: 1, 0
+  index: -1
+Aid/bg
+  rotate: true
+  xy: 1576, 467
+  size: 234, 238
+  orig: 234, 238
+  offset: 0, 0
+  index: -1
+Aid/body
+  rotate: true
+  xy: 1071, 480
+  size: 221, 256
+  orig: 221, 256
+  offset: 0, 0
+  index: -1
+Aid/decoration
+  rotate: false
+  xy: 2, 3
+  size: 250, 135
+  orig: 250, 135
+  offset: 0, 0
+  index: -1
+Free Spins
+  rotate: false
+  xy: 1558, 232
+  size: 185, 46
+  orig: 188, 47
+  offset: 1, 1
+  index: -1
+J/J
+  rotate: true
+  xy: 1378, 38
+  size: 77, 135
+  orig: 77, 135
+  offset: 0, 0
+  index: -1
+K/K
+  rotate: true
+  xy: 1302, 166
+  size: 112, 139
+  orig: 112, 139
+  offset: 0, 0
+  index: -1
+Q/Q
+  rotate: true
+  xy: 1103, 2
+  size: 131, 137
+  orig: 131, 137
+  offset: 0, 0
+  index: -1
+Scat/bg
+  rotate: false
+  xy: 1558, 280
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+Scat/lightning
+  rotate: false
+  xy: 555, 459
+  size: 251, 242
+  orig: 254, 244
+  offset: 2, 1
+  index: -1
+Scat/lightning-fx
+  rotate: false
+  xy: 1329, 471
+  size: 245, 230
+  orig: 247, 232
+  offset: 1, 1
+  index: -1
+Scat/scat-word
+  rotate: false
+  xy: 1087, 211
+  size: 213, 52
+  orig: 215, 55
+  offset: 1, 2
+  index: -1
+Ten/Ten
+  rotate: false
+  xy: 1558, 113
+  size: 133, 117
+  orig: 133, 117
+  offset: 0, 0
+  index: -1
+Wild/bg
+  rotate: false
+  xy: 559, 10
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+Wild/leaf1
+  rotate: false
+  xy: 1279, 31
+  size: 97, 133
+  orig: 97, 133
+  offset: 0, 0
+  index: -1
+Wild/leaf2
+  rotate: true
+  xy: 946, 4
+  size: 94, 155
+  orig: 94, 157
+  offset: 0, 1
+  index: -1
+Wild/word-wild
+  rotate: true
+  xy: 1463, 249
+  size: 220, 93
+  orig: 226, 98
+  offset: 3, 2
+  index: -1
+Zeus (merged) copy
+  rotate: true
+  xy: 1748, 119
+  size: 163, 60
+  orig: 163, 60
+  offset: 0, 0
+  index: -1
+Zeus/bg
+  rotate: false
+  xy: 309, 438
+  size: 244, 263
+  orig: 244, 263
+  offset: 0, 0
+  index: -1
+Zeus/body
+  rotate: true
+  xy: 808, 478
+  size: 223, 261
+  orig: 223, 261
+  offset: 0, 0
+  index: -1
+Zeus/decoration
+  rotate: false
+  xy: 2, 140
+  size: 259, 254
+  orig: 259, 254
+  offset: 0, 0
+  index: -1
+aid-light
+  rotate: true
+  xy: 762, 227
+  size: 230, 135
+  orig: 250, 152
+  offset: 1, 0
+  index: -1
+bolt-fx
+  rotate: false
+  xy: 1274, 280
+  size: 187, 189
+  orig: 190, 191
+  offset: 3, 0
+  index: -1
+boltfx-small
+  rotate: false
+  xy: 946, 100
+  size: 133, 153
+  orig: 137, 158
+  offset: 3, 3
+  index: -1
+chain
+  rotate: true
+  xy: 891, 8
+  size: 217, 53
+  orig: 217, 53
+  offset: 0, 0
+  index: -1
+fs-logo-aphrodite
+  rotate: true
+  xy: 263, 125
+  size: 269, 46
+  orig: 271, 48
+  offset: 1, 1
+  index: -1
+fs-logo-hades
+  rotate: true
+  xy: 1745, 284
+  size: 181, 59
+  orig: 184, 62
+  offset: 1, 1
+  index: -1
+harp/harp
+  rotate: false
+  xy: 899, 255
+  size: 186, 221
+  orig: 193, 227
+  offset: 3, 4
+  index: -1
+jug/jug
+  rotate: false
+  xy: 1087, 265
+  size: 185, 213
+  orig: 191, 219
+  offset: 3, 3
+  index: -1
+light
+  rotate: false
+  xy: 311, 5
+  size: 246, 196
+  orig: 257, 200
+  offset: 4, 4
+  index: -1
+rays
+  rotate: false
+  xy: 2, 396
+  size: 305, 305
+  orig: 313, 313
+  offset: 4, 4
+  index: -1
+zeus-eyes
+  rotate: true
+  xy: 1242, 2
+  size: 109, 35
+  orig: 112, 39
+  offset: 2, 2
+  index: -1
+zeus-light
+  rotate: true
+  xy: 765, 3
+  size: 222, 124
+  orig: 223, 149
+  offset: 0, 0
+  index: -1
+zeus-lightning-eyes
+  rotate: false
+  xy: 1081, 135
+  size: 174, 74
+  orig: 218, 149
+  offset: 43, 21
+  index: -1

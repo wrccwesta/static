@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 1870,418
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Free
+  rotate: false
+  xy: 859, 14
+  size: 136, 84
+  orig: 141, 88
+  offset: 2, 2
+  index: -1
+Spins
+  rotate: false
+  xy: 859, 100
+  size: 157, 84
+  orig: 161, 88
+  offset: 2, 2
+  index: -1
+bg-win
+  rotate: true
+  xy: 351, 170
+  size: 246, 322
+  orig: 250, 326
+  offset: 2, 2
+  index: -1
+embers
+  rotate: false
+  xy: 1599, 159
+  size: 269, 257
+  orig: 277, 264
+  offset: 3, 4
+  index: -1
+fire
+  rotate: false
+  xy: 2, 155
+  size: 347, 261
+  orig: 359, 284
+  offset: 4, 6
+  index: -1
+obey/bg
+  rotate: true
+  xy: 675, 186
+  size: 230, 306
+  orig: 232, 308
+  offset: 1, 1
+  index: -1
+obey/chain
+  rotate: false
+  xy: 675, 2
+  size: 182, 182
+  orig: 184, 184
+  offset: 1, 1
+  index: -1
+obey/eagle
+  rotate: false
+  xy: 424, 43
+  size: 129, 125
+  orig: 131, 127
+  offset: 1, 1
+  index: -1
+obey/shield
+  rotate: false
+  xy: 555, 85
+  size: 90, 83
+  orig: 92, 85
+  offset: 1, 1
+  index: -1
+obey/star left
+  rotate: false
+  xy: 424, 15
+  size: 28, 26
+  orig: 30, 28
+  offset: 1, 1
+  index: -1
+raze/bg
+  rotate: true
+  xy: 983, 186
+  size: 230, 306
+  orig: 232, 308
+  offset: 1, 1
+  index: -1
+raze/bolt-left
+  rotate: true
+  xy: 997, 51
+  size: 47, 217
+  orig: 49, 219
+  offset: 1, 1
+  index: -1
+raze/bolt-right
+  rotate: true
+  xy: 997, 6
+  size: 43, 217
+  orig: 45, 219
+  offset: 1, 1
+  index: -1
+raze/skull
+  rotate: true
+  xy: 213, 21
+  size: 132, 209
+  orig: 134, 211
+  offset: 1, 1
+  index: -1
+revolt/bg
+  rotate: true
+  xy: 1291, 186
+  size: 230, 306
+  orig: 232, 308
+  offset: 1, 1
+  index: -1
+revolt/hand
+  rotate: true
+  xy: 2, 13
+  size: 140, 209
+  orig: 142, 211
+  offset: 1, 1
+  index: -1
+revolt/star 3
+  rotate: false
+  xy: 213, 6
+  size: 14, 13
+  orig: 16, 15
+  offset: 1, 1
+  index: -1
+scatter
+  rotate: false
+  xy: 1216, 100
+  size: 154, 53
+  orig: 154, 53
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 555, 25
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,405 @@
+
+skeleton.png
+size: 1967,1140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+amulet/Free Spins
+  rotate: false
+  xy: 377, 797
+  size: 227, 51
+  orig: 229, 53
+  offset: 1, 1
+  index: -1
+amulet/Scatter
+  rotate: false
+  xy: 245, 49
+  size: 179, 51
+  orig: 181, 53
+  offset: 1, 1
+  index: -1
+amulet/amulet-shine
+  rotate: false
+  xy: 661, 12
+  size: 123, 134
+  orig: 132, 146
+  offset: 4, 5
+  index: -1
+amulet/chain
+  rotate: false
+  xy: 1006, 46
+  size: 254, 72
+  orig: 256, 74
+  offset: 1, 1
+  index: -1
+amulet/crystal
+  rotate: true
+  xy: 786, 5
+  size: 148, 218
+  orig: 150, 221
+  offset: 1, 1
+  index: -1
+amulet/shadow
+  rotate: true
+  xy: 1579, 2
+  size: 147, 195
+  orig: 149, 197
+  offset: 1, 1
+  index: -1
+border
+  rotate: true
+  xy: 633, 606
+  size: 254, 267
+  orig: 254, 267
+  offset: 0, 0
+  index: -1
+cow/bg
+  rotate: false
+  xy: 902, 593
+  size: 254, 267
+  orig: 256, 269
+  offset: 1, 1
+  index: -1
+cow/body
+  rotate: true
+  xy: 1042, 120
+  size: 209, 215
+  orig: 228, 218
+  offset: 18, 1
+  index: -1
+cow/divider
+  rotate: false
+  xy: 633, 865
+  size: 254, 4
+  orig: 256, 6
+  offset: 1, 1
+  index: -1
+knight/divider
+  rotate: false
+  xy: 633, 865
+  size: 254, 4
+  orig: 256, 6
+  offset: 1, 1
+  index: -1
+ogre-knight/divider
+  rotate: false
+  xy: 633, 865
+  size: 254, 4
+  orig: 256, 6
+  offset: 1, 1
+  index: -1
+ogre-small/divider
+  rotate: false
+  xy: 633, 865
+  size: 254, 4
+  orig: 256, 6
+  offset: 1, 1
+  index: -1
+ogre-warrior/divider
+  rotate: false
+  xy: 633, 865
+  size: 254, 4
+  orig: 256, 6
+  offset: 1, 1
+  index: -1
+redneck/divider
+  rotate: false
+  xy: 633, 865
+  size: 254, 4
+  orig: 256, 6
+  offset: 1, 1
+  index: -1
+shaman/divider
+  rotate: false
+  xy: 633, 865
+  size: 254, 4
+  orig: 256, 6
+  offset: 1, 1
+  index: -1
+cow/ear
+  rotate: false
+  xy: 534, 652
+  size: 79, 45
+  orig: 81, 47
+  offset: 1, 1
+  index: -1
+cow/head
+  rotate: false
+  xy: 1347, 144
+  size: 230, 226
+  orig: 232, 228
+  offset: 1, 1
+  index: -1
+fx-mist-blue
+  rotate: true
+  xy: 1160, 835
+  size: 303, 225
+  orig: 310, 233
+  offset: 3, 4
+  index: -1
+fx-mist-pink
+  rotate: true
+  xy: 1387, 835
+  size: 303, 225
+  orig: 310, 233
+  offset: 3, 4
+  index: -1
+fx-mist-yellow
+  rotate: true
+  xy: 1614, 835
+  size: 303, 225
+  orig: 310, 233
+  offset: 3, 4
+  index: -1
+fx-spark-blue
+  rotate: false
+  xy: 492, 779
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+fx-spark-pink
+  rotate: false
+  xy: 510, 779
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+fx-spark-yellow
+  rotate: false
+  xy: 606, 832
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+fx-sparks
+  rotate: true
+  xy: 794, 370
+  size: 221, 295
+  orig: 225, 297
+  offset: 2, 1
+  index: -1
+fx-star
+  rotate: false
+  xy: 2, 766
+  size: 373, 372
+  orig: 383, 378
+  offset: 5, 1
+  index: -1
+fx-twirl2
+  rotate: true
+  xy: 259, 102
+  size: 202, 213
+  orig: 207, 217
+  offset: 2, 2
+  index: -1
+knight/bg
+  rotate: true
+  xy: 534, 350
+  size: 254, 258
+  orig: 256, 266
+  offset: 1, 1
+  index: -1
+knight/body
+  rotate: false
+  xy: 786, 155
+  size: 254, 193
+  orig: 261, 235
+  offset: 6, 1
+  index: -1
+knight/eyes
+  rotate: false
+  xy: 794, 354
+  size: 61, 14
+  orig: 65, 17
+  offset: 2, 2
+  index: -1
+knight/head
+  rotate: true
+  xy: 474, 3
+  size: 143, 185
+  orig: 146, 187
+  offset: 2, 1
+  index: -1
+ogre-knight/bg
+  rotate: true
+  xy: 1158, 579
+  size: 254, 267
+  orig: 256, 269
+  offset: 1, 1
+  index: -1
+ogre-knight/body
+  rotate: false
+  xy: 2, 295
+  size: 255, 213
+  orig: 259, 215
+  offset: 3, 1
+  index: -1
+ogre-knight/eyes
+  rotate: false
+  xy: 377, 769
+  size: 113, 26
+  orig: 115, 29
+  offset: 1, 1
+  index: -1
+ogre-knight/head
+  rotate: false
+  xy: 1347, 372
+  size: 280, 205
+  orig: 282, 207
+  offset: 1, 1
+  index: -1
+ogre-small/bg
+  rotate: true
+  xy: 1427, 579
+  size: 254, 267
+  orig: 256, 269
+  offset: 1, 1
+  index: -1
+ogre-small/body
+  rotate: false
+  xy: 2, 26
+  size: 241, 105
+  orig: 278, 125
+  offset: 36, 1
+  index: -1
+ogre-small/bones
+  rotate: false
+  xy: 1579, 151
+  size: 234, 205
+  orig: 236, 207
+  offset: 1, 1
+  index: -1
+ogre-small/eyes
+  rotate: false
+  xy: 1262, 75
+  size: 111, 67
+  orig: 114, 69
+  offset: 2, 1
+  index: -1
+ogre-small/hands
+  rotate: false
+  xy: 1629, 358
+  size: 260, 219
+  orig: 262, 222
+  offset: 1, 1
+  index: -1
+ogre-small/head
+  rotate: false
+  xy: 529, 148
+  size: 255, 200
+  orig: 258, 203
+  offset: 1, 2
+  index: -1
+ogre-warrior/bg
+  rotate: false
+  xy: 633, 871
+  size: 267, 267
+  orig: 269, 272
+  offset: 1, 1
+  index: -1
+ogre-warrior/body
+  rotate: false
+  xy: 902, 862
+  size: 256, 276
+  orig: 258, 278
+  offset: 1, 1
+  index: -1
+ogre-warrior/detail
+  rotate: false
+  xy: 474, 148
+  size: 37, 72
+  orig: 40, 78
+  offset: 2, 1
+  index: -1
+ogre-warrior/eyes
+  rotate: false
+  xy: 534, 618
+  size: 96, 32
+  orig: 99, 35
+  offset: 1, 2
+  index: -1
+ogre-warrior/head
+  rotate: true
+  xy: 1815, 136
+  size: 220, 150
+  orig: 223, 152
+  offset: 1, 1
+  index: -1
+redneck/bg
+  rotate: false
+  xy: 1091, 331
+  size: 254, 246
+  orig: 254, 258
+  offset: 0, 0
+  index: -1
+redneck/body
+  rotate: false
+  xy: 377, 850
+  size: 254, 288
+  orig: 256, 292
+  offset: 1, 1
+  index: -1
+redneck/eyes
+  rotate: false
+  xy: 341, 17
+  size: 60, 30
+  orig: 62, 34
+  offset: 1, 2
+  index: -1
+redneck/head
+  rotate: false
+  xy: 2, 133
+  size: 235, 160
+  orig: 237, 163
+  offset: 1, 1
+  index: -1
+shaman/bg
+  rotate: true
+  xy: 1696, 579
+  size: 254, 267
+  orig: 256, 269
+  offset: 1, 1
+  index: -1
+shaman/body
+  rotate: true
+  xy: 271, 507
+  size: 257, 261
+  orig: 260, 263
+  offset: 2, 1
+  index: -1
+shaman/eyes
+  rotate: false
+  xy: 245, 18
+  size: 94, 29
+  orig: 98, 32
+  offset: 2, 2
+  index: -1
+shaman/head
+  rotate: false
+  xy: 259, 306
+  size: 268, 199
+  orig: 270, 202
+  offset: 1, 2
+  index: -1
+shaman/sphere
+  rotate: false
+  xy: 534, 699
+  size: 96, 96
+  orig: 98, 99
+  offset: 1, 1
+  index: -1
+wild-border
+  rotate: true
+  xy: 2, 510
+  size: 254, 267
+  orig: 254, 267
+  offset: 0, 0
+  index: -1
+word_wild
+  rotate: false
+  xy: 1262, 23
+  size: 109, 50
+  orig: 109, 50
+  offset: 0, 0
+  index: -1

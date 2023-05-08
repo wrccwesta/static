@@ -1,0 +1,28 @@
+<font>
+	<info face="WinFont" size="255" />
+	<common lineHeight="255" scaleW="687" scaleH="666" pages="1" />
+	<pages>
+		<page id="0" file="winFont.png" />
+	</pages>
+	<chars count="17">
+		<char id="48" x="164" y="0" width="149" height="185" xoffset="0" yoffset="70" xadvance="163" /><!-- 0 -->
+		<char id="49" x="574" y="0" width="112" height="186" xoffset="0" yoffset="73" xadvance="126" /><!-- 1 -->
+		<char id="50" x="0" y="375" width="156" height="186" xoffset="0" yoffset="72" xadvance="170" /><!-- 2 -->
+		<char id="51" x="157" y="375" width="152" height="187" xoffset="0" yoffset="68" xadvance="166" /><!-- 3 -->
+		<char id="52" x="158" y="187" width="149" height="186" xoffset="0" yoffset="72" xadvance="163" /><!-- 4 -->
+		<char id="53" x="0" y="0" width="163" height="186" xoffset="0" yoffset="68" xadvance="177" /><!-- 5 -->
+		<char id="54" x="310" y="373" width="142" height="186" xoffset="0" yoffset="69" xadvance="156" /><!-- 6 -->
+		<char id="55" x="314" y="0" width="141" height="185" xoffset="0" yoffset="72" xadvance="155" /><!-- 7 -->
+		<char id="56" x="0" y="187" width="157" height="187" xoffset="0" yoffset="72" xadvance="171" /><!-- 8 -->
+		<char id="57" x="308" y="186" width="145" height="186" xoffset="0" yoffset="72" xadvance="159" /><!-- 9 -->
+		<char id="46" x="0" y="563" width="62" height="70" xoffset="0" yoffset="186" xadvance="76" /><!-- . -->
+		<char id="36" x="454" y="186" width="119" height="180" xoffset="0" yoffset="80" xadvance="133" /><!-- $ -->
+		<char id="33" x="456" y="0" width="110" height="150" xoffset="0" yoffset="88" xadvance="124" /><!-- ! -->
+		<char id="37" x="453" y="525" width="118" height="140" xoffset="0" yoffset="100" xadvance="132" /><!-- % -->
+		<char id="94" x="453" y="373" width="132" height="151" xoffset="0" yoffset="86" xadvance="146" /><!-- ^ -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="93" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="744" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

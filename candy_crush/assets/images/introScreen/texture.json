@@ -1,0 +1,87 @@
+{"frames": {
+
+"bottom":
+{
+	"frame": {"x":1,"y":1,"w":1920,"h":345},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":345},
+	"sourceSize": {"w":1920,"h":345}
+},
+"btnOff":
+{
+	"frame": {"x":1881,"y":348,"w":31,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":31},
+	"sourceSize": {"w":31,"h":31}
+},
+"btnOn":
+{
+	"frame": {"x":1881,"y":381,"w":31,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":31},
+	"sourceSize": {"w":31,"h":31}
+},
+"btnPlay":
+{
+	"frame": {"x":1588,"y":731,"w":206,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":99},
+	"sourceSize": {"w":206,"h":99}
+},
+"chevron":
+{
+	"frame": {"x":1881,"y":414,"w":19,"h":31},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":31},
+	"sourceSize": {"w":19,"h":31}
+},
+"play-ru":
+{
+	"frame": {"x":1264,"y":731,"w":322,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":322,"h":101},
+	"sourceSize": {"w":322,"h":101}
+},
+"slide0":
+{
+	"frame": {"x":618,"y":348,"w":644,"h":397},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":54,"w":644,"h":397},
+	"sourceSize": {"w":700,"h":500}
+},
+"slide1":
+{
+	"frame": {"x":1,"y":348,"w":615,"h":474},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":615,"h":474},
+	"sourceSize": {"w":700,"h":500}
+},
+"slide2":
+{
+	"frame": {"x":1264,"y":348,"w":615,"h":381},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":60,"w":615,"h":381},
+	"sourceSize": {"w":700,"h":500}
+}},
+"animations": {
+	"slide": ["slide0","slide1","slide2"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":1922,"h":833},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7f0cffd98991017d6564e0074f68d3d7:5499988a25cc9c5e043f4766858956bb:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

@@ -1,0 +1,60 @@
+{"frames": {
+
+"betlines_box":
+{
+	"frame": {"x":0,"y":0,"w":83,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":53},
+	"sourceSize": {"w":83,"h":53}
+},
+"betlines_normal":
+{
+	"frame": {"x":83,"y":0,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"betlines_win":
+{
+	"frame": {"x":96,"y":0,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"payways_scheme":
+{
+	"frame": {"x":109,"y":0,"w":283,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":283,"h":53},
+	"sourceSize": {"w":283,"h":53}
+},
+"table_close_hover":
+{
+	"frame": {"x":392,"y":0,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"table_close_normal":
+{
+	"frame": {"x":412,"y":0,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paytable.png",
+	"format": "RGBA8888",
+	"size": {"w":432,"h":53},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:50c3ee495660ec8fa3235b60cd4766e1:1e0acef14b621a16ba24d04b6a595d49:0f68fea9f431d65eb54c267865589464$"
+}
+}

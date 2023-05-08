@@ -1,0 +1,167 @@
+
+skeleton.png
+size: 1876,675
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple/fruit
+  rotate: false
+  xy: 515, 448
+  size: 278, 225
+  orig: 335, 335
+  offset: 57, 55
+  index: -1
+athen/body
+  rotate: true
+  xy: 795, 470
+  size: 203, 290
+  orig: 335, 335
+  offset: 65, 29
+  index: -1
+banana/fruit
+  rotate: false
+  xy: 1263, 5
+  size: 247, 215
+  orig: 335, 335
+  offset: 40, 69
+  index: -1
+bell/body
+  rotate: false
+  xy: 1657, 273
+  size: 217, 233
+  orig: 335, 335
+  offset: 59, 51
+  index: -1
+circle
+  rotate: true
+  xy: 503, 155
+  size: 251, 250
+  orig: 255, 252
+  offset: 2, 0
+  index: -1
+cleo/body
+  rotate: false
+  xy: 755, 162
+  size: 217, 284
+  orig: 335, 335
+  offset: 54, 27
+  index: -1
+grapes/fruit
+  rotate: false
+  xy: 252, 408
+  size: 261, 265
+  orig: 335, 335
+  offset: 34, 33
+  index: -1
+lemon/fruit
+  rotate: false
+  xy: 1013, 2
+  size: 248, 209
+  orig: 335, 335
+  offset: 44, 63
+  index: -1
+orange/fruit
+  rotate: true
+  xy: 974, 213
+  size: 255, 224
+  orig: 335, 335
+  offset: 38, 57
+  index: -1
+pharaoh/body
+  rotate: false
+  xy: 2, 380
+  size: 248, 293
+  orig: 335, 335
+  offset: 48, 28
+  index: -1
+raspberry/fruit
+  rotate: false
+  xy: 1512, 5
+  size: 220, 234
+  orig: 335, 335
+  offset: 71, 61
+  index: -1
+rays
+  rotate: true
+  xy: 1721, 519
+  size: 154, 151
+  orig: 160, 156
+  offset: 3, 2
+  index: -1
+scatter/star
+  rotate: false
+  xy: 258, 126
+  size: 243, 280
+  orig: 335, 335
+  offset: 63, 27
+  index: -1
+seven/body
+  rotate: true
+  xy: 1334, 485
+  size: 188, 226
+  orig: 335, 335
+  offset: 74, 56
+  index: -1
+spark
+  rotate: false
+  xy: 120, 44
+  size: 46, 46
+  orig: 49, 48
+  offset: 1, 1
+  index: -1
+sparks
+  rotate: true
+  xy: 1562, 508
+  size: 165, 157
+  orig: 167, 167
+  offset: 2, 3
+  index: -1
+wild/crown
+  rotate: false
+  xy: 1087, 473
+  size: 245, 200
+  orig: 335, 335
+  offset: 48, 107
+  index: -1
+wild/wild-luxor
+  rotate: false
+  xy: 761, 2
+  size: 250, 158
+  orig: 335, 335
+  offset: 50, 46
+  index: -1
+wild/wild-olymp
+  rotate: false
+  xy: 503, 22
+  size: 256, 131
+  orig: 335, 335
+  offset: 47, 40
+  index: -1
+wmelon-piece/fruit
+  rotate: true
+  xy: 1200, 222
+  size: 249, 228
+  orig: 335, 335
+  offset: 43, 54
+  index: -1
+wmelon/fruit
+  rotate: true
+  xy: 1430, 241
+  size: 242, 225
+  orig: 335, 335
+  offset: 47, 55
+  index: -1
+zeus-eyes
+  rotate: false
+  xy: 2, 41
+  size: 116, 49
+  orig: 140, 58
+  offset: 18, 5
+  index: -1
+zeus/body
+  rotate: false
+  xy: 2, 92
+  size: 254, 286
+  orig: 335, 335
+  offset: 38, 24
+  index: -1

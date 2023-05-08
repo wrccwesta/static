@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 1924,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_bubble_one
+  rotate: false
+  xy: 1848, 293
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+fx_mist
+  rotate: true
+  xy: 924, 2
+  size: 364, 391
+  orig: 364, 391
+  offset: 0, 0
+  index: -1
+fx_spark_yellow
+  rotate: false
+  xy: 1739, 60
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+fx_star_blue
+  rotate: true
+  xy: 1317, 6
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+fx_star_purple
+  rotate: true
+  xy: 1383, 6
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+fx_water
+  rotate: true
+  xy: 1317, 74
+  size: 292, 284
+  orig: 292, 284
+  offset: 0, 0
+  index: -1
+mer2_body
+  rotate: true
+  xy: 2, 27
+  size: 339, 920
+  orig: 339, 920
+  offset: 0, 0
+  index: -1
+wild& Respin
+  rotate: false
+  xy: 1603, 232
+  size: 243, 134
+  orig: 243, 134
+  offset: 0, 0
+  index: -1
+x2 wild& Respin
+  rotate: true
+  xy: 1603, 2
+  size: 228, 134
+  orig: 228, 134
+  offset: 0, 0
+  index: -1

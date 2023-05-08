@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 199,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_panel_candle
+  rotate: false
+  xy: 183, 102
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+fx_panel_candlebody1
+  rotate: false
+  xy: 133, 90
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+fx_panel_candlebody2
+  rotate: true
+  xy: 133, 29
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+fx_panel_light
+  rotate: false
+  xy: 2, 2
+  size: 129, 138
+  orig: 129, 138
+  offset: 0, 0
+  index: -1
+fx_panel_skull
+  rotate: true
+  xy: 170, 30
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1

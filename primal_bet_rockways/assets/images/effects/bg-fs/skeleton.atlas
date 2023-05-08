@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 887,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust-wild-appear
+  rotate: false
+  xy: 726, 356
+  size: 159, 152
+  orig: 160, 157
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 726, 270
+  size: 84, 84
+  orig: 99, 98
+  offset: 8, 7
+  index: -1
+vulcan
+  rotate: false
+  xy: 2, 2
+  size: 722, 506
+  orig: 1920, 1080
+  offset: 28, 529
+  index: -1

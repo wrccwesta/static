@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 1405,374
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crab
+  rotate: true
+  xy: 395, 78
+  size: 294, 277
+  orig: 294, 277
+  offset: 0, 0
+  index: -1
+fish
+  rotate: true
+  xy: 674, 78
+  size: 294, 277
+  orig: 294, 277
+  offset: 0, 0
+  index: -1
+fx_bubble_one
+  rotate: true
+  xy: 395, 2
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+fx_mist
+  rotate: true
+  xy: 2, 8
+  size: 364, 391
+  orig: 364, 391
+  offset: 0, 0
+  index: -1
+fx_spark_yellow
+  rotate: false
+  xy: 1232, 202
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+horse
+  rotate: true
+  xy: 953, 78
+  size: 294, 277
+  orig: 294, 277
+  offset: 0, 0
+  index: -1

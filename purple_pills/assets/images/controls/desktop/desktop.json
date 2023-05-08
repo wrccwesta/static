@@ -1,0 +1,164 @@
+{"frames": {
+
+"btn_autoplay_active":
+{
+	"frame": {"x":587,"y":1,"w":289,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_autoplay_hover":
+{
+	"frame": {"x":587,"y":1,"w":289,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_autoplay_inactive":
+{
+	"frame": {"x":587,"y":1,"w":289,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_autoplay_press":
+{
+	"frame": {"x":587,"y":1,"w":289,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_maxbet_active":
+{
+	"frame": {"x":878,"y":1,"w":289,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_maxbet_hover":
+{
+	"frame": {"x":878,"y":1,"w":289,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_maxbet_inactive":
+{
+	"frame": {"x":878,"y":1,"w":289,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_maxbet_press":
+{
+	"frame": {"x":878,"y":1,"w":289,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_small_active":
+{
+	"frame": {"x":587,"y":110,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_hover":
+{
+	"frame": {"x":623,"y":110,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_inactive":
+{
+	"frame": {"x":659,"y":110,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_press":
+{
+	"frame": {"x":695,"y":110,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_spin_active":
+{
+	"frame": {"x":465,"y":1,"w":120,"h":122},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":122},
+	"sourceSize": {"w":120,"h":122}
+},
+"btn_spin_hover":
+{
+	"frame": {"x":1,"y":1,"w":154,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":154},
+	"sourceSize": {"w":154,"h":154}
+},
+"btn_spin_inactive":
+{
+	"frame": {"x":157,"y":1,"w":154,"h":154},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":154},
+	"sourceSize": {"w":154,"h":154}
+},
+"btn_spin_press":
+{
+	"frame": {"x":313,"y":1,"w":150,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":150,"h":153},
+	"sourceSize": {"w":154,"h":154}
+},
+"icn_spin_active":
+{
+	"frame": {"x":1169,"y":1,"w":59,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":59},
+	"sourceSize": {"w":59,"h":59}
+},
+"icn_spin_inactive":
+{
+	"frame": {"x":1169,"y":62,"w":55,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":55},
+	"sourceSize": {"w":55,"h":55}
+},
+"panel":
+{
+	"frame": {"x":1,"y":157,"w":1491,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1491,"h":98},
+	"sourceSize": {"w":1491,"h":98}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "desktop.png",
+	"format": "RGBA8888",
+	"size": {"w":1493,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d69e62d28f3b9e3e2e014c17de28c0bf:9173684a29fae37bc4a476043da87015:0b077c73a0795f36362c69075e5df9fe$"
+}
+}

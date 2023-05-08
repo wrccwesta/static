@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 1171,1059
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_wall_right
+  rotate: true
+  xy: 2, 77
+  size: 980, 1047
+  orig: 980, 1047
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 1051, 273
+  size: 115, 273
+  orig: 115, 273
+  offset: 0, 0
+  index: -1
+fs_shine
+  rotate: true
+  xy: 2, 2
+  size: 73, 1080
+  orig: 73, 1080
+  offset: 0, 0
+  index: -1
+fs_sparks
+  rotate: false
+  xy: 1051, 548
+  size: 118, 509
+  orig: 118, 509
+  offset: 0, 0
+  index: -1

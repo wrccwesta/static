@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 274,848
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx-magic
+  rotate: false
+  xy: 2, 615
+  size: 261, 231
+  orig: 275, 245
+  offset: 8, 2
+  index: -1
+multi/1
+  rotate: false
+  xy: 212, 57
+  size: 60, 101
+  orig: 66, 106
+  offset: 3, 3
+  index: -1
+multi/15
+  rotate: false
+  xy: 2, 232
+  size: 136, 102
+  orig: 141, 108
+  offset: 3, 3
+  index: -1
+multi/2
+  rotate: true
+  xy: 2, 67
+  size: 79, 103
+  orig: 85, 107
+  offset: 3, 2
+  index: -1
+multi/3
+  rotate: true
+  xy: 2, 148
+  size: 82, 104
+  orig: 88, 108
+  offset: 3, 2
+  index: -1
+multi/5
+  rotate: true
+  xy: 108, 77
+  size: 81, 102
+  orig: 87, 108
+  offset: 4, 3
+  index: -1
+multi/6
+  rotate: true
+  xy: 140, 248
+  size: 86, 103
+  orig: 91, 108
+  offset: 3, 3
+  index: -1
+multi/9
+  rotate: true
+  xy: 140, 160
+  size: 86, 103
+  orig: 91, 108
+  offset: 3, 3
+  index: -1
+multi/BASTET_logo
+  rotate: false
+  xy: 2, 466
+  size: 266, 147
+  orig: 271, 147
+  offset: 4, 0
+  index: -1
+multi/multi-bg
+  rotate: false
+  xy: 2, 336
+  size: 257, 128
+  orig: 257, 128
+  offset: 0, 0
+  index: -1
+multi/x
+  rotate: true
+  xy: 107, 2
+  size: 73, 81
+  orig: 81, 87
+  offset: 4, 3
+  index: -1

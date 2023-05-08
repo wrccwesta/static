@@ -1,0 +1,9 @@
+skeleton.png
+size:130,56
+filter:Linear,Linear
+fxs/frameRightPanel
+bounds:2,2,81,52
+fxs/lightGreen
+bounds:85,10,44,43
+offsets:3,4,50,51
+rotate:90

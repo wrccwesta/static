@@ -1,0 +1,333 @@
+skeleton.png
+size:1951,2032
+filter:Linear,Linear
+diver/cast-ability/Diver cast ability10
+bounds:1518,1224,256,431
+offsets:75,42,360,540
+rotate:90
+diver/cast-ability/Diver cast ability11
+bounds:267,94,261,430
+offsets:74,40,360,540
+diver/cast-ability/Diver cast ability12
+bounds:1445,1766,264,429
+offsets:74,39,360,540
+rotate:90
+diver/cast-ability/Diver cast ability13
+bounds:1088,1205,266,428
+offsets:74,39,360,540
+rotate:90
+diver/cast-ability/Diver cast ability14
+bounds:1435,1482,266,428
+offsets:74,39,360,540
+rotate:90
+diver/cast-ability/Diver cast ability15
+bounds:1664,112,255,432
+offsets:76,43,360,540
+diver/cast-ability/Diver cast ability16
+bounds:2,1594,228,436
+offsets:83,52,360,540
+diver/cast-ability/Diver cast ability18
+bounds:290,526,262,428
+offsets:76,79,360,540
+diver/cast-ability/Diver cast ability19
+bounds:2,2,258,423
+offsets:67,90,360,540
+diver/cast-ability/Diver cast ability20
+bounds:1229,781,257,422
+offsets:66,94,360,540
+diver/cast-ability/Diver cast ability21
+bounds:806,310,256,423
+offsets:67,94,360,540
+diver/cast-ability/Diver cast ability24
+bounds:2,427,263,423
+offsets:75,85,360,540
+diver/cast-ability/Diver cast ability5
+bounds:1064,315,217,432
+offsets:87,58,360,540
+rotate:90
+diver/cast-ability/Diver cast ability6
+bounds:1488,970,233,433
+offsets:80,54,360,540
+rotate:90
+diver/cast-ability/Diver cast ability7
+bounds:417,1267,240,434
+offsets:78,49,360,540
+diver/cast-ability/Diver cast ability8
+bounds:1229,534,245,433
+offsets:77,46,360,540
+rotate:90
+diver/cast-ability/Diver cast ability9
+bounds:554,522,250,432
+offsets:76,44,360,540
+diver/idle-rare/Diver Idle rare33
+bounds:530,97,256,423
+offsets:60,87,360,540
+diver/idle-rare/Diver Idle rare34
+bounds:1064,57,256,421
+offsets:62,87,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare35
+bounds:1664,546,256,422
+offsets:64,84,360,540
+diver/win/Diver Win15
+bounds:806,735,269,421
+offsets:53,62,360,540
+rotate:90
+diver/win/Diver Win16
+bounds:2,852,286,408
+offsets:45,87,360,540
+diver/win/Diver Win17
+bounds:1061,1750,280,382
+offsets:47,109,360,540
+rotate:90
+diver/win/Diver Win18
+bounds:1061,1473,275,372
+offsets:49,116,360,540
+rotate:90
+diver/win/Diver Win19
+bounds:659,1430,286,374
+offsets:45,114,360,540
+rotate:90
+diver/win/Diver Win20
+bounds:417,956,309,387
+offsets:36,106,360,540
+rotate:90
+diver/win/Diver Win21
+bounds:232,1703,327,404
+offsets:27,93,360,540
+rotate:90
+diver/win/Diver Win22
+bounds:2,1262,330,413
+offsets:24,86,360,540
+rotate:90
+diver/win/Diver Win23
+bounds:638,1718,312,421
+offsets:30,76,360,540
+rotate:90
+diver/win/Diver Win24
+bounds:806,1006,280,422
+offsets:46,70,360,540
+
+skeleton_2.png
+size:1955,1975
+filter:Linear,Linear
+diver/cast-ability/Diver cast ability1
+bounds:1271,43,237,418
+offsets:72,68,360,540
+rotate:90
+diver/cast-ability/Diver cast ability17
+bounds:2,1544,254,429
+offsets:92,66,360,540
+diver/cast-ability/Diver cast ability2
+bounds:1699,295,238,418
+offsets:76,68,360,540
+diver/cast-ability/Diver cast ability22
+bounds:2,259,253,425
+offsets:69,94,360,540
+diver/cast-ability/Diver cast ability23
+bounds:216,688,252,425
+offsets:72,93,360,540
+diver/cast-ability/Diver cast ability25
+bounds:852,15,254,417
+offsets:73,75,360,540
+rotate:90
+diver/cast-ability/Diver cast ability3
+bounds:987,1551,237,422
+offsets:80,66,360,540
+diver/cast-ability/Diver cast ability4
+bounds:2,686,212,427
+offsets:92,62,360,540
+diver/idle-rare/Diver Idle rare17
+bounds:1476,287,221,419
+offsets:80,81,360,540
+diver/idle-rare/Diver Idle rare19
+bounds:1483,1132,227,419
+offsets:76,83,360,540
+diver/idle-rare/Diver Idle rare20
+bounds:1003,275,229,421
+offsets:75,83,360,540
+diver/idle-rare/Diver Idle rare21
+bounds:976,698,232,423
+offsets:73,84,360,540
+diver/idle-rare/Diver Idle rare22
+bounds:766,271,235,423
+offsets:71,85,360,540
+diver/idle-rare/Diver Idle rare23
+bounds:746,1549,239,424
+offsets:69,86,360,540
+diver/idle-rare/Diver Idle rare24
+bounds:238,1117,242,425
+offsets:67,86,360,540
+diver/idle-rare/Diver Idle rare25
+bounds:737,1123,245,424
+offsets:66,87,360,540
+diver/idle-rare/Diver Idle rare26
+bounds:726,696,248,424
+offsets:64,87,360,540
+diver/idle-rare/Diver Idle rare27
+bounds:514,265,250,424
+offsets:63,88,360,540
+diver/idle-rare/Diver Idle rare28
+bounds:492,1549,252,424
+offsets:62,88,360,540
+diver/idle-rare/Diver Idle rare29
+bounds:482,1122,253,424
+offsets:61,88,360,540
+diver/idle-rare/Diver Idle rare3
+bounds:1712,715,239,418
+offsets:75,69,360,540
+diver/idle-rare/Diver Idle rare30
+bounds:470,691,254,424
+offsets:61,88,360,540
+diver/idle-rare/Diver Idle rare31
+bounds:2,2,255,424
+offsets:60,87,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare32
+bounds:257,262,255,424
+offsets:60,87,360,540
+diver/idle-rare/Diver Idle rare36
+bounds:428,6,254,422
+offsets:66,81,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare37
+bounds:984,1125,250,422
+offsets:68,77,360,540
+diver/idle-rare/Diver Idle rare38
+bounds:1236,1129,245,420
+offsets:70,75,360,540
+diver/idle-rare/Diver Idle rare39
+bounds:1712,1135,241,417
+offsets:71,72,360,540
+diver/idle-rare/Diver Idle rare4
+bounds:1234,282,240,419
+offsets:77,69,360,540
+diver/idle-rare/Diver Idle rare5
+bounds:1461,708,236,419
+offsets:80,70,360,540
+diver/win/Diver Win14
+bounds:1693,1554,226,419
+offsets:71,48,360,540
+diver/win/Diver Win2
+bounds:1456,1553,235,420
+offsets:72,66,360,540
+diver/win/Diver Win25
+bounds:1210,703,249,420
+offsets:64,68,360,540
+diver/win/Diver Win3
+bounds:2,1115,234,427
+offsets:70,63,360,540
+diver/win/Diver Win4
+bounds:258,1548,232,425
+offsets:68,58,360,540
+diver/win/Diver Win5
+bounds:1226,1551,228,422
+offsets:68,52,360,540
+
+skeleton_3.png
+size:1686,1371
+filter:Linear,Linear
+diver/cast-ability/Diver cast ability26
+bounds:2,15,236,418
+offsets:72,68,360,540
+rotate:90
+diver/win/Diver Win26
+bounds:2,15,236,418
+offsets:72,68,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare1
+bounds:422,8,236,418
+offsets:72,68,360,540
+rotate:90
+diver/win/Diver Win1
+bounds:422,8,236,418
+offsets:72,68,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare10
+bounds:2,1159,210,419
+offsets:84,76,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare11
+bounds:844,1158,211,419
+offsets:84,77,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare12
+bounds:1265,1157,212,419
+offsets:84,78,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare13
+bounds:423,943,214,418
+offsets:83,79,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare14
+bounds:843,940,216,419
+offsets:82,79,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare15
+bounds:1264,938,217,419
+offsets:82,80,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare16
+bounds:2,724,219,419
+offsets:81,80,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare18
+bounds:844,712,224,419
+offsets:78,82,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare2
+bounds:842,2,237,418
+offsets:73,68,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare40
+bounds:1262,2,237,418
+offsets:72,69,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare6
+bounds:1265,707,229,418
+offsets:82,72,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare7
+bounds:423,718,220,419
+offsets:83,73,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare8
+bounds:2,945,212,419
+offsets:84,74,360,540
+rotate:90
+diver/idle-rare/Diver Idle rare9
+bounds:423,1159,210,419
+offsets:84,75,360,540
+rotate:90
+diver/win/Diver Win10
+bounds:2,259,232,382
+offsets:65,40,360,540
+rotate:90
+diver/win/Diver Win11
+bounds:386,253,232,376
+offsets:65,40,360,540
+rotate:90
+diver/win/Diver Win12
+bounds:764,246,232,373
+offsets:65,40,360,540
+rotate:90
+diver/win/Diver Win13
+bounds:2,493,229,392
+offsets:67,41,360,540
+rotate:90
+diver/win/Diver Win6
+bounds:396,487,229,417
+offsets:67,47,360,540
+rotate:90
+diver/win/Diver Win7
+bounds:815,480,230,410
+offsets:66,43,360,540
+rotate:90
+diver/win/Diver Win8
+bounds:1227,475,230,401
+offsets:66,41,360,540
+rotate:90
+diver/win/Diver Win9
+bounds:1139,241,232,390
+offsets:65,41,360,540
+rotate:90

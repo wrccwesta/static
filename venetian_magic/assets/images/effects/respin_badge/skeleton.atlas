@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 730,215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+badge_respin_bg
+  rotate: false
+  xy: 2, 2
+  size: 647, 211
+  orig: 647, 211
+  offset: 0, 0
+  index: -1
+respin_badge_text
+  rotate: true
+  xy: 651, 5
+  size: 208, 77
+  orig: 208, 77
+  offset: 0, 0
+  index: -1

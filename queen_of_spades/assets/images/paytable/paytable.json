@@ -1,0 +1,84 @@
+{"frames": {
+
+"betlines_box":
+{
+	"frame": {"x":945,"y":1,"w":83,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":53},
+	"sourceSize": {"w":83,"h":53}
+},
+"betlines_normal":
+{
+	"frame": {"x":871,"y":1,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"betlines_win":
+{
+	"frame": {"x":886,"y":1,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"king":
+{
+	"frame": {"x":1,"y":1033,"w":1745,"h":978},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1745,"h":978},
+	"sourceSize": {"w":1745,"h":978}
+},
+"queen":
+{
+	"frame": {"x":1,"y":56,"w":1740,"h":975},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1740,"h":975},
+	"sourceSize": {"w":1740,"h":975}
+},
+"table_close_hover":
+{
+	"frame": {"x":901,"y":1,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"table_close_normal":
+{
+	"frame": {"x":923,"y":1,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"table_scroll_bar":
+{
+	"frame": {"x":1,"y":1,"w":7,"h":745},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":745},
+	"sourceSize": {"w":7,"h":745}
+},
+"table_scroll_tool":
+{
+	"frame": {"x":748,"y":1,"w":7,"h":121},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":121},
+	"sourceSize": {"w":7,"h":121}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paytable.png",
+	"format": "RGBA8888",
+	"size": {"w":1747,"h":2012},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9fb2f0daf56935518e1dc65069e40f63:95464e39cfe555d0a88bf7e96073492a:0f68fea9f431d65eb54c267865589464$"
+}
+}

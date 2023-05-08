@@ -1,0 +1,223 @@
+
+skeleton.png
+size: 1035,2021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banana/fruit
+  rotate: true
+  xy: 328, 1707
+  size: 312, 287
+  orig: 331, 312
+  offset: 12, 11
+  index: -1
+cherry/fruit
+  rotate: true
+  xy: 615, 1170
+  size: 265, 259
+  orig: 267, 261
+  offset: 1, 1
+  index: -1
+circle
+  rotate: false
+  xy: 617, 1768
+  size: 251, 251
+  orig: 260, 260
+  offset: 5, 5
+  index: -1
+fs-macau
+  rotate: false
+  xy: 2, 60
+  size: 264, 170
+  orig: 274, 179
+  offset: 5, 5
+  index: -1
+fs-monaco
+  rotate: false
+  xy: 268, 20
+  size: 232, 184
+  orig: 247, 198
+  offset: 6, 8
+  index: -1
+grape/fruit
+  rotate: true
+  xy: 597, 206
+  size: 286, 250
+  orig: 300, 265
+  offset: 7, 7
+  index: -1
+grape/leaf
+  rotate: true
+  xy: 833, 2
+  size: 202, 172
+  orig: 220, 187
+  offset: 11, 8
+  index: -1
+joker_f/body
+  rotate: false
+  xy: 318, 1121
+  size: 295, 277
+  orig: 312, 295
+  offset: 9, 9
+  index: -1
+joker_m/body
+  rotate: false
+  xy: 2, 1419
+  size: 324, 293
+  orig: 331, 312
+  offset: 3, 10
+  index: -1
+king/body
+  rotate: true
+  xy: 2, 232
+  size: 273, 330
+  orig: 291, 331
+  offset: 9, 0
+  index: -1
+lemon/fruit
+  rotate: false
+  xy: 309, 511
+  size: 300, 278
+  orig: 324, 301
+  offset: 11, 11
+  index: -1
+lemon/leaf
+  rotate: true
+  xy: 876, 1229
+  size: 162, 142
+  orig: 196, 168
+  offset: 18, 18
+  index: -1
+orange/fruit
+  rotate: false
+  xy: 2, 1119
+  size: 314, 298
+  orig: 331, 320
+  offset: 7, 11
+  index: -1
+plum/fruit
+  rotate: true
+  xy: 590, 834
+  size: 285, 266
+  orig: 300, 279
+  offset: 3, 2
+  index: -1
+plum/leaf
+  rotate: false
+  xy: 849, 392
+  size: 174, 183
+  orig: 192, 201
+  offset: 12, 13
+  index: -1
+queen/body
+  rotate: false
+  xy: 312, 791
+  size: 276, 326
+  orig: 296, 331
+  offset: 10, 1
+  index: -1
+rays
+  rotate: false
+  xy: 2, 507
+  size: 305, 305
+  orig: 313, 313
+  offset: 4, 4
+  index: -1
+sberry/fruit
+  rotate: true
+  xy: 328, 1400
+  size: 305, 285
+  orig: 331, 314
+  offset: 10, 11
+  index: -1
+scat/scatter-macau
+  rotate: false
+  xy: 502, 82
+  size: 329, 122
+  orig: 331, 134
+  offset: 1, 6
+  index: -1
+scat/scatter-monaco
+  rotate: true
+  xy: 847, 577
+  size: 255, 126
+  orig: 272, 142
+  offset: 7, 8
+  index: -1
+scat/star
+  rotate: true
+  xy: 2, 814
+  size: 303, 308
+  orig: 331, 331
+  offset: 13, 8
+  index: -1
+spark
+  rotate: false
+  xy: 858, 907
+  size: 64, 65
+  orig: 80, 79
+  offset: 8, 7
+  index: -1
+sparks
+  rotate: true
+  xy: 334, 206
+  size: 303, 261
+  orig: 315, 285
+  offset: 5, 10
+  index: -1
+star-light
+  rotate: true
+  xy: 615, 1437
+  size: 268, 258
+  orig: 275, 264
+  offset: 4, 3
+  index: -1
+wild/crown
+  rotate: true
+  xy: 611, 510
+  size: 322, 234
+  orig: 331, 249
+  offset: 4, 7
+  index: -1
+wild/wild-macau
+  rotate: true
+  xy: 876, 1393
+  size: 209, 123
+  orig: 221, 134
+  offset: 6, 5
+  index: -1
+wild/wild-monaco
+  rotate: true
+  xy: 875, 1604
+  size: 226, 128
+  orig: 242, 143
+  offset: 9, 7
+  index: -1
+wmelon/fruit
+  rotate: false
+  xy: 2, 1714
+  size: 314, 305
+  orig: 331, 328
+  offset: 3, 11
+  index: -1
+x2
+  rotate: true
+  xy: 858, 974
+  size: 194, 163
+  orig: 209, 174
+  offset: 9, 6
+  index: -1
+x3
+  rotate: true
+  xy: 870, 1832
+  size: 187, 162
+  orig: 202, 174
+  offset: 9, 6
+  index: -1
+x5
+  rotate: false
+  xy: 849, 227
+  size: 184, 163
+  orig: 199, 174
+  offset: 9, 6
+  index: -1

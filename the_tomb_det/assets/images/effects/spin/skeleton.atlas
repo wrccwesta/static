@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 809,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spin_drago
+  rotate: false
+  xy: 690, 61
+  size: 117, 111
+  orig: 117, 111
+  offset: 0, 0
+  index: -1
+spin_hover
+  rotate: false
+  xy: 2, 2
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+spin_inactive
+  rotate: false
+  xy: 174, 2
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+spin_normal
+  rotate: false
+  xy: 346, 2
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+spin_press
+  rotate: false
+  xy: 518, 2
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1

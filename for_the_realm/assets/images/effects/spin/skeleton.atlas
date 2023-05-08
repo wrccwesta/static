@@ -1,0 +1,15 @@
+skeleton.png
+size:585,233
+filter:Linear,Linear
+magic-2
+bounds:240,39,190,192
+offsets:56,41,300,273
+rays
+bounds:2,2,236,229
+offsets:12,11,255,252
+spin/body
+bounds:432,76,155,151
+rotate:90
+spin/icon
+bounds:432,7,67,80
+rotate:90

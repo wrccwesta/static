@@ -1,0 +1,14 @@
+skeleton.png
+size:560,173
+filter:Linear,Linear
+lamp
+bounds:2,21,150,226
+offsets:1618,817,1920,1080
+rotate:90
+lamp-light
+bounds:230,2,183,169
+offsets:10,10,206,190
+smoke-train
+bounds:415,22,149,143
+offsets:1,1,150,147
+rotate:90

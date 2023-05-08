@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 559,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coins/1
+  rotate: false
+  xy: 194, 56
+  size: 146, 124
+  orig: 147, 124
+  offset: 1, 0
+  index: -1
+coins/10
+  rotate: false
+  xy: 411, 218
+  size: 120, 107
+  orig: 120, 108
+  offset: 0, 0
+  index: -1
+coins/11
+  rotate: false
+  xy: 2, 257
+  size: 234, 233
+  orig: 236, 234
+  offset: 1, 0
+  index: -1
+coins/12
+  rotate: true
+  xy: 238, 182
+  size: 137, 168
+  orig: 139, 169
+  offset: 1, 0
+  index: -1
+coins/13
+  rotate: true
+  xy: 411, 327
+  size: 163, 146
+  orig: 165, 149
+  offset: 1, 1
+  index: -1
+coins/2
+  rotate: false
+  xy: 107, 2
+  size: 80, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+coins/3
+  rotate: false
+  xy: 444, 4
+  size: 108, 100
+  orig: 109, 100
+  offset: 1, 0
+  index: -1
+coins/4
+  rotate: false
+  xy: 2, 81
+  size: 190, 174
+  orig: 191, 176
+  offset: 0, 1
+  index: -1
+coins/5
+  rotate: true
+  xy: 189, 12
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+coins/6
+  rotate: false
+  xy: 238, 321
+  size: 171, 169
+  orig: 173, 171
+  offset: 1, 1
+  index: -1
+coins/7
+  rotate: true
+  xy: 444, 106
+  size: 110, 104
+  orig: 110, 105
+  offset: 0, 0
+  index: -1
+coins/8
+  rotate: true
+  xy: 2, 22
+  size: 57, 103
+  orig: 57, 103
+  offset: 0, 0
+  index: -1
+coins/9
+  rotate: false
+  xy: 342, 57
+  size: 100, 123
+  orig: 104, 124
+  offset: 3, 0
+  index: -1

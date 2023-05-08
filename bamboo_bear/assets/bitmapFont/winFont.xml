@@ -1,0 +1,28 @@
+<font>
+  <info face="WinFont" size="346" />
+  <common lineHeight="346" scaleW="852" scaleH="903" pages="1" />
+  <pages>
+    <page id="0" file="winFont.png" />
+  </pages>
+  <chars count="17">
+    <char id="48" x="384" y="0" width="184" height="249" xoffset="0" yoffset="97" xadvance="202" /><!-- 0 -->
+    <char id="49" x="731" y="500" width="120" height="249" xoffset="0" yoffset="97" xadvance="138" /><!-- 1 -->
+    <char id="50" x="569" y="0" width="182" height="249" xoffset="0" yoffset="97" xadvance="200" /><!-- 2 -->
+    <char id="51" x="568" y="250" width="184" height="249" xoffset="0" yoffset="97" xadvance="202" /><!-- 3 -->
+    <char id="52" x="0" y="436" width="196" height="249" xoffset="0" yoffset="97" xadvance="214" /><!-- 4 -->
+    <char id="53" x="197" y="0" width="186" height="249" xoffset="0" yoffset="97" xadvance="204" /><!-- 5 -->
+    <char id="54" x="197" y="250" width="185" height="249" xoffset="0" yoffset="97" xadvance="203" /><!-- 6 -->
+    <char id="55" x="383" y="500" width="184" height="249" xoffset="0" yoffset="97" xadvance="202" /><!-- 7 -->
+    <char id="56" x="383" y="250" width="184" height="249" xoffset="0" yoffset="97" xadvance="202" /><!-- 8 -->
+    <char id="57" x="197" y="500" width="185" height="249" xoffset="0" yoffset="97" xadvance="203" /><!-- 9 -->
+    <char id="46" x="175" y="750" width="81" height="90" xoffset="0" yoffset="256" xadvance="99" /><!-- . -->
+    <char id="36" x="568" y="500" width="162" height="230" xoffset="0" yoffset="122" xadvance="180" /><!-- $ -->
+    <char id="37" x="0" y="686" width="174" height="216" xoffset="0" yoffset="130" xadvance="192" /><!-- % -->
+    <char id="33" x="0" y="216" width="196" height="219" xoffset="0" yoffset="127" xadvance="214" /><!-- ! -->
+    <char id="94" x="0" y="0" width="196" height="215" xoffset="0" yoffset="131" xadvance="214" /><!-- ^ -->
+    <char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="121" /><!--   -->
+    <char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="968" /><!--    -->
+  </chars>
+  <kernings count="0">
+  </kernings>
+</font>

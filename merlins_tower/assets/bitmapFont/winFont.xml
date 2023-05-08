@@ -1,0 +1,28 @@
+<font>
+	<info face="WinFont" size="351" />
+	<common lineHeight="351" scaleW="700" scaleH="762" pages="1" />
+	<pages>
+		<page id="0" file="winFont.png" />
+	</pages>
+	<chars count="17">
+		<char id="48" x="286" y="494" width="138" height="246" xoffset="0" yoffset="105" xadvance="152" /><!-- 0 -->
+		<char id="49" x="568" y="0" width="107" height="241" xoffset="0" yoffset="108" xadvance="121" /><!-- 1 -->
+		<char id="50" x="430" y="0" width="137" height="244" xoffset="0" yoffset="107" xadvance="151" /><!-- 2 -->
+		<char id="51" x="563" y="515" width="136" height="246" xoffset="0" yoffset="105" xadvance="150" /><!-- 3 -->
+		<char id="52" x="0" y="242" width="150" height="241" xoffset="0" yoffset="108" xadvance="164" /><!-- 4 -->
+		<char id="53" x="425" y="487" width="137" height="243" xoffset="0" yoffset="107" xadvance="151" /><!-- 5 -->
+		<char id="54" x="151" y="0" width="139" height="246" xoffset="0" yoffset="105" xadvance="153" /><!-- 6 -->
+		<char id="55" x="425" y="245" width="137" height="241" xoffset="0" yoffset="108" xadvance="151" /><!-- 7 -->
+		<char id="56" x="144" y="484" width="141" height="246" xoffset="0" yoffset="105" xadvance="155" /><!-- 8 -->
+		<char id="57" x="286" y="247" width="138" height="246" xoffset="0" yoffset="105" xadvance="152" /><!-- 9 -->
+		<char id="46" x="151" y="247" width="74" height="75" xoffset="0" yoffset="277" xadvance="88" /><!-- . -->
+		<char id="36" x="563" y="245" width="136" height="269" xoffset="0" yoffset="94" xadvance="150" /><!-- $ -->
+		<char id="33" x="0" y="484" width="143" height="246" xoffset="0" yoffset="105" xadvance="157" /><!-- ! -->
+		<char id="37" x="291" y="0" width="138" height="244" xoffset="0" yoffset="107" xadvance="152" /><!-- % -->
+		<char id="94" x="0" y="0" width="150" height="241" xoffset="0" yoffset="108" xadvance="164" /><!-- ^ -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="93" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="744" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

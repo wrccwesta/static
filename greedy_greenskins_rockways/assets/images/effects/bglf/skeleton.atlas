@@ -1,0 +1,17 @@
+skeleton.png
+size:1050,544
+filter:Linear,Linear
+bglf/glow
+bounds:2,2,960,540
+bubbleBlue
+bounds:964,360,34,34
+offsets:8,8,50,50
+fxs/light
+bounds:964,458,84,84
+offsets:8,7,99,98
+spark-1
+bounds:964,324,34,34
+offsets:3,3,40,40
+spark2
+bounds:964,396,60,60
+offsets:10,10,80,80

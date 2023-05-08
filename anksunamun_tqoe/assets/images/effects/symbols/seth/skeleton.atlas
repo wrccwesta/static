@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 271, 148
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+ank_light
+  rotate: false
+  xy: 579, 269
+  size: 239, 241
+  orig: 239, 241
+  offset: 0, 0
+  index: -1
+ra_acc2
+  rotate: false
+  xy: 214, 70
+  size: 55, 169
+  orig: 55, 169
+  offset: 0, 0
+  index: -1
+ra_backarm
+  rotate: false
+  xy: 997, 410
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+ra_backlight
+  rotate: false
+  xy: 2, 241
+  size: 307, 269
+  orig: 307, 269
+  offset: 0, 0
+  index: -1
+ra_bg
+  rotate: false
+  xy: 311, 244
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+ra_body
+  rotate: false
+  xy: 2, 45
+  size: 210, 194
+  orig: 210, 194
+  offset: 0, 0
+  index: -1
+ra_closedeyes
+  rotate: false
+  xy: 947, 456
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+ra_head
+  rotate: false
+  xy: 820, 273
+  size: 128, 110
+  orig: 128, 110
+  offset: 0, 0
+  index: -1
+ra_siun
+  rotate: false
+  xy: 271, 88
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+ra_sunbg
+  rotate: false
+  xy: 820, 385
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+ra_sunlight
+  rotate: false
+  xy: 947, 409
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+star6
+  rotate: false
+  xy: 214, 2
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1

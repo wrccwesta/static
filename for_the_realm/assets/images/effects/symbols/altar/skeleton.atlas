@@ -1,0 +1,16 @@
+skeleton.png
+size:444,477
+filter:Linear,Linear
+bg-shield-horns-axes
+bounds:2,181,220,294
+offsets:10,8,240,310
+horns/body
+bounds:224,2,207,179
+offsets:17,65,240,310
+horns/runes
+bounds:224,183,218,292
+offsets:11,9,240,310
+word-fs
+bounds:2,6,177,113
+word-scatter
+bounds:2,121,202,58

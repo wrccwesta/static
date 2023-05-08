@@ -1,0 +1,307 @@
+
+skeleton.png
+size: 1916,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10/letter-body
+  rotate: true
+  xy: 1631, 287
+  size: 191, 252
+  orig: 195, 254
+  offset: 2, 2
+  index: -1
+A/letter-body
+  rotate: true
+  xy: 1369, 291
+  size: 187, 260
+  orig: 200, 267
+  offset: 7, 6
+  index: -1
+J/letter-body
+  rotate: true
+  xy: 2, 482
+  size: 210, 250
+  orig: 221, 254
+  offset: 6, 1
+  index: -1
+K/letter-body
+  rotate: true
+  xy: 1082, 150
+  size: 191, 252
+  orig: 197, 256
+  offset: 3, 3
+  index: -1
+Q/letter-bg
+  rotate: false
+  xy: 562, 741
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+Q/letter-bg-light
+  rotate: false
+  xy: 844, 741
+  size: 280, 280
+  orig: 282, 282
+  offset: 1, 1
+  index: -1
+Q/letter-body
+  rotate: true
+  xy: 1097, 343
+  size: 193, 270
+  orig: 203, 271
+  offset: 5, 1
+  index: -1
+dragon-flame
+  rotate: false
+  xy: 1753, 608
+  size: 158, 131
+  orig: 162, 134
+  offset: 2, 1
+  index: -1
+dragon/dragon_body
+  rotate: false
+  xy: 562, 481
+  size: 265, 258
+  orig: 330, 258
+  offset: 4, 0
+  index: -1
+dragon/dragon_head
+  rotate: false
+  xy: 1552, 31
+  size: 291, 258
+  orig: 291, 258
+  offset: 0, 0
+  index: -1
+dragon/eye-spark
+  rotate: false
+  xy: 1699, 692
+  size: 47, 47
+  orig: 49, 50
+  offset: 1, 2
+  index: -1
+extra
+  rotate: false
+  xy: 1391, 29
+  size: 158, 49
+  orig: 159, 49
+  offset: 0, 0
+  index: -1
+free
+  rotate: false
+  xy: 473, 45
+  size: 155, 71
+  orig: 157, 72
+  offset: 1, 1
+  index: -1
+fx-shine
+  rotate: false
+  xy: 2, 271
+  size: 244, 209
+  orig: 245, 209
+  offset: 0, 0
+  index: -1
+goddess/skadi-bg
+  rotate: false
+  xy: 1126, 741
+  size: 280, 280
+  orig: 280, 280
+  offset: 0, 0
+  index: -1
+goddess/skadi-body
+  rotate: 180
+  xy: 1465, 480
+  size: 312, 259
+  orig: 330, 259
+  offset: 0, 0
+  index: -1
+goddess/skadi-hair
+  rotate: false
+  xy: 718, 317
+  size: 90, 162
+  orig: 94, 165
+  offset: 3, 1
+  index: -1
+goddess/skadi-hair2
+  rotate: true
+  xy: 184, 80
+  size: 62, 287
+  orig: 64, 289
+  offset: 1, 1
+  index: -1
+goddess/skadi-hand
+  rotate: false
+  xy: 508, 686
+  size: 29, 41
+  orig: 31, 43
+  offset: 1, 1
+  index: -1
+goddess/skadi-head
+  rotate: false
+  xy: 516, 118
+  size: 165, 142
+  orig: 167, 142
+  offset: 0, 0
+  index: -1
+goddess/skadi-light
+  rotate: false
+  xy: 484, 262
+  size: 232, 217
+  orig: 235, 226
+  offset: 2, 7
+  index: -1
+scatter
+  rotate: false
+  xy: 630, 55
+  size: 210, 50
+  orig: 211, 50
+  offset: 1, 0
+  index: -1
+scatter/axe
+  rotate: true
+  xy: 829, 522
+  size: 217, 266
+  orig: 217, 266
+  offset: 0, 0
+  index: -1
+scatter/shield
+  rotate: true
+  xy: 253, 259
+  size: 226, 228
+  orig: 230, 230
+  offset: 2, 2
+  index: -1
+skadi-light
+  rotate: false
+  xy: 2, 56
+  size: 180, 213
+  orig: 187, 213
+  offset: 5, 0
+  index: -1
+skadi-totem-eyes
+  rotate: false
+  xy: 1464, 678
+  size: 102, 45
+  orig: 104, 51
+  offset: 0, 6
+  index: -1
+viking/L hand_1
+  rotate: true
+  xy: 939, 53
+  size: 259, 137
+  orig: 262, 168
+  offset: 2, 1
+  index: -1
+viking/viking-axe
+  rotate: false
+  xy: 184, 144
+  size: 330, 113
+  orig: 330, 113
+  offset: 0, 0
+  index: -1
+viking/viking-body
+  rotate: false
+  xy: 829, 314
+  size: 251, 206
+  orig: 254, 209
+  offset: 1, 1
+  index: -1
+viking/viking-face
+  rotate: false
+  xy: 1773, 143
+  size: 123, 142
+  orig: 123, 143
+  offset: 0, 0
+  index: -1
+viking/viking-hair
+  rotate: false
+  xy: 1778, 495
+  size: 82, 111
+  orig: 83, 148
+  offset: 0, 37
+  index: -1
+viking/viking-head
+  rotate: false
+  xy: 2, 694
+  size: 281, 327
+  orig: 282, 327
+  offset: 1, 0
+  index: -1
+wild
+  rotate: false
+  xy: 1078, 58
+  size: 206, 90
+  orig: 207, 90
+  offset: 0, 0
+  index: -1
+wild/body
+  rotate: false
+  xy: 1336, 80
+  size: 214, 209
+  orig: 214, 209
+  offset: 0, 0
+  index: -1
+wild_dragon/wild-body
+  rotate: true
+  xy: 1097, 538
+  size: 201, 279
+  orig: 210, 282
+  offset: 4, 3
+  index: -1
+wild_goddess/wild-body
+  rotate: false
+  xy: 285, 487
+  size: 221, 240
+  orig: 227, 248
+  offset: 4, 4
+  index: -1
+wild_viking/wild-body
+  rotate: false
+  xy: 1408, 725
+  size: 251, 296
+  orig: 262, 303
+  offset: 4, 7
+  index: -1
+wild_wolf/wild-body
+  rotate: true
+  xy: 285, 729
+  size: 292, 275
+  orig: 292, 278
+  offset: 0, 3
+  index: -1
+wolf/body[merge]
+  rotate: false
+  xy: 1661, 741
+  size: 253, 280
+  orig: 253, 280
+  offset: 0, 0
+  index: -1
+wolf/wolf-ear1
+  rotate: false
+  xy: 1378, 584
+  size: 84, 139
+  orig: 84, 143
+  offset: 0, 0
+  index: -1
+wolf/wolf-ear2
+  rotate: true
+  xy: 1286, 2
+  size: 76, 103
+  orig: 77, 105
+  offset: 1, 2
+  index: -1
+wolf/wolf-eyes-light
+  rotate: false
+  xy: 1378, 528
+  size: 75, 54
+  orig: 88, 63
+  offset: 7, 5
+  index: -1
+wolf/wolf-head
+  rotate: true
+  xy: 718, 107
+  size: 205, 219
+  orig: 205, 231
+  offset: 0, 0
+  index: -1

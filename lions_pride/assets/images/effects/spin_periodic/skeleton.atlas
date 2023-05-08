@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spin_arrow
+  rotate: false
+  xy: 453, 204
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+spin_effect
+  rotate: false
+  xy: 170, 110
+  size: 145, 144
+  orig: 145, 144
+  offset: 0, 0
+  index: -1
+spin_inside
+  rotate: false
+  xy: 317, 2
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+spin_light
+  rotate: false
+  xy: 2, 86
+  size: 166, 168
+  orig: 166, 168
+  offset: 0, 0
+  index: -1
+spin_rope
+  rotate: false
+  xy: 317, 120
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1

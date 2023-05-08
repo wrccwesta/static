@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 225,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nose_body
+  rotate: true
+  xy: 2, 262
+  size: 269, 207
+  orig: 269, 207
+  offset: 0, 0
+  index: -1
+nose_eyes
+  rotate: false
+  xy: 154, 147
+  size: 68, 23
+  orig: 68, 23
+  offset: 0, 0
+  index: -1
+nose_feather
+  rotate: false
+  xy: 154, 172
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+nose_head
+  rotate: false
+  xy: 2, 89
+  size: 150, 171
+  orig: 150, 171
+  offset: 0, 0
+  index: -1
+nose_top
+  rotate: false
+  xy: 2, 2
+  size: 206, 85
+  orig: 206, 85
+  offset: 0, 0
+  index: -1

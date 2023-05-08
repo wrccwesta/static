@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1404,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 283
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 2, 2
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1
+blue
+  rotate: false
+  xy: 283, 283
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1
+fx_circle_blue
+  rotate: false
+  xy: 1126, 286
+  size: 276, 276
+  orig: 276, 276
+  offset: 0, 0
+  index: -1
+fx_circle_small
+  rotate: false
+  xy: 1126, 75
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+fx_circle_small_stroke
+  rotate: false
+  xy: 1126, 96
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+fx_star_purple
+  rotate: false
+  xy: 1328, 217
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+j
+  rotate: false
+  xy: 283, 2
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 564, 283
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1
+purple
+  rotate: false
+  xy: 564, 2
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 845, 283
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1
+wild_word
+  rotate: false
+  xy: 1126, 167
+  size: 200, 117
+  orig: 200, 117
+  offset: 0, 0
+  index: -1
+yellow
+  rotate: false
+  xy: 845, 2
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1

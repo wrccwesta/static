@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 258,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+243
+  rotate: true
+  xy: 136, 2
+  size: 115, 67
+  orig: 115, 67
+  offset: 0, 0
+  index: -1
+badge_lotus3
+  rotate: false
+  xy: 2, 2
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+badge_text
+  rotate: true
+  xy: 205, 48
+  size: 69, 51
+  orig: 69, 51
+  offset: 0, 0
+  index: -1

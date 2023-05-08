@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 2022,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs_wild_stroke
+  rotate: true
+  xy: 1030, 318
+  size: 276, 864
+  orig: 276, 864
+  offset: 0, 0
+  index: -1
+fx_fs_big
+  rotate: true
+  xy: 2, 2
+  size: 592, 1026
+  orig: 592, 1026
+  offset: 0, 0
+  index: -1
+fx_fs_freeze
+  rotate: true
+  xy: 1030, 48
+  size: 268, 856
+  orig: 268, 856
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 1896, 314
+  size: 124, 280
+  orig: 124, 280
+  offset: 0, 0
+  index: -1

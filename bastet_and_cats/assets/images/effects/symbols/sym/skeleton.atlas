@@ -1,0 +1,237 @@
+
+skeleton.png
+size: 1913,742
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10/letter
+  rotate: false
+  xy: 1029, 514
+  size: 253, 226
+  orig: 253, 226
+  offset: 0, 0
+  index: -1
+a/letter
+  rotate: false
+  xy: 1284, 514
+  size: 253, 226
+  orig: 253, 226
+  offset: 0, 0
+  index: -1
+bastet/bg
+  rotate: false
+  xy: 1539, 514
+  size: 253, 226
+  orig: 253, 226
+  offset: 0, 0
+  index: -1
+bastet/girl-body
+  rotate: true
+  xy: 771, 111
+  size: 173, 257
+  orig: 173, 257
+  offset: 0, 0
+  index: -1
+cat-leaf
+  rotate: false
+  xy: 2, 28
+  size: 186, 90
+  orig: 186, 90
+  offset: 0, 0
+  index: -1
+cat1/bg
+  rotate: false
+  xy: 773, 286
+  size: 253, 226
+  orig: 253, 226
+  offset: 0, 0
+  index: -1
+cat1/cat1-body
+  rotate: 270
+  xy: 1581, 62
+  size: 223, 280
+  orig: 223, 289
+  offset: 0, 9
+  index: -1
+cat1/cat1-fx
+  rotate: false
+  xy: 477, 104
+  size: 168, 179
+  orig: 171, 187
+  offset: 2, 6
+  index: -1
+cat2/bg
+  rotate: false
+  xy: 773, 514
+  size: 254, 226
+  orig: 254, 226
+  offset: 0, 0
+  index: -1
+cat2/cat2-body
+  rotate: true
+  xy: 1019, 65
+  size: 219, 259
+  orig: 219, 259
+  offset: 0, 0
+  index: -1
+cat2/cat2-fx
+  rotate: true
+  xy: 1697, 3
+  size: 148, 201
+  orig: 158, 209
+  offset: 7, 2
+  index: -1
+dust
+  rotate: false
+  xy: 2, 120
+  size: 212, 167
+  orig: 225, 180
+  offset: 2, 11
+  index: -1
+dust-spin
+  rotate: false
+  xy: 1280, 62
+  size: 241, 80
+  orig: 241, 82
+  offset: 0, 0
+  index: -1
+fx-magic
+  rotate: false
+  xy: 2, 509
+  size: 261, 231
+  orig: 275, 245
+  offset: 8, 2
+  index: -1
+fx-scatter-light
+  rotate: true
+  xy: 257, 75
+  size: 216, 217
+  orig: 242, 240
+  offset: 13, 12
+  index: -1
+j/letter
+  rotate: false
+  xy: 1028, 286
+  size: 253, 226
+  orig: 253, 226
+  offset: 0, 0
+  index: -1
+k/letter
+  rotate: false
+  xy: 1283, 286
+  size: 253, 226
+  orig: 253, 226
+  offset: 0, 0
+  index: -1
+pharaoh/phar-light
+  rotate: true
+  xy: 258, 293
+  size: 205, 241
+  orig: 207, 243
+  offset: 1, 1
+  index: -1
+pharaoh/pharaoh-body
+  rotate: true
+  xy: 2, 289
+  size: 218, 254
+  orig: 221, 257
+  offset: 1, 1
+  index: -1
+q/letter
+  rotate: false
+  xy: 1538, 286
+  size: 253, 226
+  orig: 253, 226
+  offset: 0, 0
+  index: -1
+riskbuy/coin
+  rotate: false
+  xy: 647, 214
+  size: 70, 69
+  orig: 78, 77
+  offset: 4, 4
+  index: -1
+rock-blue
+  rotate: false
+  xy: 1853, 249
+  size: 57, 59
+  orig: 65, 67
+  offset: 4, 4
+  index: -1
+rock-gold
+  rotate: false
+  xy: 647, 153
+  size: 57, 59
+  orig: 65, 67
+  offset: 4, 4
+  index: -1
+rock1
+  rotate: false
+  xy: 1793, 400
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+rock2
+  rotate: false
+  xy: 1807, 285
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+rock3
+  rotate: true
+  xy: 1794, 499
+  size: 119, 93
+  orig: 119, 93
+  offset: 0, 0
+  index: -1
+scatter/Spins
+  rotate: false
+  xy: 647, 16
+  size: 157, 93
+  orig: 166, 105
+  offset: 4, 5
+  index: -1
+scatter/bg
+  rotate: false
+  xy: 516, 285
+  size: 253, 226
+  orig: 253, 226
+  offset: 0, 0
+  index: -1
+scatter/free
+  rotate: false
+  xy: 1793, 310
+  size: 100, 88
+  orig: 110, 98
+  offset: 4, 5
+  index: -1
+scatter/scatter-body
+  rotate: false
+  xy: 265, 500
+  size: 249, 240
+  orig: 251, 241
+  offset: 1, 1
+  index: -1
+wild/bg
+  rotate: false
+  xy: 516, 513
+  size: 255, 227
+  orig: 255, 227
+  offset: 0, 0
+  index: -1
+wild/wild-body
+  rotate: true
+  xy: 1280, 144
+  size: 140, 250
+  orig: 145, 252
+  offset: 3, 2
+  index: -1
+wild/wild-fx
+  rotate: false
+  xy: 1794, 620
+  size: 117, 120
+  orig: 122, 128
+  offset: 4, 5
+  index: -1

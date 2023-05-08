@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle1
+  rotate: false
+  xy: 297, 36
+  size: 273, 273
+  orig: 273, 273
+  offset: 0, 0
+  index: -1
+circle_fire1
+  rotate: true
+  xy: 572, 119
+  size: 190, 313
+  orig: 190, 313
+  offset: 0, 0
+  index: -1
+panel_light
+  rotate: false
+  xy: 2, 2
+  size: 293, 307
+  orig: 293, 307
+  offset: 0, 0
+  index: -1

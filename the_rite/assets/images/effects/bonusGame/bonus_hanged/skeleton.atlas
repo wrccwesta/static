@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1055,811
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doll_hang_feathers
+  rotate: false
+  xy: 726, 48
+  size: 196, 187
+  orig: 196, 187
+  offset: 0, 0
+  index: -1
+doll_hang_fxhover
+  rotate: true
+  xy: 2, 2
+  size: 371, 548
+  orig: 371, 548
+  offset: 0, 0
+  index: -1
+doll_hang_fxrope
+  rotate: false
+  xy: 552, 11
+  size: 172, 362
+  orig: 172, 362
+  offset: 0, 0
+  index: -1
+doll_hang_live
+  rotate: true
+  xy: 599, 411
+  size: 398, 436
+  orig: 398, 436
+  offset: 0, 0
+  index: -1
+doll_hang_neckrope
+  rotate: false
+  xy: 726, 237
+  size: 232, 172
+  orig: 232, 172
+  offset: 0, 0
+  index: -1
+doll_hang_toprope
+  rotate: false
+  xy: 960, 303
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+fx_dark
+  rotate: false
+  xy: 2, 375
+  size: 595, 434
+  orig: 595, 434
+  offset: 0, 0
+  index: -1
+fx_panel_light
+  rotate: false
+  xy: 924, 97
+  size: 129, 138
+  orig: 129, 138
+  offset: 0, 0
+  index: -1

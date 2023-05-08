@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 909,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl-3/body-1
+  rotate: true
+  xy: 246, 146
+  size: 200, 386
+  orig: 200, 389
+  offset: 0, 0
+  index: -1
+girl-3/body-2
+  rotate: false
+  xy: 246, 31
+  size: 171, 46
+  orig: 171, 46
+  offset: 0, 0
+  index: -1
+girl-3/hair
+  rotate: false
+  xy: 456, 36
+  size: 151, 108
+  orig: 151, 108
+  offset: 0, 0
+  index: -1
+girl-3/hand-1
+  rotate: true
+  xy: 789, 296
+  size: 194, 118
+  orig: 194, 120
+  offset: 0, 2
+  index: -1
+girl-3/hand-1-1
+  rotate: false
+  xy: 634, 187
+  size: 139, 159
+  orig: 143, 159
+  offset: 4, 0
+  index: -1
+girl-3/hand-2
+  rotate: true
+  xy: 246, 79
+  size: 65, 208
+  orig: 65, 208
+  offset: 0, 0
+  index: -1
+girl-3/head
+  rotate: false
+  xy: 775, 149
+  size: 120, 145
+  orig: 120, 145
+  offset: 0, 0
+  index: -1
+girl-3/head-win
+  rotate: false
+  xy: 772, 2
+  size: 120, 145
+  orig: 120, 145
+  offset: 0, 0
+  index: -1
+girl-3/injector
+  rotate: true
+  xy: 246, 11
+  size: 18, 132
+  orig: 18, 132
+  offset: 0, 0
+  index: -1
+girl-3/leg-1
+  rotate: false
+  xy: 2, 9
+  size: 242, 481
+  orig: 242, 481
+  offset: 0, 0
+  index: -1
+girl-3/leg-2
+  rotate: true
+  xy: 246, 348
+  size: 142, 541
+  orig: 142, 541
+  offset: 0, 0
+  index: -1
+girl-3/stethoscope
+  rotate: false
+  xy: 634, 76
+  size: 136, 109
+  orig: 136, 109
+  offset: 0, 0
+  index: -1

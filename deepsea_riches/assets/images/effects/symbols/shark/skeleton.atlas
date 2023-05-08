@@ -1,0 +1,259 @@
+skeleton.png
+size:2028,1898
+filter:Linear,Linear
+bubble
+bounds:2,1850,46,46
+offsets:2,2,50,50
+circle-2
+bounds:1370,295,284,312
+offsets:20,19,350,350
+rotate:90
+shark/idle/Shark Idle1
+bounds:1278,602,276,341
+offsets:56,11,380,380
+rotate:90
+shark/idle/Shark Idle10
+bounds:722,1663,233,335
+offsets:80,18,380,380
+rotate:90
+shark/idle/Shark Idle11
+bounds:50,1665,231,334
+offsets:81,20,380,380
+rotate:90
+shark/idle/Shark Idle12
+bounds:386,1664,232,334
+offsets:80,21,380,380
+rotate:90
+shark/idle/Shark Idle13
+bounds:1059,1663,233,334
+offsets:79,22,380,380
+rotate:90
+shark/idle/Shark Idle14
+bounds:1395,1661,235,334
+offsets:78,23,380,380
+rotate:90
+shark/idle/Shark Idle15
+bounds:676,1423,238,335
+offsets:76,24,380,380
+rotate:90
+shark/idle/Shark Idle16
+bounds:1350,1417,242,336
+offsets:74,24,380,380
+rotate:90
+shark/idle/Shark Idle17
+bounds:2,1177,248,336
+offsets:71,25,380,380
+rotate:90
+shark/idle/Shark Idle18
+bounds:1010,1168,252,338
+offsets:69,25,380,380
+rotate:90
+shark/idle/Shark Idle19
+bounds:2,915,258,338
+offsets:66,26,380,380
+rotate:90
+shark/idle/Shark Idle2
+bounds:296,637,272,340
+offsets:58,11,380,380
+rotate:90
+shark/idle/Shark Idle20
+bounds:683,903,263,338
+offsets:64,27,380,380
+rotate:90
+shark/idle/Shark Idle21
+bounds:1661,859,268,339
+offsets:62,27,380,380
+rotate:90
+shark/idle/Shark Idle22
+bounds:638,628,273,339
+offsets:60,28,380,380
+rotate:90
+shark/idle/Shark Idle23
+bounds:2,358,277,339
+offsets:59,29,380,380
+rotate:90
+shark/idle/Shark Idle24
+bounds:1029,318,282,339
+offsets:57,29,380,380
+rotate:90
+shark/idle/Shark Idle25
+bounds:2,71,285,338
+offsets:56,30,380,380
+rotate:90
+shark/idle/Shark Idle26
+bounds:685,51,288,339
+offsets:55,30,380,380
+rotate:90
+shark/idle/Shark Idle27
+bounds:1026,26,290,338
+offsets:55,30,380,380
+rotate:90
+shark/idle/Shark Idle3
+bounds:1320,880,266,339
+offsets:61,11,380,380
+rotate:90
+shark/idle/Shark Idle38
+bounds:1366,3,290,342
+offsets:52,14,380,380
+rotate:90
+shark/idle/Shark Idle39
+bounds:342,61,286,341
+offsets:53,13,380,380
+rotate:90
+shark/idle/Shark Idle4
+bounds:342,911,259,339
+offsets:65,11,380,380
+rotate:90
+shark/idle/Shark Idle40
+bounds:686,341,281,341
+offsets:54,12,380,380
+rotate:90
+shark/idle/Shark Idle5
+bounds:1688,1129,254,338
+offsets:68,12,380,380
+rotate:90
+shark/idle/Shark Idle6
+bounds:671,1172,249,337
+offsets:71,13,380,380
+rotate:90
+shark/idle/Shark Idle7
+bounds:1688,1385,243,337
+offsets:74,14,380,380
+rotate:90
+shark/idle/Shark Idle8
+bounds:1013,1422,239,335
+offsets:77,16,380,380
+rotate:90
+shark/idle/Shark Idle9
+bounds:2,1428,235,335
+offsets:79,17,380,380
+rotate:90
+shark/win/Shark Win1
+bounds:1621,581,276,341
+offsets:56,11,380,380
+rotate:90
+shark/win/Shark Win10
+bounds:1710,2,291,313
+offsets:32,28,380,380
+rotate:90
+shark/win/Shark Win2
+bounds:1350,1148,267,336
+offsets:56,15,380,380
+rotate:90
+shark/win/Shark Win22
+bounds:1684,295,284,341
+offsets:53,10,380,380
+rotate:90
+shark/win/Shark Win23
+bounds:343,349,277,341
+offsets:56,11,380,380
+rotate:90
+shark/win/Shark Win3
+bounds:339,1427,235,335
+offsets:58,15,380,380
+rotate:90
+shark/win/Shark Win4
+bounds:340,1175,250,329
+offsets:61,20,380,380
+rotate:90
+shark/win/Shark Win5
+bounds:1731,1630,266,294
+offsets:67,53,380,380
+rotate:90
+shark/win/Shark Win6
+bounds:2,645,292,268
+offsets:73,77,380,380
+shark/win/Shark Win7
+bounds:1023,899,295,267
+offsets:77,76,380,380
+shark/win/Shark Win8
+bounds:979,624,297,273
+offsets:76,71,380,380
+
+skeleton_2.png
+size:1957,1580
+filter:Linear,Linear
+Lens flare 69
+bounds:354,880,345,348
+offsets:27,25,400,400
+circle-1
+bounds:1628,327,327,316
+offsets:12,16,350,350
+shark/idle/Shark Idle28
+bounds:1039,208,293,339
+offsets:54,29,380,380
+shark/idle/Shark Idle29
+bounds:1605,645,294,339
+offsets:54,29,380,380
+rotate:90
+shark/idle/Shark Idle30
+bounds:1605,941,295,340
+offsets:54,27,380,380
+rotate:90
+shark/idle/Shark Idle31
+bounds:1307,894,296,340
+offsets:53,26,380,380
+shark/idle/Shark Idle32
+bounds:1593,1238,296,340
+offsets:53,25,380,380
+shark/idle/Shark Idle33
+bounds:1029,549,297,341
+offsets:52,23,380,380
+shark/idle/Shark Idle34
+bounds:997,1236,297,342
+offsets:52,21,380,380
+shark/idle/Shark Idle35
+bounds:1008,892,297,342
+offsets:51,19,380,380
+shark/idle/Shark Idle36
+bounds:1296,1236,295,342
+offsets:51,17,380,380
+shark/idle/Shark Idle37
+bounds:703,1235,292,343
+offsets:52,15,380,380
+shark/win/Shark Win11
+bounds:1334,309,292,334
+offsets:14,11,380,380
+shark/win/Shark Win12
+bounds:2,499,354,341
+offsets:13,8,380,380
+rotate:90
+shark/win/Shark Win13
+bounds:354,1230,348,347
+offsets:21,6,380,380
+rotate:90
+shark/win/Shark Win14
+bounds:354,146,338,352
+offsets:26,2,380,380
+shark/win/Shark Win15
+bounds:694,148,343,350
+offsets:25,3,380,380
+shark/win/Shark Win16
+bounds:345,500,353,349
+offsets:22,3,380,380
+rotate:90
+shark/win/Shark Win17
+bounds:2,1217,361,350
+offsets:19,1,380,380
+rotate:90
+shark/win/Shark Win18
+bounds:2,855,360,350
+offsets:20,0,380,380
+rotate:90
+shark/win/Shark Win19
+bounds:2,144,353,350
+offsets:25,0,380,380
+rotate:90
+shark/win/Shark Win20
+bounds:696,530,331,348
+offsets:34,2,380,380
+shark/win/Shark Win21
+bounds:701,883,305,345
+offsets:44,6,380,380
+shark/win/Shark Win9
+bounds:1334,2,305,292
+offsets:59,53,380,380
+rotate:90
+sparks
+bounds:1628,21,302,304
+offsets:24,23,350,350

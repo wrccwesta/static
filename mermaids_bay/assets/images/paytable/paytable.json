@@ -1,0 +1,84 @@
+{"frames": {
+
+"betlines_box":
+{
+	"frame": {"x":133,"y":455,"w":83,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":53},
+	"sourceSize": {"w":83,"h":53}
+},
+"betlines_normal":
+{
+	"frame": {"x":218,"y":455,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"betlines_win":
+{
+	"frame": {"x":218,"y":470,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"Paytable_feature1":
+{
+	"frame": {"x":10,"y":1,"w":222,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":27,"w":222,"h":225},
+	"sourceSize": {"w":301,"h":277}
+},
+"paytable_feature2":
+{
+	"frame": {"x":10,"y":228,"w":222,"h":225},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":27,"w":222,"h":225},
+	"sourceSize": {"w":301,"h":277}
+},
+"table_close_hover":
+{
+	"frame": {"x":10,"y":464,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"table_close_normal":
+{
+	"frame": {"x":32,"y":464,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"table_scroll_bar":
+{
+	"frame": {"x":1,"y":1,"w":7,"h":745},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":745},
+	"sourceSize": {"w":7,"h":745}
+},
+"table_scroll_tool":
+{
+	"frame": {"x":10,"y":455,"w":7,"h":121},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":121},
+	"sourceSize": {"w":7,"h":121}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paytable.png",
+	"format": "RGBA8888",
+	"size": {"w":233,"h":747},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:574ebfdaadc070730819fb8b3120bbdd:1d789744e11217b6d17fc6bd9f45844a:0f68fea9f431d65eb54c267865589464$"
+}
+}

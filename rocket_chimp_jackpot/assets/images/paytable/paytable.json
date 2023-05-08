@@ -1,0 +1,84 @@
+{"frames": {
+
+"betlines_box":
+{
+	"frame": {"x":286,"y":171,"w":83,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":53},
+	"sourceSize": {"w":83,"h":53}
+},
+"betlines_normal":
+{
+	"frame": {"x":371,"y":171,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"betlines_win":
+{
+	"frame": {"x":386,"y":171,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":13}
+},
+"jackpotFeature":
+{
+	"frame": {"x":1,"y":1,"w":900,"h":168},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":168},
+	"sourceSize": {"w":900,"h":168}
+},
+"payways_scheme":
+{
+	"frame": {"x":1,"y":171,"w":283,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":283,"h":53},
+	"sourceSize": {"w":283,"h":53}
+},
+"table_close_hover":
+{
+	"frame": {"x":871,"y":171,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"table_close_normal":
+{
+	"frame": {"x":371,"y":193,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"table_scroll_bar":
+{
+	"frame": {"x":1,"y":226,"w":7,"h":745},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":745},
+	"sourceSize": {"w":7,"h":745}
+},
+"table_scroll_tool":
+{
+	"frame": {"x":748,"y":171,"w":7,"h":121},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":121},
+	"sourceSize": {"w":7,"h":121}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "paytable.png",
+	"format": "RGBA8888",
+	"size": {"w":902,"h":234},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1c18a5f607b4cd7237413c236b2d9ed0:89493be0f4a1186dc4e83c49c404ed75:0f68fea9f431d65eb54c267865589464$"
+}
+}

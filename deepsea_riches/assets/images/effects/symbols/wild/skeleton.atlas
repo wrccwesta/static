@@ -1,0 +1,243 @@
+skeleton.png
+size:2046,1958
+filter:Linear,Linear
+bubble
+bounds:2,1910,46,46
+offsets:2,2,50,50
+chest/idle/Chest Idle1
+bounds:1262,1206,291,294
+offsets:44,47,380,380
+rotate:90
+chest/win/Chest Win1
+bounds:1262,1206,291,294
+offsets:44,47,380,380
+rotate:90
+chest/idle/Chest Idle10
+bounds:1206,302,302,297
+offsets:37,47,380,380
+chest/idle/Chest Idle11
+bounds:1510,302,304,297
+offsets:36,47,380,380
+chest/idle/Chest Idle12
+bounds:902,2,305,298
+offsets:35,47,380,380
+chest/idle/Chest Idle13
+bounds:1209,2,307,298
+offsets:34,47,380,380
+chest/idle/Chest Idle2
+bounds:1558,1192,291,294
+offsets:44,47,380,380
+rotate:90
+chest/idle/Chest Idle29
+bounds:1518,2,307,298
+offsets:34,47,380,380
+chest/idle/Chest Idle3
+bounds:594,954,292,294
+offsets:43,47,380,380
+rotate:90
+chest/idle/Chest Idle31
+bounds:603,11,304,297
+offsets:36,47,380,380
+rotate:90
+chest/idle/Chest Idle32
+bounds:304,30,302,297
+offsets:37,47,380,380
+rotate:90
+chest/idle/Chest Idle33
+bounds:2,368,300,296
+offsets:38,47,380,380
+chest/idle/Chest Idle34
+bounds:304,334,298,296
+offsets:39,47,380,380
+chest/idle/Chest Idle35
+bounds:594,632,297,295
+offsets:40,47,380,380
+chest/idle/Chest Idle36
+bounds:893,615,295,295
+offsets:41,47,380,380
+chest/idle/Chest Idle37
+bounds:2,666,294,294
+offsets:42,47,380,380
+chest/idle/Chest Idle38
+bounds:890,929,292,294
+offsets:43,47,380,380
+rotate:90
+chest/idle/Chest Idle39
+bounds:1186,912,292,294
+offsets:43,47,380,380
+rotate:90
+chest/idle/Chest Idle4
+bounds:1482,898,292,294
+offsets:43,47,380,380
+rotate:90
+chest/idle/Chest Idle40
+bounds:2,962,291,294
+offsets:44,47,380,380
+rotate:90
+chest/idle/Chest Idle5
+bounds:298,666,294,294
+offsets:42,47,380,380
+chest/idle/Chest Idle6
+bounds:1190,601,295,295
+offsets:41,47,380,380
+chest/idle/Chest Idle7
+bounds:1487,601,297,295
+offsets:40,47,380,380
+chest/idle/Chest Idle8
+bounds:604,317,298,296
+offsets:39,47,380,380
+chest/idle/Chest Idle9
+bounds:904,303,300,296
+offsets:38,47,380,380
+chest/win/Chest Win10
+bounds:1462,1755,289,201
+offsets:46,37,380,380
+chest/win/Chest Win11
+bounds:1171,1760,289,196
+offsets:48,37,380,380
+chest/win/Chest Win12
+bounds:880,1763,289,193
+offsets:47,36,380,380
+chest/win/Chest Win13
+bounds:590,1765,288,191
+offsets:46,35,380,380
+chest/win/Chest Win14
+bounds:299,1766,289,190
+offsets:45,35,380,380
+chest/win/Chest Win15
+bounds:1469,1499,280,254
+offsets:49,39,380,380
+chest/win/Chest Win17
+bounds:294,1255,315,284
+offsets:33,61,380,380
+chest/win/Chest Win18
+bounds:925,1223,335,290
+offsets:33,60,380,380
+chest/win/Chest Win2
+bounds:2,1353,290,287
+offsets:44,47,380,380
+chest/win/Chest Win25
+bounds:2,68,300,298
+offsets:37,47,380,380
+chest/win/Chest Win26
+bounds:298,962,291,294
+offsets:44,47,380,380
+rotate:90
+chest/win/Chest Win3
+bounds:1751,1485,290,263
+offsets:44,46,380,380
+chest/win/Chest Win4
+bounds:1177,1515,290,238
+offsets:44,45,380,380
+chest/win/Chest Win5
+bounds:882,1534,293,224
+offsets:44,44,380,380
+chest/win/Chest Win6
+bounds:588,1541,292,220
+offsets:45,43,380,380
+chest/win/Chest Win7
+bounds:295,1548,291,216
+offsets:45,41,380,380
+chest/win/Chest Win8
+bounds:2,1642,291,211
+offsets:44,39,380,380
+chest/win/Chest Win9
+bounds:1753,1750,291,206
+offsets:43,38,380,380
+circle-2
+bounds:611,1248,284,312
+offsets:20,19,350,350
+rotate:90
+word-wild
+bounds:50,1855,247,101
+offsets:2,2,252,106
+
+skeleton_2.png
+size:1886,1547
+filter:Linear,Linear
+Lens flare 69
+bounds:2,1197,345,348
+offsets:27,25,400,400
+chest/idle/Chest Idle14
+bounds:674,924,309,299
+offsets:33,47,380,380
+chest/idle/Chest Idle15
+bounds:1301,917,310,299
+offsets:32,47,380,380
+rotate:90
+chest/idle/Chest Idle16
+bounds:967,306,312,300
+offsets:31,47,380,380
+chest/idle/Chest Idle17
+bounds:647,18,314,300
+offsets:30,47,380,380
+chest/idle/Chest Idle18
+bounds:985,927,314,300
+offsets:30,47,380,380
+chest/idle/Chest Idle19
+bounds:330,18,315,300
+offsets:29,47,380,380
+chest/idle/Chest Idle20
+bounds:332,622,316,300
+offsets:29,47,380,380
+chest/idle/Chest Idle21
+bounds:332,320,316,300
+offsets:29,47,380,380
+chest/idle/Chest Idle22
+bounds:650,622,315,300
+offsets:29,47,380,380
+chest/idle/Chest Idle23
+bounds:650,320,315,300
+offsets:29,47,380,380
+chest/idle/Chest Idle24
+bounds:967,608,314,300
+offsets:30,47,380,380
+rotate:90
+chest/idle/Chest Idle25
+bounds:963,4,314,300
+offsets:30,47,380,380
+chest/idle/Chest Idle26
+bounds:1269,615,312,300
+offsets:31,47,380,380
+chest/idle/Chest Idle27
+bounds:1281,303,310,299
+offsets:32,47,380,380
+rotate:90
+chest/idle/Chest Idle28
+bounds:1279,2,309,299
+offsets:33,47,380,380
+chest/idle/Chest Idle30
+bounds:1583,610,305,298
+offsets:35,47,380,380
+rotate:90
+chest/win/Chest Win16
+bounds:349,924,299,323
+offsets:34,52,380,380
+rotate:90
+chest/win/Chest Win19
+bounds:721,1241,356,304
+offsets:18,59,380,380
+chest/win/Chest Win20
+bounds:349,1225,370,320
+offsets:1,57,380,380
+chest/win/Chest Win21
+bounds:2,829,366,326
+offsets:0,54,380,380
+rotate:90
+chest/win/Chest Win22
+bounds:2,469,358,328
+offsets:2,52,380,380
+rotate:90
+chest/win/Chest Win23
+bounds:2,124,343,326
+offsets:8,50,380,380
+rotate:90
+chest/win/Chest Win24
+bounds:1408,1236,321,309
+offsets:22,48,380,380
+circle-1
+bounds:1079,1229,327,316
+offsets:12,16,350,350
+sparks
+bounds:1582,304,302,304
+offsets:24,23,350,350

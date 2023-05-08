@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 895,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+colt_body
+  rotate: false
+  xy: 2, 2
+  size: 316, 267
+  orig: 316, 267
+  offset: 0, 0
+  index: -1
+colt_bullet1
+  rotate: true
+  xy: 320, 4
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+colt_colt
+  rotate: false
+  xy: 546, 48
+  size: 212, 221
+  orig: 212, 221
+  offset: 0, 0
+  index: -1
+colt_shadow
+  rotate: false
+  xy: 320, 42
+  size: 224, 227
+  orig: 224, 227
+  offset: 0, 0
+  index: -1
+fx_shine2
+  rotate: false
+  xy: 760, 121
+  size: 133, 148
+  orig: 133, 148
+  offset: 0, 0
+  index: -1

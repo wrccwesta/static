@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wild_D
+  rotate: false
+  xy: 953, 430
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+wild_I
+  rotate: true
+  xy: 596, 241
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+wild_L
+  rotate: false
+  xy: 207, 35
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+wild_W
+  rotate: false
+  xy: 207, 98
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+wild_bg
+  rotate: false
+  xy: 596, 275
+  size: 266, 216
+  orig: 266, 216
+  offset: 0, 0
+  index: -1
+wild_bush_1
+  rotate: false
+  xy: 864, 355
+  size: 87, 136
+  orig: 87, 136
+  offset: 0, 0
+  index: -1
+wild_bush_2
+  rotate: true
+  xy: 2, 25
+  size: 132, 203
+  orig: 132, 203
+  offset: 0, 0
+  index: -1
+wild_leaf
+  rotate: false
+  xy: 2, 2
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+wild_light
+  rotate: false
+  xy: 333, 47
+  size: 209, 192
+  orig: 209, 192
+  offset: 0, 0
+  index: -1
+wild_lion
+  rotate: false
+  xy: 333, 241
+  size: 261, 250
+  orig: 261, 250
+  offset: 0, 0
+  index: -1
+wild_lion_anim
+  rotate: false
+  xy: 544, 34
+  size: 180, 205
+  orig: 180, 205
+  offset: 0, 0
+  index: -1
+wild_lion_mouth_bot
+  rotate: true
+  xy: 274, 99
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+wild_lion_mouth_top
+  rotate: false
+  xy: 864, 305
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+wincircle3-1
+  rotate: false
+  xy: 2, 159
+  size: 329, 332
+  orig: 329, 332
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+skeleton.png
+size: 1970,1100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book
+  rotate: false
+  xy: 446, 794
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+book_blue
+  rotate: true
+  xy: 1830, 655
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+book_yellow2
+  rotate: true
+  xy: 1670, 796
+  size: 302, 298
+  orig: 302, 298
+  offset: 0, 0
+  index: -1
+crest_yellow
+  rotate: true
+  xy: 1491, 234
+  size: 252, 255
+  orig: 252, 255
+  offset: 0, 0
+  index: -1
+diamond_yellow
+  rotate: true
+  xy: 1227, 26
+  size: 207, 240
+  orig: 207, 240
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 132
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 752, 794
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 1058, 794
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+eye_4
+  rotate: false
+  xy: 1364, 794
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+eye_additional
+  rotate: false
+  xy: 1469, 28
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+fx_mist
+  rotate: false
+  xy: 2, 744
+  size: 442, 354
+  orig: 442, 354
+  offset: 0, 0
+  index: -1
+heart_yellow
+  rotate: false
+  xy: 347, 182
+  size: 266, 232
+  orig: 266, 232
+  offset: 0, 0
+  index: -1
+pike_yellow
+  rotate: false
+  xy: 1227, 235
+  size: 262, 251
+  orig: 262, 251
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 606, 488
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+ring_yellow
+  rotate: false
+  xy: 911, 14
+  size: 247, 166
+  orig: 247, 166
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 912, 488
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+shield_eye
+  rotate: true
+  xy: 1160, 79
+  size: 101, 64
+  orig: 101, 64
+  offset: 0, 0
+  index: -1
+shield_head
+  rotate: true
+  xy: 1675, 51
+  size: 173, 203
+  orig: 173, 203
+  offset: 0, 0
+  index: -1
+shield_yellow
+  rotate: false
+  xy: 347, 416
+  size: 257, 326
+  orig: 257, 326
+  offset: 0, 0
+  index: -1
+skull
+  rotate: false
+  xy: 1218, 488
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+skull_yellow
+  rotate: true
+  xy: 1748, 226
+  size: 260, 197
+  orig: 260, 197
+  offset: 0, 0
+  index: -1
+sym_crest
+  rotate: false
+  xy: 1524, 488
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+sym_diamond
+  rotate: false
+  xy: 615, 182
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+sym_heart
+  rotate: false
+  xy: 2, 438
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+sym_pike
+  rotate: false
+  xy: 921, 182
+  size: 304, 304
+  orig: 304, 304
+  offset: 0, 0
+  index: -1
+word_fs
+  rotate: false
+  xy: 2, 2
+  size: 299, 128
+  orig: 299, 128
+  offset: 0, 0
+  index: -1
+word_light
+  rotate: false
+  xy: 308, 18
+  size: 311, 162
+  orig: 311, 162
+  offset: 0, 0
+  index: -1
+word_line
+  rotate: true
+  xy: 308, 282
+  size: 460, 37
+  orig: 460, 37
+  offset: 0, 0
+  index: -1
+word_scatter
+  rotate: false
+  xy: 621, 41
+  size: 288, 139
+  orig: 288, 139
+  offset: 0, 0
+  index: -1
+word_spark
+  rotate: false
+  xy: 446, 748
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1

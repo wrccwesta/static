@@ -1,0 +1,84 @@
+{"frames": {
+
+"hpBrown":
+{
+	"frame": {"x":0,"y":0,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":260},
+	"sourceSize": {"w":260,"h":260}
+},
+"hpGreen":
+{
+	"frame": {"x":260,"y":0,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":260},
+	"sourceSize": {"w":260,"h":260}
+},
+"hpRed":
+{
+	"frame": {"x":520,"y":0,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":260},
+	"sourceSize": {"w":260,"h":260}
+},
+"lp1":
+{
+	"frame": {"x":0,"y":260,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":260},
+	"sourceSize": {"w":260,"h":260}
+},
+"lp3":
+{
+	"frame": {"x":260,"y":260,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":260},
+	"sourceSize": {"w":260,"h":260}
+},
+"lp5":
+{
+	"frame": {"x":520,"y":260,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":260},
+	"sourceSize": {"w":260,"h":260}
+},
+"lp6":
+{
+	"frame": {"x":0,"y":520,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":260},
+	"sourceSize": {"w":260,"h":260}
+},
+"wild":
+{
+	"frame": {"x":260,"y":520,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":260},
+	"sourceSize": {"w":260,"h":260}
+},
+"wildSticky":
+{
+	"frame": {"x":520,"y":520,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":260},
+	"sourceSize": {"w":260,"h":260}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":780,"h":780},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d050b07fd5dcfce776384df2b37ce6de:b3e33b7d768997f84000b194d16e3315:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

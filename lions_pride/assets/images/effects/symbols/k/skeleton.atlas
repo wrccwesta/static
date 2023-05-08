@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k_anim
+  rotate: false
+  xy: 2, 21
+  size: 266, 216
+  orig: 266, 216
+  offset: 0, 0
+  index: -1
+k_light
+  rotate: false
+  xy: 270, 38
+  size: 146, 199
+  orig: 146, 199
+  offset: 0, 0
+  index: -1
+k_rope_1
+  rotate: false
+  xy: 418, 143
+  size: 69, 94
+  orig: 69, 94
+  offset: 0, 0
+  index: -1
+k_rope_2
+  rotate: true
+  xy: 2, 2
+  size: 17, 129
+  orig: 17, 129
+  offset: 0, 0
+  index: -1

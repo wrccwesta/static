@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 1635,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Free Spins
+  rotate: false
+  xy: 1310, 43
+  size: 233, 39
+  orig: 233, 39
+  offset: 0, 0
+  index: -1
+Stop Free
+  rotate: false
+  xy: 1310, 2
+  size: 221, 39
+  orig: 221, 39
+  offset: 0, 0
+  index: -1
+ice2
+  rotate: false
+  xy: 550, 9
+  size: 259, 215
+  orig: 259, 215
+  offset: 0, 0
+  index: -1
+sca_scatter
+  rotate: false
+  xy: 811, 6
+  size: 246, 50
+  orig: 246, 50
+  offset: 0, 0
+  index: -1
+scatter_body
+  rotate: false
+  xy: 1100, 17
+  size: 208, 207
+  orig: 208, 207
+  offset: 0, 0
+  index: -1
+scatter_box
+  rotate: false
+  xy: 276, 9
+  size: 272, 215
+  orig: 272, 215
+  offset: 0, 0
+  index: -1
+scatter_snow
+  rotate: false
+  xy: 811, 58
+  size: 287, 166
+  orig: 287, 166
+  offset: 0, 0
+  index: -1
+scatter_top
+  rotate: false
+  xy: 2, 9
+  size: 272, 215
+  orig: 272, 215
+  offset: 0, 0
+  index: -1
+wild_pawshine
+  rotate: true
+  xy: 1540, 120
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+wild_snow
+  rotate: false
+  xy: 1310, 84
+  size: 228, 140
+  orig: 228, 140
+  offset: 0, 0
+  index: -1

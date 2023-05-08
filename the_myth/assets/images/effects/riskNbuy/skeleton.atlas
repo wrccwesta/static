@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 283,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+r&b/chain
+  rotate: false
+  xy: 158, 396
+  size: 16, 112
+  orig: 16, 113
+  offset: 0, 0
+  index: -1
+r&b/circle
+  rotate: false
+  xy: 2, 319
+  size: 154, 153
+  orig: 154, 153
+  offset: 0, 0
+  index: -1
+r&b/dragon
+  rotate: false
+  xy: 2, 141
+  size: 129, 176
+  orig: 132, 178
+  offset: 2, 2
+  index: -1
+r&b/flag
+  rotate: false
+  xy: 2, 474
+  size: 162, 548
+  orig: 162, 548
+  offset: 0, 0
+  index: -1
+r&b/skadi
+  rotate: false
+  xy: 2, 2
+  size: 151, 137
+  orig: 155, 140
+  offset: 2, 0
+  index: -1
+r&b/spark
+  rotate: false
+  xy: 2, 1011
+  size: 10, 11
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+r&b/viking
+  rotate: false
+  xy: 155, 15
+  size: 126, 149
+  orig: 127, 149
+  offset: 0, 0
+  index: -1
+r&b/wolf
+  rotate: false
+  xy: 133, 166
+  size: 126, 151
+  orig: 126, 153
+  offset: 0, 2
+  index: -1

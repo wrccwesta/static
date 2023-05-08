@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 401,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle
+  rotate: false
+  xy: 2, 244
+  size: 251, 250
+  orig: 255, 252
+  offset: 2, 0
+  index: -1
+luxorspin
+  rotate: false
+  xy: 255, 355
+  size: 137, 139
+  orig: 139, 140
+  offset: 1, 1
+  index: -1
+luxorspinbg
+  rotate: false
+  xy: 244, 87
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+luxorspinicon
+  rotate: true
+  xy: 244, 9
+  size: 76, 87
+  orig: 76, 87
+  offset: 0, 0
+  index: -1
+spinef
+  rotate: false
+  xy: 2, 2
+  size: 240, 240
+  orig: 284, 283
+  offset: 22, 22
+  index: -1

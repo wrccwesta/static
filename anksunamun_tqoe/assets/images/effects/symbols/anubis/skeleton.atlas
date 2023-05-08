@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ank_light
+  rotate: true
+  xy: 2, 2
+  size: 239, 241
+  orig: 239, 241
+  offset: 0, 0
+  index: -1
+seth_acc1
+  rotate: false
+  xy: 391, 240
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+seth_acc2
+  rotate: true
+  xy: 544, 273
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+seth_backear
+  rotate: true
+  xy: 455, 248
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+seth_backlight
+  rotate: false
+  xy: 270, 277
+  size: 272, 232
+  orig: 272, 232
+  offset: 0, 0
+  index: -1
+seth_bg
+  rotate: false
+  xy: 2, 243
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+seth_body
+  rotate: false
+  xy: 544, 304
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+seth_closedeyes
+  rotate: true
+  xy: 245, 205
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+seth_eyeslight
+  rotate: false
+  xy: 339, 224
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+seth_frontear
+  rotate: false
+  xy: 961, 416
+  size: 50, 93
+  orig: 50, 93
+  offset: 0, 0
+  index: -1
+seth_head
+  rotate: false
+  xy: 751, 310
+  size: 109, 86
+  orig: 109, 86
+  offset: 0, 0
+  index: -1
+seth_moon
+  rotate: true
+  xy: 594, 268
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+seth_moon_light
+  rotate: false
+  xy: 643, 262
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+seth_moonbg
+  rotate: false
+  xy: 751, 398
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+spark_purple
+  rotate: false
+  xy: 865, 416
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+star6
+  rotate: false
+  xy: 270, 209
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1

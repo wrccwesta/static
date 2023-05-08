@@ -1,0 +1,13 @@
+skeleton.png
+size:408,254
+filter:Linear,Linear
+circle
+bounds:2,2,251,250
+offsets:2,0,255,252
+rays
+bounds:255,98,154,151
+offsets:3,2,160,156
+rotate:90
+sparkLL
+bounds:255,50,46,46
+offsets:1,1,49,48

@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1691,479
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doll_needle_feather
+  rotate: true
+  xy: 1129, 2
+  size: 75, 116
+  orig: 75, 116
+  offset: 0, 0
+  index: -1
+doll_needle_hover
+  rotate: true
+  xy: 2, 5
+  size: 472, 528
+  orig: 472, 528
+  offset: 0, 0
+  index: -1
+doll_needle_live
+  rotate: true
+  xy: 1129, 79
+  size: 398, 436
+  orig: 398, 436
+  offset: 0, 0
+  index: -1
+doll_needle_needle
+  rotate: false
+  xy: 1567, 264
+  size: 122, 213
+  orig: 122, 213
+  offset: 0, 0
+  index: -1
+doll_needle_spot
+  rotate: true
+  xy: 1664, 222
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+fx_dark
+  rotate: false
+  xy: 532, 43
+  size: 595, 434
+  orig: 595, 434
+  offset: 0, 0
+  index: -1
+fx_line-1
+  rotate: true
+  xy: 1567, 75
+  size: 187, 95
+  orig: 187, 95
+  offset: 0, 0
+  index: -1

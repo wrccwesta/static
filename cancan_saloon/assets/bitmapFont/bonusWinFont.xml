@@ -1,0 +1,29 @@
+<font>
+	<info face="BonusWinFont" size="56" />
+	<common lineHeight="56" scaleW="128" scaleH="128" pages="1" />
+	<pages>
+		<page id="0" file="bonusWinFont.png" />
+	</pages>
+	<chars count="18">
+		<char id="48" x="88" y="87" width="18" height="40" xoffset="0" yoffset="14" xadvance="20" /><!-- 0 -->
+		<char id="49" x="109" y="43" width="18" height="41" xoffset="0" yoffset="14" xadvance="20" /><!-- 1 -->
+		<char id="50" x="45" y="74" width="21" height="42" xoffset="0" yoffset="14" xadvance="23" /><!-- 2 -->
+		<char id="51" x="89" y="43" width="19" height="43" xoffset="0" yoffset="13" xadvance="21" /><!-- 3 -->
+		<char id="52" x="67" y="42" width="21" height="43" xoffset="0" yoffset="13" xadvance="23" /><!-- 4 -->
+		<char id="53" x="89" y="0" width="20" height="42" xoffset="0" yoffset="14" xadvance="22" /><!-- 5 -->
+		<char id="54" x="68" y="0" width="20" height="40" xoffset="0" yoffset="15" xadvance="22" /><!-- 6 -->
+		<char id="55" x="46" y="0" width="21" height="41" xoffset="0" yoffset="14" xadvance="23" /><!-- 7 -->
+		<char id="56" x="23" y="74" width="21" height="40" xoffset="0" yoffset="15" xadvance="23" /><!-- 8 -->
+		<char id="57" x="67" y="86" width="20" height="41" xoffset="0" yoffset="15" xadvance="22" /><!-- 9 -->
+		<char id="46" x="0" y="115" width="8" height="8" xoffset="0" yoffset="48" xadvance="10" /><!-- . -->
+		<char id="36" x="109" y="85" width="16" height="41" xoffset="0" yoffset="17" xadvance="18" /><!-- $ -->
+		<char id="33" x="0" y="38" width="22" height="36" xoffset="0" yoffset="20" xadvance="24" /><!-- ! -->
+		<char id="37" x="0" y="75" width="22" height="36" xoffset="0" yoffset="20" xadvance="24" /><!-- % -->
+		<char id="94" x="0" y="0" width="23" height="37" xoffset="0" yoffset="19" xadvance="25" /><!-- ^ -->
+		<char id="120" x="23" y="38" width="22" height="35" xoffset="0" yoffset="20" xadvance="24" /><!-- x -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="13" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="104" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

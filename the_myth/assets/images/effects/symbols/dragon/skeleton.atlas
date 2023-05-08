@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 1363,1064
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 222
+  size: 280, 840
+  orig: 280, 840
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 953, 297
+  size: 197, 346
+  orig: 197, 346
+  offset: 0, 0
+  index: -1
+dragon-flame
+  rotate: false
+  xy: 840, 926
+  size: 158, 131
+  orig: 162, 134
+  offset: 2, 1
+  index: -1
+fire
+  rotate: false
+  xy: 284, 88
+  size: 457, 350
+  orig: 462, 359
+  offset: 2, 3
+  index: -1
+hand1
+  rotate: false
+  xy: 955, 747
+  size: 78, 177
+  orig: 86, 184
+  offset: 0, 0
+  index: -1
+hand1-top
+  rotate: false
+  xy: 2, 2
+  size: 106, 104
+  orig: 106, 104
+  offset: 0, 0
+  index: -1
+hand2-top
+  rotate: false
+  xy: 656, 913
+  size: 38, 63
+  orig: 39, 64
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 1198, 418
+  size: 180, 162
+  orig: 180, 162
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 2, 108
+  size: 112, 254
+  orig: 127, 257
+  offset: 14, 1
+  index: -1
+leg1-top
+  rotate: false
+  xy: 656, 778
+  size: 70, 106
+  orig: 72, 111
+  offset: 1, 4
+  index: -1
+leg2
+  rotate: false
+  xy: 743, 156
+  size: 208, 401
+  orig: 208, 401
+  offset: 0, 0
+  index: -1
+leg2-top
+  rotate: false
+  xy: 656, 978
+  size: 78, 84
+  orig: 79, 85
+  offset: 1, 1
+  index: -1
+stone
+  rotate: false
+  xy: 284, 440
+  size: 370, 622
+  orig: 370, 622
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 969, 111
+  size: 274, 421
+  orig: 278, 421
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: false
+  xy: 1025, 676
+  size: 235, 386
+  orig: 235, 386
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: false
+  xy: 656, 559
+  size: 450, 503
+  orig: 450, 503
+  offset: 0, 0
+  index: -1

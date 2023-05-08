@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 991,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 928, 158
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 845, 10
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+e
+  rotate: true
+  xy: 928, 38
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+fish_light2
+  rotate: false
+  xy: 298, 23
+  size: 251, 256
+  orig: 251, 256
+  offset: 0, 0
+  index: -1
+fs_free
+  rotate: false
+  xy: 730, 72
+  size: 196, 57
+  orig: 196, 57
+  offset: 0, 0
+  index: -1
+fs_spins
+  rotate: false
+  xy: 616, 8
+  size: 227, 62
+  orig: 227, 62
+  offset: 0, 0
+  index: -1
+lantern_light_bg
+  rotate: false
+  xy: 551, 85
+  size: 177, 194
+  orig: 177, 194
+  offset: 0, 0
+  index: -1
+lotus_sprks
+  rotate: true
+  xy: 730, 131
+  size: 148, 196
+  orig: 148, 196
+  offset: 0, 0
+  index: -1
+r
+  rotate: false
+  xy: 928, 99
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+s
+  rotate: true
+  xy: 551, 24
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+scatter_box
+  rotate: false
+  xy: 2, 2
+  size: 294, 277
+  orig: 294, 277
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 928, 219
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1

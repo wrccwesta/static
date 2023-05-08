@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1456,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border-overlay-yellow
+  rotate: false
+  xy: 348, 60
+  size: 273, 274
+  orig: 273, 274
+  offset: 0, 0
+  index: -1
+mist-yellow
+  rotate: false
+  xy: 2, 8
+  size: 344, 326
+  orig: 347, 341
+  offset: 3, 3
+  index: -1
+pirate/bg
+  rotate: false
+  xy: 623, 60
+  size: 273, 274
+  orig: 275, 276
+  offset: 1, 1
+  index: -1
+pirate/bg-overlay
+  rotate: false
+  xy: 898, 108
+  size: 226, 226
+  orig: 228, 228
+  offset: 1, 1
+  index: -1
+pirate/body
+  rotate: true
+  xy: 1306, 61
+  size: 273, 148
+  orig: 276, 151
+  offset: 1, 2
+  index: -1
+pirate/cloth
+  rotate: false
+  xy: 898, 2
+  size: 136, 104
+  orig: 137, 106
+  offset: 1, 1
+  index: -1
+pirate/earring
+  rotate: false
+  xy: 348, 7
+  size: 19, 32
+  orig: 23, 35
+  offset: 0, 3
+  index: -1
+pirate/eyes
+  rotate: false
+  xy: 348, 41
+  size: 68, 17
+  orig: 71, 19
+  offset: 2, 1
+  index: -1
+pirate/hair1
+  rotate: false
+  xy: 418, 3
+  size: 21, 55
+  orig: 23, 57
+  offset: 1, 1
+  index: -1
+pirate/head
+  rotate: false
+  xy: 1126, 99
+  size: 178, 235
+  orig: 184, 237
+  offset: 1, 1
+  index: -1
+pirate/tail
+  rotate: false
+  xy: 1036, 34
+  size: 95, 63
+  orig: 98, 149
+  offset: 1, 85
+  index: -1

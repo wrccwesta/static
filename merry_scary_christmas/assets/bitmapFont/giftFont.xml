@@ -1,0 +1,24 @@
+<font>
+	<info face="GiftFont" size="183" />
+	<common lineHeight="183" scaleW="363" scaleH="310" pages="1" />
+	<pages>
+		<page id="0" file="giftFont.png" />
+	</pages>
+	<chars count="17">
+		<char id="48" x="0" y="0" width="76" height="130" xoffset="0" yoffset="54" xadvance="83" /><!-- 0 -->
+		<char id="49" x="300" y="0" width="52" height="129" xoffset="0" yoffset="54" xadvance="59" /><!-- 1 -->
+		<char id="50" x="295" y="131" width="67" height="131" xoffset="0" yoffset="53" xadvance="74" /><!-- 2 -->
+		<char id="51" x="152" y="131" width="73" height="130" xoffset="0" yoffset="54" xadvance="80" /><!-- 3 -->
+		<char id="52" x="226" y="131" width="68" height="129" xoffset="0" yoffset="54" xadvance="75" /><!-- 4 -->
+		<char id="53" x="77" y="0" width="74" height="130" xoffset="0" yoffset="54" xadvance="81" /><!-- 5 -->
+		<char id="54" x="76" y="131" width="75" height="130" xoffset="0" yoffset="53" xadvance="82" /><!-- 6 -->
+		<char id="55" x="226" y="0" width="73" height="130" xoffset="0" yoffset="53" xadvance="80" /><!-- 7 -->
+		<char id="56" x="152" y="0" width="73" height="130" xoffset="0" yoffset="53" xadvance="80" /><!-- 8 -->
+		<char id="57" x="0" y="131" width="75" height="131" xoffset="0" yoffset="53" xadvance="82" /><!-- 9 -->
+		<char id="46" x="0" y="263" width="39" height="46" xoffset="0" yoffset="135" xadvance="46" /><!-- . -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="47" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="376" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

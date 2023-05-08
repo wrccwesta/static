@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 416,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_fire2
+  rotate: false
+  xy: 2, 2
+  size: 156, 158
+  orig: 156, 158
+  offset: 0, 0
+  index: -1
+effect_sparks
+  rotate: false
+  xy: 160, 15
+  size: 138, 145
+  orig: 138, 145
+  offset: 0, 0
+  index: -1
+top_shine2
+  rotate: true
+  xy: 300, 21
+  size: 139, 114
+  orig: 139, 114
+  offset: 0, 0
+  index: -1

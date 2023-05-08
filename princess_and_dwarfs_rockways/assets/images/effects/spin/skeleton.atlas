@@ -1,0 +1,9 @@
+skeleton.png
+size:422,161
+filter:Linear,Linear
+dust
+bounds:2,2,160,157
+spin
+bounds:164,20,142,139
+spinarrow
+bounds:308,47,112,112

@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 830,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sca_free
+  rotate: true
+  xy: 612, 5
+  size: 104, 54
+  orig: 104, 54
+  offset: 0, 0
+  index: -1
+sca_free1
+  rotate: true
+  xy: 668, 12
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+sca_me
+  rotate: false
+  xy: 758, 59
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+sca_mm
+  rotate: false
+  xy: 724, 93
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+sca_mr
+  rotate: false
+  xy: 724, 59
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sca_mt
+  rotate: false
+  xy: 724, 25
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+sca_my
+  rotate: false
+  xy: 764, 93
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+sca_s
+  rotate: false
+  xy: 797, 93
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+scatter_inner
+  rotate: false
+  xy: 526, 26
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+scatter_light
+  rotate: false
+  xy: 526, 111
+  size: 159, 157
+  orig: 159, 157
+  offset: 0, 0
+  index: -1
+scatter_light_green
+  rotate: false
+  xy: 270, 14
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1
+scatter_mid
+  rotate: false
+  xy: 687, 127
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+scatter_outer
+  rotate: false
+  xy: 2, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1

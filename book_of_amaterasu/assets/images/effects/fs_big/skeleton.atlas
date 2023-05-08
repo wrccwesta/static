@@ -1,0 +1,174 @@
+
+skeleton.png
+size: 1860,1489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ama/A_special
+  rotate: true
+  xy: 1667, 18
+  size: 112, 147
+  orig: 390, 390
+  offset: 139, 123
+  index: -1
+ama/Amaterasu_special
+  rotate: true
+  xy: 742, 11
+  size: 339, 336
+  orig: 390, 390
+  offset: 40, 45
+  index: -1
+ama/Cat_special
+  rotate: true
+  xy: 282, 10
+  size: 195, 228
+  orig: 390, 390
+  offset: 96, 81
+  index: -1
+ama/Coin_special
+  rotate: true
+  xy: 1622, 264
+  size: 205, 219
+  orig: 390, 390
+  offset: 86, 86
+  index: -1
+ama/Flower_special
+  rotate: false
+  xy: 2, 7
+  size: 278, 198
+  orig: 390, 390
+  offset: 56, 96
+  index: -1
+ama/J_special
+  rotate: false
+  xy: 512, 41
+  size: 66, 164
+  orig: 390, 390
+  offset: 162, 113
+  index: -1
+ama/K_special
+  rotate: false
+  xy: 1667, 132
+  size: 162, 130
+  orig: 390, 390
+  offset: 120, 132
+  index: -1
+ama/Mask_special
+  rotate: false
+  xy: 1383, 2
+  size: 282, 260
+  orig: 390, 390
+  offset: 54, 65
+  index: -1
+ama/Q_special
+  rotate: true
+  xy: 580, 42
+  size: 163, 160
+  orig: 390, 390
+  offset: 127, 108
+  index: -1
+ama/ama-arm
+  rotate: false
+  xy: 1607, 471
+  size: 146, 390
+  orig: 146, 391
+  offset: 0, 0
+  index: -1
+ama/ama-body
+  rotate: false
+  xy: 649, 352
+  size: 388, 509
+  orig: 389, 509
+  offset: 0, 0
+  index: -1
+ama/ama-hand
+  rotate: true
+  xy: 1369, 391
+  size: 68, 251
+  orig: 68, 252
+  offset: 0, 0
+  index: -1
+ama/ama-head
+  rotate: true
+  xy: 1080, 27
+  size: 362, 301
+  orig: 362, 301
+  offset: 0, 0
+  index: -1
+ama/ama-wrist
+  rotate: false
+  xy: 1383, 265
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+ama/ear-left
+  rotate: false
+  xy: 1842, 1318
+  size: 16, 65
+  orig: 16, 65
+  offset: 0, 0
+  index: -1
+ama/ear-right
+  rotate: false
+  xy: 1809, 1182
+  size: 25, 88
+  orig: 25, 88
+  offset: 0, 0
+  index: -1
+ama/hairL
+  rotate: false
+  xy: 1480, 469
+  size: 125, 392
+  orig: 125, 393
+  offset: 0, 0
+  index: -1
+ama/hairR
+  rotate: false
+  xy: 1369, 461
+  size: 109, 400
+  orig: 109, 400
+  offset: 0, 0
+  index: -1
+ama/rays
+  rotate: false
+  xy: 2, 863
+  size: 1805, 624
+  orig: 1836, 699
+  offset: 16, 75
+  index: -1
+ama/sun
+  rotate: true
+  xy: 2, 207
+  size: 654, 645
+  orig: 694, 731
+  offset: 39, 52
+  index: -1
+ama/top-left
+  rotate: false
+  xy: 1809, 1272
+  size: 31, 111
+  orig: 31, 111
+  offset: 0, 0
+  index: -1
+ama/top-right
+  rotate: false
+  xy: 1809, 1385
+  size: 47, 102
+  orig: 47, 102
+  offset: 0, 0
+  index: -1
+shine-pink
+  rotate: true
+  xy: 1039, 391
+  size: 470, 328
+  orig: 487, 353
+  offset: 6, 9
+  index: -1
+wildscat(book)/ray
+  rotate: false
+  xy: 1755, 547
+  size: 79, 314
+  orig: 93, 343
+  offset: 7, 29
+  index: -1

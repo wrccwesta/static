@@ -1,0 +1,166 @@
+{"frames": {
+
+"btn_autoplay_active":
+{
+	"frame": {"x":1,"y":102,"w":288,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":107},
+	"sourceSize": {"w":288,"h":107}
+},
+"btn_autoplay_hover":
+{
+	"frame": {"x":558,"y":102,"w":264,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":106},
+	"sourceSize": {"w":264,"h":106}
+},
+"btn_autoplay_press":
+{
+	"frame": {"x":558,"y":210,"w":264,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":264,"h":106},
+	"sourceSize": {"w":264,"h":106}
+},
+"btn_maxbet_active":
+{
+	"frame": {"x":1,"y":211,"w":288,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":107},
+	"sourceSize": {"w":288,"h":107}
+},
+"btn_maxbet_hover":
+{
+	"frame": {"x":291,"y":102,"w":265,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":106},
+	"sourceSize": {"w":265,"h":106}
+},
+"btn_maxbet_press":
+{
+	"frame": {"x":291,"y":210,"w":265,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":106},
+	"sourceSize": {"w":265,"h":106}
+},
+"btn_small_active":
+{
+	"frame": {"x":895,"y":278,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_hover":
+{
+	"frame": {"x":931,"y":278,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_inactive":
+{
+	"frame": {"x":967,"y":278,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_press":
+{
+	"frame": {"x":1003,"y":278,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_spin_active":
+{
+	"frame": {"x":1352,"y":102,"w":126,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":126,"h":127},
+	"sourceSize": {"w":126,"h":127}
+},
+"btn_spin_hover":
+{
+	"frame": {"x":824,"y":102,"w":174,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":174},
+	"sourceSize": {"w":174,"h":174}
+},
+"btn_spin_inactive":
+{
+	"frame": {"x":1000,"y":102,"w":174,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":174},
+	"sourceSize": {"w":174,"h":174}
+},
+"btn_spin_press":
+{
+	"frame": {"x":1176,"y":102,"w":174,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":174},
+	"sourceSize": {"w":174,"h":174}
+},
+"front_decor":
+{
+	"frame": {"x":1404,"y":1,"w":75,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":72},
+	"sourceSize": {"w":75,"h":72}
+},
+"front_decor2":
+{
+	"frame": {"x":824,"y":278,"w":69,"h":44},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":44},
+	"sourceSize": {"w":75,"h":44}
+},
+"icn_spin_active":
+{
+	"frame": {"x":1352,"y":231,"w":72,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":61},
+	"sourceSize": {"w":72,"h":61}
+},
+"icn_spin_inactive":
+{
+	"frame": {"x":1426,"y":231,"w":55,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":55},
+	"sourceSize": {"w":55,"h":55}
+},
+"panel":
+{
+	"frame": {"x":1,"y":1,"w":1401,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1401,"h":99},
+	"sourceSize": {"w":1401,"h":99}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "desktop.png",
+	"format": "RGBA8888",
+	"size": {"w":1482,"h":323},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ada2b43191b17892116da7be96ed164a:11e9e74f25a6bce8b22fa2c052561565:0b077c73a0795f36362c69075e5df9fe$"
+}
+}

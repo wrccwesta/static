@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1107,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_shine2
+  rotate: true
+  xy: 694, 120
+  size: 133, 148
+  orig: 133, 148
+  offset: 0, 0
+  index: -1
+g1_body
+  rotate: false
+  xy: 859, 69
+  size: 246, 329
+  orig: 246, 329
+  offset: 0, 0
+  index: -1
+g1_boob
+  rotate: true
+  xy: 574, 11
+  size: 135, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+g1_eye
+  rotate: true
+  xy: 844, 236
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+g1_hair1
+  rotate: true
+  xy: 672, 23
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+g1_hand2
+  rotate: true
+  xy: 417, 148
+  size: 105, 275
+  orig: 105, 275
+  offset: 0, 0
+  index: -1
+g1_head
+  rotate: false
+  xy: 187, 28
+  size: 163, 176
+  orig: 163, 176
+  offset: 0, 0
+  index: -1
+g1_kiss
+  rotate: true
+  xy: 672, 120
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+g1_leg1 1
+  rotate: true
+  xy: 352, 52
+  size: 94, 220
+  orig: 94, 220
+  offset: 0, 0
+  index: -1
+g1_leg1 2
+  rotate: true
+  xy: 2, 2
+  size: 202, 183
+  orig: 202, 183
+  offset: 0, 0
+  index: -1
+g1_leg2
+  rotate: true
+  xy: 417, 255
+  size: 143, 440
+  orig: 143, 440
+  offset: 0, 0
+  index: -1
+scatter_textlight
+  rotate: false
+  xy: 2, 206
+  size: 413, 192
+  orig: 413, 192
+  offset: 0, 0
+  index: -1

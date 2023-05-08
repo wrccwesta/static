@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1893,1004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_backlight
+  rotate: false
+  xy: 765, 134
+  size: 536, 415
+  orig: 536, 415
+  offset: 0, 0
+  index: -1
+dragon_body
+  rotate: false
+  xy: 1303, 139
+  size: 424, 368
+  orig: 424, 368
+  offset: 0, 0
+  index: -1
+dragon_redlight1
+  rotate: true
+  xy: 2, 268
+  size: 734, 761
+  orig: 734, 761
+  offset: 0, 0
+  index: -1
+dragon_sparks
+  rotate: true
+  xy: 765, 551
+  size: 451, 713
+  orig: 451, 713
+  offset: 0, 0
+  index: -1
+dragon_yellowlight
+  rotate: true
+  xy: 1480, 509
+  size: 493, 411
+  orig: 493, 411
+  offset: 0, 0
+  index: -1
+special_fire
+  rotate: true
+  xy: 372, 22
+  size: 244, 331
+  orig: 244, 331
+  offset: 0, 0
+  index: -1
+special_fire2
+  rotate: true
+  xy: 2, 2
+  size: 264, 368
+  orig: 264, 368
+  offset: 0, 0
+  index: -1

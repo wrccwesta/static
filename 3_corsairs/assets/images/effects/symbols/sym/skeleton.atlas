@@ -1,0 +1,307 @@
+
+skeleton.png
+size: 1453,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10/10
+  rotate: false
+  xy: 483, 546
+  size: 114, 102
+  orig: 116, 104
+  offset: 1, 1
+  index: -1
+9/9
+  rotate: false
+  xy: 599, 546
+  size: 65, 102
+  orig: 67, 104
+  offset: 1, 1
+  index: -1
+a/A
+  rotate: false
+  xy: 380, 545
+  size: 101, 103
+  orig: 103, 105
+  offset: 1, 1
+  index: -1
+bonus/letter
+  rotate: false
+  xy: 981, 19
+  size: 217, 54
+  orig: 222, 58
+  offset: 3, 3
+  index: -1
+bonus/map
+  rotate: true
+  xy: 204, 263
+  size: 280, 230
+  orig: 290, 239
+  offset: 4, 4
+  index: -1
+j/J
+  rotate: false
+  xy: 1097, 445
+  size: 60, 108
+  orig: 62, 110
+  offset: 1, 1
+  index: -1
+k/K
+  rotate: true
+  xy: 666, 545
+  size: 136, 119
+  orig: 138, 121
+  offset: 1, 1
+  index: -1
+mist
+  rotate: true
+  xy: 2, 260
+  size: 283, 200
+  orig: 290, 213
+  offset: 2, 3
+  index: -1
+p_captain/bg
+  rotate: true
+  xy: 679, 308
+  size: 235, 207
+  orig: 235, 207
+  offset: 0, 0
+  index: -1
+p_captain/bg-shine
+  rotate: true
+  xy: 920, 686
+  size: 235, 207
+  orig: 235, 207
+  offset: 0, 0
+  index: -1
+p_captain/body
+  rotate: true
+  xy: 1164, 449
+  size: 235, 114
+  orig: 235, 117
+  offset: 0, 0
+  index: -1
+p_captain/border
+  rotate: true
+  xy: 436, 274
+  size: 269, 241
+  orig: 273, 245
+  offset: 2, 2
+  index: -1
+p_captain/feather
+  rotate: true
+  xy: 1284, 806
+  size: 115, 167
+  orig: 117, 169
+  offset: 0, 2
+  index: -1
+p_captain/head
+  rotate: true
+  xy: 1049, 78
+  size: 232, 200
+  orig: 232, 201
+  offset: 0, 1
+  index: -1
+p_captain/p3-eyes
+  rotate: false
+  xy: 338, 3
+  size: 50, 13
+  orig: 54, 15
+  offset: 2, 1
+  index: -1
+p_girl/bg
+  rotate: true
+  xy: 710, 686
+  size: 235, 208
+  orig: 235, 208
+  offset: 0, 0
+  index: -1
+p_girl/bg-shine
+  rotate: true
+  xy: 480, 37
+  size: 235, 208
+  orig: 235, 208
+  offset: 0, 0
+  index: -1
+p_girl/body
+  rotate: true
+  xy: 899, 75
+  size: 235, 148
+  orig: 235, 150
+  offset: 0, 0
+  index: -1
+p_girl/boobs
+  rotate: false
+  xy: 690, 7
+  size: 182, 62
+  orig: 182, 63
+  offset: 0, 0
+  index: -1
+p_girl/border
+  rotate: false
+  xy: 207, 18
+  size: 271, 243
+  orig: 275, 247
+  offset: 2, 2
+  index: -1
+p_girl/face
+  rotate: true
+  xy: 1302, 44
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+p_girl/hair-left
+  rotate: true
+  xy: 874, 13
+  size: 56, 105
+  orig: 74, 107
+  offset: 1, 1
+  index: -1
+p_girl/hair-right
+  rotate: true
+  xy: 1097, 390
+  size: 53, 151
+  orig: 149, 186
+  offset: 95, 34
+  index: -1
+p_girl/head
+  rotate: true
+  xy: 1284, 682
+  size: 122, 159
+  orig: 123, 159
+  offset: 1, 0
+  index: -1
+p_girl/p2-eyes
+  rotate: false
+  xy: 207, 2
+  size: 69, 14
+  orig: 72, 16
+  offset: 1, 1
+  index: -1
+p_man/bg
+  rotate: true
+  xy: 690, 71
+  size: 235, 207
+  orig: 235, 207
+  offset: 0, 0
+  index: -1
+p_man/bg-shine
+  rotate: true
+  xy: 888, 312
+  size: 235, 207
+  orig: 235, 207
+  offset: 0, 0
+  index: -1
+p_man/body
+  rotate: true
+  xy: 1129, 686
+  size: 235, 153
+  orig: 235, 153
+  offset: 0, 0
+  index: -1
+p_man/border
+  rotate: true
+  xy: 380, 650
+  size: 271, 243
+  orig: 275, 247
+  offset: 2, 2
+  index: -1
+p_man/head
+  rotate: true
+  xy: 1002, 555
+  size: 129, 160
+  orig: 129, 161
+  offset: 0, 1
+  index: -1
+p_man/p1-eyes
+  rotate: false
+  xy: 278, 3
+  size: 58, 13
+  orig: 61, 16
+  offset: 1, 2
+  index: -1
+p_man/tail
+  rotate: true
+  xy: 1333, 456
+  size: 51, 84
+  orig: 58, 90
+  offset: 6, 4
+  index: -1
+q/Q
+  rotate: false
+  xy: 1333, 509
+  size: 114, 121
+  orig: 116, 123
+  offset: 1, 1
+  index: -1
+scatter/Free
+  rotate: true
+  xy: 951, 550
+  size: 134, 49
+  orig: 136, 50
+  offset: 1, 1
+  index: -1
+scatter/Spins
+  rotate: false
+  xy: 1280, 632
+  size: 154, 48
+  orig: 156, 49
+  offset: 1, 1
+  index: -1
+scatter/helm
+  rotate: true
+  xy: 1251, 244
+  size: 203, 198
+  orig: 214, 208
+  offset: 5, 5
+  index: -1
+scatter/letter
+  rotate: true
+  xy: 1251, 18
+  size: 224, 49
+  orig: 228, 52
+  offset: 2, 2
+  index: -1
+scatter/ribbon
+  rotate: true
+  xy: 625, 683
+  size: 238, 83
+  orig: 240, 85
+  offset: 1, 1
+  index: -1
+star
+  rotate: false
+  xy: 2, 545
+  size: 376, 376
+  orig: 389, 383
+  offset: 6, 4
+  index: -1
+wild/letter
+  rotate: true
+  xy: 1280, 457
+  size: 173, 51
+  orig: 178, 55
+  offset: 3, 2
+  index: -1
+wild/saber
+  rotate: true
+  xy: 2, 5
+  size: 253, 203
+  orig: 258, 206
+  offset: 3, 2
+  index: -1
+wild/skull
+  rotate: true
+  xy: 1302, 132
+  size: 110, 149
+  orig: 116, 155
+  offset: 3, 3
+  index: -1
+win-mark
+  rotate: true
+  xy: 787, 549
+  size: 135, 162
+  orig: 135, 162
+  offset: 0, 0
+  index: -1

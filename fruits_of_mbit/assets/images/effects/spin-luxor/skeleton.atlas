@@ -1,0 +1,17 @@
+skeleton.png
+size:401,496
+filter:Linear,Linear
+circle
+bounds:2,244,251,250
+offsets:2,0,255,252
+luxorspin
+bounds:255,355,137,139
+offsets:1,1,139,140
+luxorspinbg
+bounds:244,87,155,155
+luxorspinicon
+bounds:244,9,76,87
+rotate:90
+spinef
+bounds:2,2,240,240
+offsets:22,22,284,283

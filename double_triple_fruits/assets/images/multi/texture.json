@@ -1,0 +1,95 @@
+{"frames": {
+
+"x1-a":
+{
+	"frame": {"x":1451,"y":1,"w":154,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":127},
+	"sourceSize": {"w":154,"h":127}
+},
+"x1":
+{
+	"frame": {"x":1607,"y":1,"w":154,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":127},
+	"sourceSize": {"w":154,"h":127}
+},
+"x2-a":
+{
+	"frame": {"x":373,"y":1,"w":180,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":129},
+	"sourceSize": {"w":180,"h":129}
+},
+"x2":
+{
+	"frame": {"x":555,"y":1,"w":180,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":180,"h":129},
+	"sourceSize": {"w":180,"h":129}
+},
+"x3-a":
+{
+	"frame": {"x":1097,"y":1,"w":175,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":130},
+	"sourceSize": {"w":175,"h":130}
+},
+"x3":
+{
+	"frame": {"x":1274,"y":1,"w":175,"h":130},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":130},
+	"sourceSize": {"w":175,"h":130}
+},
+"x4-a":
+{
+	"frame": {"x":1,"y":1,"w":184,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":127},
+	"sourceSize": {"w":184,"h":127}
+},
+"x4":
+{
+	"frame": {"x":187,"y":1,"w":184,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":127},
+	"sourceSize": {"w":184,"h":127}
+},
+"x5-a":
+{
+	"frame": {"x":737,"y":1,"w":178,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":129},
+	"sourceSize": {"w":178,"h":129}
+},
+"x5":
+{
+	"frame": {"x":917,"y":1,"w":178,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":129},
+	"sourceSize": {"w":178,"h":129}
+}},
+"animations": {
+	"x": ["x1","x2","x3","x4","x5"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":1762,"h":132},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2a54d7bf21f505ef74b01dc7be611e94:15f655628328e96fc4fcd99822c8bef1:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

@@ -1,0 +1,621 @@
+skeleton.png
+size:2043,1781
+filter:Linear,Linear
+monkey/castAbility/Monkey Cast Ability 13
+bounds:796,610,298,384
+offsets:50,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 14
+bounds:2,320,300,384
+offsets:52,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 15
+bounds:796,307,301,384
+offsets:52,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 16
+bounds:384,9,302,383
+offsets:52,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 17
+bounds:769,3,302,382
+offsets:52,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 18
+bounds:1153,3,302,382
+offsets:52,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 19
+bounds:1537,2,302,381
+offsets:52,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 22
+bounds:2,17,301,380
+offsets:53,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 23
+bounds:776,913,293,382
+offsets:59,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 24
+bounds:1121,1208,289,385
+offsets:58,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 25
+bounds:384,919,292,390
+offsets:56,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 36
+bounds:1508,1206,291,423
+offsets:51,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 37
+bounds:395,614,297,399
+offsets:51,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 39
+bounds:1182,608,299,398
+offsets:51,8,398,496
+rotate:90
+monkey/shadowChair
+bounds:2,1576,295,203
+offsets:4,2,299,216
+monkey/win/Monkey Win 10
+bounds:1040,1503,276,369
+offsets:52,8,398,496
+rotate:90
+monkey/win/Monkey Win 11
+bounds:669,1505,274,369
+offsets:52,8,398,496
+rotate:90
+monkey/win/Monkey Win 12
+bounds:299,1506,273,368
+offsets:52,8,398,496
+rotate:90
+monkey/win/Monkey Win 13
+bounds:374,1215,288,370
+offsets:51,8,398,496
+rotate:90
+monkey/win/Monkey Win 15
+bounds:1582,608,299,459
+offsets:45,8,398,496
+rotate:90
+monkey/win/Monkey Win 3
+bounds:1548,909,295,394
+offsets:51,8,398,496
+rotate:90
+monkey/win/Monkey Win 37
+bounds:388,313,299,406
+offsets:51,8,398,496
+rotate:90
+monkey/win/Monkey Win 38
+bounds:1182,307,299,402
+offsets:51,8,398,496
+rotate:90
+monkey/win/Monkey Win 39
+bounds:1586,306,300,398
+offsets:48,8,398,496
+rotate:90
+monkey/win/Monkey Win 4
+bounds:2,622,295,391
+offsets:51,8,398,496
+rotate:90
+monkey/win/Monkey Win 5
+bounds:1160,910,294,386
+offsets:51,8,398,496
+rotate:90
+monkey/win/Monkey Win 6
+bounds:2,922,291,380
+offsets:51,8,398,496
+rotate:90
+monkey/win/Monkey Win 7
+bounds:746,1213,288,373
+offsets:51,8,398,496
+rotate:90
+monkey/win/Monkey Win 8
+bounds:2,1220,284,370
+offsets:51,8,398,496
+rotate:90
+monkey/win/Monkey Win 9
+bounds:1411,1499,280,370
+offsets:51,8,398,496
+rotate:90
+
+skeleton_2.png
+size:2012,1829
+filter:Linear,Linear
+monkey/castAbility/Monkey Cast Ability 1
+bounds:400,612,303,397
+offsets:44,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 20
+bounds:2,1525,302,381
+offsets:52,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 21
+bounds:385,1525,302,380
+offsets:52,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 26
+bounds:799,612,303,394
+offsets:54,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 38
+bounds:1195,612,303,400
+offsets:51,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 40
+bounds:1597,612,303,397
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 1
+bounds:799,307,303,397
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 2
+bounds:2,308,303,396
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 21
+bounds:1198,307,303,398
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 22
+bounds:1598,307,303,398
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 23
+bounds:400,2,303,399
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 24
+bounds:767,1525,302,399
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 25
+bounds:1168,1525,302,399
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 26
+bounds:1569,1525,302,400
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 27
+bounds:2,1221,302,400
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 28
+bounds:404,1221,302,400
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 29
+bounds:806,1221,302,400
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 3
+bounds:2,3,303,396
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 30
+bounds:1208,1221,302,400
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 31
+bounds:1610,1221,302,400
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 32
+bounds:2,917,302,400
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 33
+bounds:404,917,302,400
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 34
+bounds:806,917,302,400
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 35
+bounds:1208,917,302,399
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 36
+bounds:1609,917,302,399
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 37
+bounds:801,2,303,399
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 38
+bounds:1202,2,303,398
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 39
+bounds:1602,2,303,398
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare1
+bounds:400,307,303,397
+offsets:44,8,398,496
+rotate:90
+monkey/win/Monkey Win 2
+bounds:2,613,302,396
+offsets:45,8,398,496
+rotate:90
+
+skeleton_3.png
+size:2022,1914
+filter:Linear,Linear
+monkey/castAbility/Monkey Cast Ability 10
+bounds:1706,2,314,377
+offsets:44,8,398,496
+monkey/castAbility/Monkey Cast Ability 12
+bounds:1199,1608,304,384
+offsets:47,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 2
+bounds:1197,995,305,396
+offsets:44,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 35
+bounds:1585,1608,304,395
+offsets:50,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 10
+bounds:1595,995,305,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 11
+bounds:2,690,305,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 12
+bounds:400,690,305,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 13
+bounds:798,689,305,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 14
+bounds:1196,688,305,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 15
+bounds:1594,688,305,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 16
+bounds:2,383,305,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 17
+bounds:2,1303,304,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 18
+bounds:400,1303,304,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 19
+bounds:798,1303,304,397
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 20
+bounds:1197,1302,304,397
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 4
+bounds:1596,1302,304,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 40
+bounds:2,1609,303,397
+offsets:44,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 5
+bounds:2,997,304,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 6
+bounds:400,383,305,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 7
+bounds:798,382,305,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 8
+bounds:1196,381,305,396
+offsets:43,8,398,496
+rotate:90
+monkey/idle/Monkey Idle 9
+bounds:1594,381,305,396
+offsets:43,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare27
+bounds:2,75,306,424
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare28
+bounds:428,74,306,424
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare29
+bounds:854,73,306,424
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare30
+bounds:1280,73,306,424
+offsets:44,8,398,496
+rotate:90
+monkey/win/Monkey Win 1
+bounds:401,1609,303,397
+offsets:44,8,398,496
+rotate:90
+monkey/win/Monkey Win 14
+bounds:810,996,305,385
+offsets:51,8,398,496
+rotate:90
+monkey/win/Monkey Win 36
+bounds:400,997,304,408
+offsets:46,8,398,496
+rotate:90
+monkey/win/Monkey Win 40
+bounds:800,1609,303,397
+offsets:44,8,398,496
+rotate:90
+
+skeleton_4.png
+size:2048,1864
+filter:Linear,Linear
+monkey/castAbility/Monkey Cast Ability 11
+bounds:1674,1102,313,380
+offsets:44,8,398,496
+monkey/castAbility/Monkey Cast Ability 27
+bounds:426,3,310,396
+offsets:52,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 3
+bounds:2,937,309,395
+offsets:44,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 4
+bounds:1653,404,314,393
+offsets:44,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 6
+bounds:1274,161,322,387
+offsets:44,8,398,496
+monkey/castAbility/Monkey Cast Ability 7
+bounds:1330,550,321,384
+offsets:44,8,398,496
+monkey/castAbility/Monkey Cast Ability 8
+bounds:1673,720,318,380
+offsets:44,8,398,496
+monkey/castAbility/Monkey Cast Ability 9
+bounds:1710,1484,315,378
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare10
+bounds:824,2,310,422
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare14
+bounds:482,626,309,422
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare15
+bounds:906,625,309,422
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare16
+bounds:2,316,309,422
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare17
+bounds:426,315,309,422
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare18
+bounds:850,314,309,422
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare19
+bounds:1598,93,309,422
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare20
+bounds:2,5,309,422
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare21
+bounds:1250,1246,308,422
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare22
+bounds:399,937,308,422
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare23
+bounds:823,937,308,423
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare24
+bounds:1248,936,308,423
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare25
+bounds:400,1247,307,423
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare26
+bounds:825,1247,307,423
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare31
+bounds:2,1556,306,424
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare32
+bounds:428,1556,306,425
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare33
+bounds:855,1556,306,425
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare34
+bounds:1282,1556,306,426
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare40
+bounds:2,1248,306,396
+offsets:44,8,398,496
+rotate:90
+monkey/win/Monkey Win 28
+bounds:2,627,308,478
+offsets:49,8,398,496
+rotate:90
+
+skeleton_5.png
+size:2048,1838
+filter:Linear,Linear
+monkey/castAbility/Monkey Cast Ability 28
+bounds:1630,2,313,414
+offsets:52,8,398,496
+rotate:90
+monkey/castAbility/Monkey Cast Ability 29
+bounds:1037,945,313,423
+offsets:51,8,398,496
+monkey/castAbility/Monkey Cast Ability 32
+bounds:1352,960,317,421
+offsets:36,8,398,496
+monkey/castAbility/Monkey Cast Ability 33
+bounds:360,465,314,435
+offsets:33,8,398,496
+monkey/idleRare/Monkey Idle Rare11
+bounds:1006,503,310,422
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare12
+bounds:1318,521,310,422
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare13
+bounds:1318,97,310,422
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare35
+bounds:1630,317,310,416
+offsets:44,8,398,496
+rotate:90
+monkey/idleRare/Monkey Idle Rare9
+bounds:1006,79,310,422
+offsets:44,8,398,496
+monkey/win/Monkey Win 16
+bounds:365,1360,340,476
+offsets:26,8,398,496
+monkey/win/Monkey Win 17
+bounds:2,1363,361,473
+offsets:18,8,398,496
+monkey/win/Monkey Win 18
+bounds:2,902,361,459
+offsets:25,8,398,496
+monkey/win/Monkey Win 19
+bounds:2,444,356,456
+offsets:30,8,398,496
+monkey/win/Monkey Win 20
+bounds:2,2,341,440
+offsets:41,8,398,496
+monkey/win/Monkey Win 21
+bounds:1671,980,334,420
+offsets:44,8,398,496
+monkey/win/Monkey Win 22
+bounds:676,80,328,401
+offsets:46,8,398,496
+monkey/win/Monkey Win 25
+bounds:676,483,328,432
+offsets:46,8,398,496
+monkey/win/Monkey Win 26
+bounds:1341,1383,324,453
+offsets:45,8,398,496
+monkey/win/Monkey Win 27
+bounds:707,1365,317,471
+offsets:44,8,398,496
+monkey/win/Monkey Win 29
+bounds:1026,1370,313,466
+offsets:51,8,398,496
+monkey/win/Monkey Win 30
+bounds:345,2,322,440
+offsets:51,8,398,496
+monkey/win/Monkey Win 31
+bounds:706,927,329,431
+offsets:45,8,398,496
+monkey/win/Monkey Win 32
+bounds:365,917,339,441
+offsets:35,8,398,496
+monkey/win/Monkey Win 33
+bounds:1667,1402,338,434
+offsets:32,8,398,496
+monkey/win/Monkey Win 34
+bounds:1630,629,329,416
+offsets:34,8,398,496
+rotate:90
+
+skeleton_6.png
+size:1998,1205
+filter:Linear,Linear
+monkey/castAbility/Monkey Cast Ability 30
+bounds:634,804,313,399
+offsets:51,8,398,496
+monkey/castAbility/Monkey Cast Ability 31
+bounds:1677,17,319,393
+offsets:43,8,398,496
+monkey/castAbility/Monkey Cast Ability 34
+bounds:1610,412,320,393
+offsets:37,8,398,496
+monkey/castAbility/Monkey Cast Ability 5
+bounds:402,2,320,390
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare2
+bounds:1365,11,310,396
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare3
+bounds:724,5,320,397
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare36
+bounds:1046,8,317,396
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare37
+bounds:1269,807,318,396
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare38
+bounds:1293,409,315,396
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare39
+bounds:1589,807,311,396
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare4
+bounds:973,406,318,397
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare5
+bounds:949,805,318,398
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare6
+bounds:650,404,321,398
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare7
+bounds:330,394,318,399
+offsets:44,8,398,496
+monkey/idleRare/Monkey Idle Rare8
+bounds:2,789,313,414
+offsets:44,8,398,496
+monkey/win/Monkey Win 23
+bounds:2,51,325,398
+offsets:48,8,398,496
+rotate:90
+monkey/win/Monkey Win 24
+bounds:2,378,326,409
+offsets:48,8,398,496
+monkey/win/Monkey Win 35
+bounds:317,795,315,408
+offsets:40,8,398,496

@@ -1,0 +1,12 @@
+skeleton.png
+size:1330,1154
+filter:Linear,Linear
+giant-circle
+bounds:2,2,1154,1150
+offsets:23,19,1200,1200
+spark
+bounds:1158,925,48,48
+offsets:0,0,49,48
+sym/coin
+bounds:1158,975,170,177
+offsets:106,102,380,380

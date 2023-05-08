@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1113,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scatter_bg
+  rotate: false
+  xy: 2, 4
+  size: 313, 215
+  orig: 313, 215
+  offset: 0, 0
+  index: -1
+wild_zombie
+  rotate: true
+  xy: 1042, 88
+  size: 131, 69
+  orig: 131, 69
+  offset: 0, 0
+  index: -1
+zombie_blood
+  rotate: true
+  xy: 918, 2
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+zombie_eye2
+  rotate: true
+  xy: 1016, 51
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+zombie_fir
+  rotate: false
+  xy: 632, 4
+  size: 284, 215
+  orig: 284, 215
+  offset: 0, 0
+  index: -1
+zombie_hand
+  rotate: false
+  xy: 918, 79
+  size: 122, 140
+  orig: 122, 140
+  offset: 0, 0
+  index: -1
+zombie_s
+  rotate: false
+  xy: 317, 4
+  size: 313, 215
+  orig: 313, 215
+  offset: 0, 0
+  index: -1

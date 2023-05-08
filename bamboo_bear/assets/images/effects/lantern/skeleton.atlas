@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantern_body
+  rotate: false
+  xy: 365, 247
+  size: 245, 241
+  orig: 245, 241
+  offset: 0, 0
+  index: -1
+lantern_light_bg
+  rotate: false
+  xy: 365, 51
+  size: 177, 194
+  orig: 177, 194
+  offset: 0, 0
+  index: -1
+lantern_line
+  rotate: true
+  xy: 2, 2
+  size: 3, 78
+  orig: 3, 78
+  offset: 0, 0
+  index: -1
+lantern_mid
+  rotate: false
+  xy: 544, 198
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+lantern_sparks
+  rotate: false
+  xy: 211, 36
+  size: 152, 452
+  orig: 152, 452
+  offset: 0, 0
+  index: -1
+lantern_sparks_top
+  rotate: false
+  xy: 2, 7
+  size: 207, 481
+  orig: 207, 481
+  offset: 0, 0
+  index: -1
+lantern_tail
+  rotate: false
+  xy: 612, 386
+  size: 30, 102
+  orig: 30, 102
+  offset: 0, 0
+  index: -1

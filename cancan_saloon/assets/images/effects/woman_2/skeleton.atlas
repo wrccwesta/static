@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 520,763
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_shine
+  rotate: false
+  xy: 203, 526
+  size: 303, 235
+  orig: 303, 235
+  offset: 0, 0
+  index: -1
+fx_shine2
+  rotate: false
+  xy: 381, 194
+  size: 133, 148
+  orig: 133, 148
+  offset: 0, 0
+  index: -1
+g2_body
+  rotate: true
+  xy: 203, 360
+  size: 164, 192
+  orig: 164, 192
+  offset: 0, 0
+  index: -1
+g2_eye
+  rotate: true
+  xy: 508, 744
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+g2_hair
+  rotate: true
+  xy: 328, 2
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+g2_hand1
+  rotate: false
+  xy: 397, 344
+  size: 121, 180
+  orig: 121, 180
+  offset: 0, 0
+  index: -1
+g2_hand2
+  rotate: false
+  xy: 197, 45
+  size: 129, 165
+  orig: 129, 165
+  offset: 0, 0
+  index: -1
+g2_head
+  rotate: true
+  xy: 328, 74
+  size: 118, 156
+  orig: 118, 156
+  offset: 0, 0
+  index: -1
+g2_leg1
+  rotate: false
+  xy: 2, 13
+  size: 101, 386
+  orig: 101, 386
+  offset: 0, 0
+  index: -1
+g2_leg2
+  rotate: false
+  xy: 105, 37
+  size: 90, 362
+  orig: 90, 362
+  offset: 0, 0
+  index: -1
+g2_lip
+  rotate: true
+  xy: 486, 159
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+g2_skirtback
+  rotate: false
+  xy: 2, 401
+  size: 199, 360
+  orig: 199, 360
+  offset: 0, 0
+  index: -1
+g2_skirttop
+  rotate: false
+  xy: 197, 212
+  size: 182, 146
+  orig: 182, 146
+  offset: 0, 0
+  index: -1

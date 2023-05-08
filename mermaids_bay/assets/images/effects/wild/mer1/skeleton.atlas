@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1720,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_x2text
+  rotate: false
+  xy: 2, 48
+  size: 223, 66
+  orig: 223, 66
+  offset: 0, 0
+  index: -1
+fx_bubble_one
+  rotate: false
+  xy: 444, 41
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+fx_mist
+  rotate: true
+  xy: 859, 2
+  size: 364, 391
+  orig: 364, 391
+  offset: 0, 0
+  index: -1
+fx_spark_yellow
+  rotate: false
+  xy: 1546, 70
+  size: 171, 170
+  orig: 171, 170
+  offset: 0, 0
+  index: -1
+fx_water
+  rotate: false
+  xy: 1252, 82
+  size: 292, 284
+  orig: 292, 284
+  offset: 0, 0
+  index: -1
+mer1_body
+  rotate: true
+  xy: 2, 116
+  size: 250, 855
+  orig: 250, 855
+  offset: 0, 0
+  index: -1
+mer1_bra
+  rotate: false
+  xy: 227, 23
+  size: 109, 91
+  orig: 109, 91
+  offset: 0, 0
+  index: -1
+mer1_eyes
+  rotate: false
+  xy: 2, 33
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+mer1_flowerbot
+  rotate: true
+  xy: 338, 44
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+mer1_flowertop
+  rotate: true
+  xy: 1405, 17
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+mer1_hand
+  rotate: true
+  xy: 1546, 242
+  size: 124, 172
+  orig: 124, 172
+  offset: 0, 0
+  index: -1
+mer1_lip
+  rotate: false
+  xy: 1252, 5
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+wild
+  rotate: false
+  xy: 1252, 15
+  size: 151, 65
+  orig: 151, 65
+  offset: 0, 0
+  index: -1

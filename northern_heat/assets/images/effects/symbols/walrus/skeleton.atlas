@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 803,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+walrus_bg
+  rotate: false
+  xy: 276, 2
+  size: 272, 215
+  orig: 272, 215
+  offset: 0, 0
+  index: -1
+walrus_body
+  rotate: false
+  xy: 550, 49
+  size: 251, 168
+  orig: 251, 168
+  offset: 0, 0
+  index: -1
+walrus_top
+  rotate: false
+  xy: 2, 2
+  size: 272, 215
+  orig: 272, 215
+  offset: 0, 0
+  index: -1

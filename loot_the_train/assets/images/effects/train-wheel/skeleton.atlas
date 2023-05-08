@@ -1,0 +1,13 @@
+skeleton.png
+size:633,419
+filter:Linear,Linear
+smoke-train
+bounds:358,2,149,143
+offsets:1,1,150,147
+wheel-back
+bounds:358,147,273,270
+offsets:137,49,1920,1080
+wheel-front
+bounds:2,60,357,354
+offsets:1531,52,1920,1080
+rotate:90

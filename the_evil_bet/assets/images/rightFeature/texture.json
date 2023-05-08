@@ -1,0 +1,20 @@
+{"frames": {
+
+"badge-inactive":
+{
+	"frame": {"x":1,"y":1,"w":193,"h":194},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":194},
+	"sourceSize": {"w":193,"h":194}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":195,"h":196},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6d6b9a4156c33a10a5591d9e11011622:7020fcad248db785f9a8770314e2a0c9:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

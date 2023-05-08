@@ -1,0 +1,11 @@
+skeleton.png
+size:525,287
+filter:Linear,Linear
+fxs/electricity_00000
+bounds:295,45,240,228
+offsets:73,77,400,400
+rotate:90
+fxs/fire_00000
+bounds:2,2,283,291
+offsets:35,50,400,400
+rotate:90

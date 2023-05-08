@@ -1,0 +1,293 @@
+
+skeleton.png
+size: 1891,921
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 245, 458
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+10_win
+  rotate: false
+  xy: 719, 701
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 970, 701
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+9_win
+  rotate: false
+  xy: 1221, 701
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 1472, 701
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+a_win
+  rotate: false
+  xy: 496, 458
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+dreamcatcher_body
+  rotate: false
+  xy: 747, 481
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+dreamcatcher_tail1
+  rotate: false
+  xy: 1144, 23
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1
+dreamcatcher_tail2
+  rotate: false
+  xy: 1459, 52
+  size: 121, 46
+  orig: 121, 46
+  offset: 0, 0
+  index: -1
+dreamcatcher_tail3
+  rotate: true
+  xy: 1823, 301
+  size: 177, 51
+  orig: 177, 51
+  offset: 0, 0
+  index: -1
+eagle
+  rotate: false
+  xy: 998, 481
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+fx_eagle_eye
+  rotate: false
+  xy: 1582, 22
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+fx_girl_eyes
+  rotate: false
+  xy: 1327, 15
+  size: 127, 74
+  orig: 127, 74
+  offset: 0, 0
+  index: -1
+fx_horse_win
+  rotate: false
+  xy: 1660, 49
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 2, 403
+  size: 241, 273
+  orig: 241, 273
+  offset: 0, 0
+  index: -1
+fx_light_violet
+  rotate: true
+  xy: 444, 678
+  size: 241, 273
+  orig: 241, 273
+  offset: 0, 0
+  index: -1
+fx_rune_arrow
+  rotate: true
+  xy: 2, 19
+  size: 101, 209
+  orig: 101, 209
+  offset: 0, 0
+  index: -1
+fx_rune_home
+  rotate: false
+  xy: 1723, 750
+  size: 166, 169
+  orig: 166, 169
+  offset: 0, 0
+  index: -1
+fx_rune_moon
+  rotate: false
+  xy: 1734, 107
+  size: 134, 149
+  orig: 134, 149
+  offset: 0, 0
+  index: -1
+fx_rune_sun
+  rotate: false
+  xy: 1459, 100
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+fx_scatter
+  rotate: true
+  xy: 2, 122
+  size: 279, 229
+  orig: 279, 229
+  offset: 0, 0
+  index: -1
+fx_scatter_eagle
+  rotate: true
+  xy: 1751, 480
+  size: 268, 130
+  orig: 268, 130
+  offset: 0, 0
+  index: -1
+fx_scatter_eye
+  rotate: false
+  xy: 1237, 2
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+fx_splash
+  rotate: false
+  xy: 2, 678
+  size: 440, 241
+  orig: 440, 241
+  offset: 0, 0
+  index: -1
+fx_splash2
+  rotate: false
+  xy: 998, 85
+  size: 237, 174
+  orig: 237, 174
+  offset: 0, 0
+  index: -1
+fx_splash_letters
+  rotate: true
+  xy: 1237, 91
+  size: 168, 220
+  orig: 168, 220
+  offset: 0, 0
+  index: -1
+fx_wolf_eye
+  rotate: false
+  xy: 1734, 31
+  size: 117, 74
+  orig: 117, 74
+  offset: 0, 0
+  index: -1
+girl
+  rotate: false
+  xy: 1249, 481
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+horse
+  rotate: false
+  xy: 1500, 481
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+j
+  rotate: false
+  xy: 245, 238
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+j_win
+  rotate: false
+  xy: 496, 238
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 747, 261
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+k_win
+  rotate: false
+  xy: 998, 261
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 1249, 261
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+q_win
+  rotate: false
+  xy: 1500, 261
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+scatter
+  rotate: false
+  xy: 233, 18
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+wild_win2
+  rotate: false
+  xy: 484, 18
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+wolf
+  rotate: false
+  xy: 747, 41
+  size: 249, 218
+  orig: 249, 218
+  offset: 0, 0
+  index: -1
+word_fs
+  rotate: true
+  xy: 1620, 101
+  size: 158, 112
+  orig: 158, 112
+  offset: 0, 0
+  index: -1
+word_scatter
+  rotate: true
+  xy: 1751, 258
+  size: 220, 70
+  orig: 220, 70
+  offset: 0, 0
+  index: -1
+word_wild
+  rotate: false
+  xy: 998, 15
+  size: 144, 68
+  orig: 144, 68
+  offset: 0, 0
+  index: -1

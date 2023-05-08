@@ -1,0 +1,28 @@
+<font>
+	<info face="SmallFont" size="199" />
+	<common lineHeight="199" scaleW="354" scaleH="422" pages="1" />
+	<pages>
+		<page id="0" file="smallFont.png" />
+	</pages>
+	<chars count="17">
+		<char id="48" x="215" y="0" width="69" height="141" xoffset="0" yoffset="58" xadvance="76" /><!-- 0 -->
+		<char id="49" x="76" y="0" width="51" height="137" xoffset="0" yoffset="60" xadvance="58" /><!-- 1 -->
+		<char id="50" x="215" y="282" width="68" height="139" xoffset="0" yoffset="58" xadvance="75" /><!-- 2 -->
+		<char id="51" x="285" y="0" width="68" height="141" xoffset="0" yoffset="58" xadvance="75" /><!-- 3 -->
+		<char id="52" x="0" y="0" width="75" height="137" xoffset="0" yoffset="60" xadvance="82" /><!-- 4 -->
+		<char id="53" x="215" y="142" width="68" height="139" xoffset="0" yoffset="60" xadvance="75" /><!-- 5 -->
+		<char id="54" x="73" y="280" width="70" height="141" xoffset="0" yoffset="58" xadvance="77" /><!-- 6 -->
+		<char id="55" x="145" y="140" width="69" height="137" xoffset="0" yoffset="60" xadvance="76" /><!-- 7 -->
+		<char id="56" x="73" y="138" width="71" height="141" xoffset="0" yoffset="58" xadvance="78" /><!-- 8 -->
+		<char id="57" x="144" y="280" width="70" height="141" xoffset="0" yoffset="58" xadvance="77" /><!-- 9 -->
+		<char id="46" x="284" y="296" width="31" height="37" xoffset="0" yoffset="160" xadvance="38" /><!-- . -->
+		<char id="36" x="284" y="142" width="68" height="153" xoffset="0" yoffset="53" xadvance="75" /><!-- $ -->
+		<char id="33" x="0" y="269" width="72" height="141" xoffset="0" yoffset="58" xadvance="79" /><!-- ! -->
+		<char id="37" x="145" y="0" width="69" height="139" xoffset="0" yoffset="58" xadvance="76" /><!-- % -->
+		<char id="94" x="0" y="138" width="72" height="130" xoffset="0" yoffset="63" xadvance="79" /><!-- ^ -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="46" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="368" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

@@ -1,0 +1,11 @@
+skeleton.png
+size:485,247
+filter:Linear,Linear
+multi/flare-3
+bounds:2,2,243,247
+offsets:14,19,280,280
+rotate:90
+multi/sparks
+bounds:251,10,235,232
+offsets:21,22,280,280
+rotate:90

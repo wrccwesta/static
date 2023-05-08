@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 383,1363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame-win
+  rotate: true
+  xy: 2, 868
+  size: 230, 306
+  orig: 230, 306
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 1100
+  size: 347, 261
+  orig: 359, 284
+  offset: 4, 6
+  index: -1
+girl-raze/bg
+  rotate: true
+  xy: 2, 412
+  size: 222, 298
+  orig: 222, 298
+  offset: 0, 0
+  index: -1
+girl-raze/body
+  rotate: true
+  xy: 2, 188
+  size: 222, 223
+  orig: 222, 223
+  offset: 0, 0
+  index: -1
+girl-raze/eyes
+  rotate: false
+  xy: 2, 14
+  size: 55, 15
+  orig: 55, 15
+  offset: 0, 0
+  index: -1
+girl-raze/frame [merge]
+  rotate: true
+  xy: 2, 636
+  size: 230, 306
+  orig: 230, 306
+  offset: 0, 0
+  index: -1
+girl-raze/hair-part
+  rotate: false
+  xy: 302, 382
+  size: 58, 187
+  orig: 76, 228
+  offset: 0, 0
+  index: -1
+girl-raze/head
+  rotate: true
+  xy: 2, 2
+  size: 184, 322
+  orig: 184, 322
+  offset: 0, 0
+  index: -1
+girl-raze/head-part1
+  rotate: false
+  xy: 316, 546
+  size: 37, 104
+  orig: 39, 106
+  offset: 1, 1
+  index: -1
+girl-raze/head-part2
+  rotate: false
+  xy: 355, 504
+  size: 22, 118
+  orig: 24, 121
+  offset: 1, 1
+  index: -1
+skull
+  rotate: false
+  xy: 227, 149
+  size: 154, 231
+  orig: 156, 233
+  offset: 1, 1
+  index: -1
+wild
+  rotate: true
+  xy: 322, 38
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1

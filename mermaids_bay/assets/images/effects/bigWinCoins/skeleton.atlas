@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 414,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 463
+  rotate: false
+  xy: 196, 37
+  size: 69, 157
+  orig: 69, 157
+  offset: 0, 0
+  index: -1
+Layer 463 copy 2
+  rotate: false
+  xy: 267, 37
+  size: 69, 157
+  orig: 69, 157
+  offset: 0, 0
+  index: -1
+fx_bubble_one
+  rotate: false
+  xy: 338, 121
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+scatter_pearl
+  rotate: false
+  xy: 2, 2
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1

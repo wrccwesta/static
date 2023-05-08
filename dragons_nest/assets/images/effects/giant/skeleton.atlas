@@ -1,0 +1,271 @@
+
+skeleton.png
+size: 1204,1204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1526,1526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sequence 3/giant_00000
+  rotate: false
+  xy: 2, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00001
+  rotate: false
+  xy: 2, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00002
+  rotate: false
+  xy: 764, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00003
+  rotate: false
+  xy: 764, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+
+skeleton3.png
+size: 1526,1526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sequence 3/giant_00004
+  rotate: false
+  xy: 2, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00005
+  rotate: false
+  xy: 2, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00006
+  rotate: false
+  xy: 764, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00007
+  rotate: false
+  xy: 764, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+
+skeleton4.png
+size: 1526,1526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sequence 3/giant_00008
+  rotate: false
+  xy: 2, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00009
+  rotate: false
+  xy: 2, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00010
+  rotate: false
+  xy: 764, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00011
+  rotate: false
+  xy: 764, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+
+skeleton5.png
+size: 1526,1526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sequence 3/giant_00012
+  rotate: false
+  xy: 2, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00013
+  rotate: false
+  xy: 2, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00014
+  rotate: false
+  xy: 764, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00015
+  rotate: false
+  xy: 764, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+
+skeleton6.png
+size: 1526,1526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sequence 3/giant_00016
+  rotate: false
+  xy: 2, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00017
+  rotate: false
+  xy: 2, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00018
+  rotate: false
+  xy: 764, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00019
+  rotate: false
+  xy: 764, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+
+skeleton7.png
+size: 1526,1526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sequence 3/giant_00020
+  rotate: false
+  xy: 2, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00021
+  rotate: false
+  xy: 2, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00022
+  rotate: false
+  xy: 764, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00023
+  rotate: false
+  xy: 764, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+
+skeleton8.png
+size: 1526,1526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sequence 3/giant_00024
+  rotate: false
+  xy: 2, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00025
+  rotate: false
+  xy: 2, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00026
+  rotate: false
+  xy: 764, 764
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00027
+  rotate: false
+  xy: 764, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+
+skeleton9.png
+size: 1526,764
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sequence 3/giant_00028
+  rotate: false
+  xy: 2, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1
+sequence 3/giant_00029
+  rotate: false
+  xy: 764, 2
+  size: 760, 760
+  orig: 1000, 1000
+  offset: 120, 120
+  index: -1

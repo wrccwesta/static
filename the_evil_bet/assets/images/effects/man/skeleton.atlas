@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 1516,1563
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blood-1
+  rotate: false
+  xy: 792, 266
+  size: 360, 341
+  orig: 360, 360
+  offset: 0, 18
+  index: -1
+blood-2
+  rotate: false
+  xy: 1154, 145
+  size: 360, 334
+  orig: 360, 334
+  offset: 0, 0
+  index: -1
+frame-x1
+  rotate: false
+  xy: 286, 275
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+frame-x2
+  rotate: false
+  xy: 923, 609
+  size: 274, 605
+  orig: 420, 1000
+  offset: 74, 42
+  index: -1
+frame-x3
+  rotate: false
+  xy: 647, 645
+  size: 274, 916
+  orig: 420, 1000
+  offset: 74, 42
+  index: -1
+man-1/gun
+  rotate: false
+  xy: 648, 434
+  size: 142, 209
+  orig: 142, 209
+  offset: 0, 0
+  index: -1
+man-1/head
+  rotate: false
+  xy: 811, 92
+  size: 127, 172
+  orig: 128, 172
+  offset: 1, 0
+  index: -1
+man-1/head-win
+  rotate: false
+  xy: 648, 299
+  size: 98, 133
+  orig: 128, 172
+  offset: 28, 14
+  index: -1
+man-1/saw
+  rotate: false
+  xy: 923, 1216
+  size: 551, 345
+  orig: 551, 345
+  offset: 0, 0
+  index: -1
+man/bg
+  rotate: false
+  xy: 363, 637
+  size: 282, 924
+  orig: 420, 1000
+  offset: 70, 38
+  index: -1
+man/bg-x1
+  rotate: false
+  xy: 1199, 912
+  size: 282, 302
+  orig: 420, 1000
+  offset: 70, 38
+  index: -1
+man/bg-x2
+  rotate: false
+  xy: 2, 56
+  size: 282, 613
+  orig: 420, 1000
+  offset: 70, 38
+  index: -1
+man/body
+  rotate: false
+  xy: 2, 671
+  size: 359, 890
+  orig: 420, 1000
+  offset: 49, 0
+  index: -1
+man/left-hand
+  rotate: false
+  xy: 1199, 536
+  size: 126, 374
+  orig: 420, 1000
+  offset: 1, 379
+  index: -1
+man/right-hand
+  rotate: false
+  xy: 1327, 481
+  size: 126, 429
+  orig: 420, 1000
+  offset: 294, 370
+  index: -1
+shot
+  rotate: false
+  xy: 286, 41
+  size: 373, 232
+  orig: 376, 234
+  offset: 1, 1
+  index: -1
+smoke
+  rotate: false
+  xy: 661, 2
+  size: 148, 141
+  orig: 150, 147
+  offset: 2, 1
+  index: -1
+word-wild
+  rotate: false
+  xy: 940, 157
+  size: 169, 107
+  orig: 169, 107
+  offset: 0, 0
+  index: -1

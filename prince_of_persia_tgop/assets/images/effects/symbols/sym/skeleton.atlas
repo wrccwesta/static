@@ -1,0 +1,440 @@
+
+skeleton.png
+size: 2655,893
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border
+  rotate: false
+  xy: 2018, 641
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+fx-glow
+  rotate: false
+  xy: 2, 545
+  size: 387, 346
+  orig: 402, 371
+  offset: 5, 6
+  index: -1
+fx-mist
+  rotate: true
+  xy: 391, 493
+  size: 398, 295
+  orig: 414, 314
+  offset: 5, 7
+  index: -1
+g1/gem
+  rotate: false
+  xy: 438, 281
+  size: 212, 210
+  orig: 219, 218
+  offset: 4, 4
+  index: -1
+g1/gem-light
+  rotate: false
+  xy: 1447, 194
+  size: 194, 194
+  orig: 198, 196
+  offset: 3, 1
+  index: -1
+g2/gem
+  rotate: false
+  xy: 2152, 202
+  size: 196, 195
+  orig: 200, 200
+  offset: 2, 3
+  index: -1
+g2/gem-light
+  rotate: false
+  xy: 390, 107
+  size: 172, 172
+  orig: 174, 174
+  offset: 1, 1
+  index: -1
+g3/gem
+  rotate: false
+  xy: 652, 201
+  size: 205, 182
+  orig: 213, 189
+  offset: 4, 3
+  index: -1
+g3/gem-light
+  rotate: true
+  xy: 2490, 412
+  size: 188, 163
+  orig: 190, 165
+  offset: 1, 1
+  index: -1
+genie/body
+  rotate: 180
+  xy: 1455, 32
+  size: 197, 160
+  orig: 197, 160
+  offset: 0, 0
+  index: -1
+genie/eyes
+  rotate: false
+  xy: 1128, 22
+  size: 102, 62
+  orig: 108, 66
+  offset: 3, 2
+  index: -1
+genie/genie-border
+  rotate: true
+  xy: 688, 603
+  size: 288, 278
+  orig: 290, 280
+  offset: 0, 1
+  index: -1
+genie/genie-border-eff
+  rotate: true
+  xy: 1246, 593
+  size: 298, 250
+  orig: 298, 252
+  offset: 0, 0
+  index: -1
+genie/genie-hair
+  rotate: false
+  xy: 2018, 68
+  size: 98, 131
+  orig: 105, 136
+  offset: 3, 3
+  index: -1
+genie/genie-head
+  rotate: true
+  xy: 1854, 67
+  size: 132, 162
+  orig: 132, 162
+  offset: 0, 0
+  index: -1
+gf1/border-gem
+  rotate: false
+  xy: 1231, 377
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+gf2/gem-border
+  rotate: false
+  xy: 1231, 377
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+wild/wild-border
+  rotate: false
+  xy: 1231, 377
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+gf1/gem
+  rotate: false
+  xy: 1743, 211
+  size: 203, 203
+  orig: 207, 207
+  offset: 2, 2
+  index: -1
+gf1/gem-light
+  rotate: false
+  xy: 2, 153
+  size: 179, 179
+  orig: 181, 181
+  offset: 1, 1
+  index: -1
+gf2/gem
+  rotate: true
+  xy: 2350, 201
+  size: 196, 195
+  orig: 200, 200
+  offset: 2, 3
+  index: -1
+gf2/gem-light
+  rotate: false
+  xy: 859, 53
+  size: 172, 172
+  orig: 174, 174
+  offset: 1, 1
+  index: -1
+gf3/gem
+  rotate: false
+  xy: 688, 385
+  size: 218, 216
+  orig: 226, 224
+  offset: 4, 4
+  index: -1
+gf3/gem-border
+  rotate: false
+  xy: 1498, 632
+  size: 258, 259
+  orig: 258, 259
+  offset: 0, 0
+  index: -1
+gf3/gem-light
+  rotate: false
+  xy: 1948, 201
+  size: 202, 200
+  orig: 204, 202
+  offset: 1, 1
+  index: -1
+goldwild/beeds
+  rotate: false
+  xy: 146, 39
+  size: 284, 66
+  orig: 298, 148
+  offset: 6, 1
+  index: -1
+goldwild/bg
+  rotate: true
+  xy: 968, 613
+  size: 278, 276
+  orig: 280, 278
+  offset: 1, 1
+  index: -1
+goldwild/chain-bottom
+  rotate: false
+  xy: 2322, 82
+  size: 286, 73
+  orig: 298, 88
+  offset: 7, 0
+  index: -1
+goldwild/chains-top
+  rotate: true
+  xy: 2491, 602
+  size: 289, 120
+  orig: 294, 173
+  offset: 4, 52
+  index: -1
+goldwild/gw-body
+  rotate: false
+  xy: 2268, 399
+  size: 220, 221
+  orig: 226, 226
+  offset: 3, 3
+  index: -1
+goldwild/word
+  rotate: false
+  xy: 1118, 224
+  size: 239, 151
+  orig: 241, 153
+  offset: 1, 2
+  index: -1
+prince/bg
+  rotate: true
+  xy: 2, 334
+  size: 209, 216
+  orig: 211, 218
+  offset: 1, 1
+  index: -1
+prince/body
+  rotate: false
+  xy: 1033, 86
+  size: 214, 136
+  orig: 215, 136
+  offset: 1, 0
+  index: -1
+prince/hair-front
+  rotate: false
+  xy: 2613, 691
+  size: 33, 93
+  orig: 35, 95
+  offset: 1, 1
+  index: -1
+prince/hair-top
+  rotate: false
+  xy: 2613, 786
+  size: 30, 105
+  orig: 30, 106
+  offset: 0, 1
+  index: -1
+prince/head-back
+  rotate: false
+  xy: 1643, 242
+  size: 85, 146
+  orig: 88, 148
+  offset: 2, 1
+  index: -1
+prince/p-eyes
+  rotate: false
+  xy: 908, 555
+  size: 54, 18
+  orig: 54, 20
+  offset: 0, 1
+  index: -1
+prince/p-face
+  rotate: true
+  xy: 1033, 2
+  size: 82, 93
+  orig: 83, 93
+  offset: 1, 0
+  index: -1
+prince/prince-head
+  rotate: true
+  xy: 2152, 68
+  size: 132, 168
+  orig: 137, 173
+  offset: 1, 5
+  index: -1
+princess/bg
+  rotate: false
+  xy: 1498, 390
+  size: 243, 240
+  orig: 243, 240
+  offset: 0, 0
+  index: -1
+princess/body
+  rotate: 180
+  xy: 1272, 63
+  size: 189, 196
+  orig: 189, 196
+  offset: 0, 0
+  index: -1
+princess/hair-body
+  rotate: true
+  xy: 668, 24
+  size: 79, 154
+  orig: 79, 154
+  offset: 0, 0
+  index: -1
+princess/head-access
+  rotate: true
+  xy: 1447, 575
+  size: 16, 27
+  orig: 18, 30
+  offset: 1, 2
+  index: -1
+princess/pr-eyes
+  rotate: false
+  xy: 908, 575
+  size: 53, 26
+  orig: 55, 28
+  offset: 1, 1
+  index: -1
+princess/pr-face
+  rotate: false
+  xy: 564, 203
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+princess/princess-head
+  rotate: false
+  xy: 2, 17
+  size: 142, 134
+  orig: 142, 135
+  offset: 0, 1
+  index: -1
+scat/bg
+  rotate: false
+  xy: 1758, 632
+  size: 258, 259
+  orig: 258, 259
+  offset: 0, 0
+  index: -1
+scat/knife
+  rotate: false
+  xy: 2018, 403
+  size: 248, 236
+  orig: 258, 245
+  offset: 7, 6
+  index: -1
+scat/lamp
+  rotate: false
+  xy: 2547, 157
+  size: 97, 253
+  orig: 99, 255
+  offset: 1, 2
+  index: -1
+scat/mist
+  rotate: false
+  xy: 1743, 416
+  size: 271, 214
+  orig: 273, 221
+  offset: 2, 2
+  index: -1
+scat/word
+  rotate: false
+  xy: 432, 40
+  size: 234, 63
+  orig: 236, 65
+  offset: 1, 2
+  index: -1
+sultan/bg
+  rotate: true
+  xy: 220, 282
+  size: 209, 216
+  orig: 211, 218
+  offset: 1, 1
+  index: -1
+sultan/body
+  rotate: false
+  xy: 1643, 84
+  size: 209, 125
+  orig: 211, 128
+  offset: 1, 1
+  index: -1
+sultan/hair-access1
+  rotate: false
+  xy: 2613, 618
+  size: 24, 35
+  orig: 26, 35
+  offset: 1, 0
+  index: -1
+sultan/hair-access2
+  rotate: false
+  xy: 2613, 655
+  size: 25, 34
+  orig: 36, 34
+  offset: 2, 0
+  index: -1
+sultan/s-eyes
+  rotate: false
+  xy: 220, 529
+  size: 59, 14
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+sultan/s-face
+  rotate: false
+  xy: 1359, 272
+  size: 81, 103
+  orig: 81, 103
+  offset: 0, 0
+  index: -1
+sultan/sultan-head
+  rotate: true
+  xy: 183, 132
+  size: 148, 205
+  orig: 148, 205
+  offset: 0, 0
+  index: -1
+wild/bg
+  rotate: false
+  xy: 908, 227
+  size: 208, 199
+  orig: 210, 201
+  offset: 1, 1
+  index: -1
+wild/mist
+  rotate: true
+  xy: 2270, 622
+  size: 269, 219
+  orig: 279, 224
+  offset: 2, 3
+  index: -1
+wild/word
+  rotate: false
+  xy: 564, 105
+  size: 243, 94
+  orig: 246, 96
+  offset: 2, 2
+  index: -1
+word-fs
+  rotate: false
+  xy: 968, 428
+  size: 261, 183
+  orig: 264, 185
+  offset: 2, 2
+  index: -1

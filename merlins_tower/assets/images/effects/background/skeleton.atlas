@@ -1,0 +1,33 @@
+
+skeleton.png
+size: 1924,1084
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_frost_big
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 2028,868
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_frost
+  rotate: true
+  xy: 1368, 15
+  size: 851, 658
+  orig: 851, 658
+  offset: 0, 0
+  index: -1
+grid_bg
+  rotate: false
+  xy: 2, 2
+  size: 1364, 864
+  orig: 1364, 864
+  offset: 0, 0
+  index: -1

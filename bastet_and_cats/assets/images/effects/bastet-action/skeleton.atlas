@@ -1,0 +1,1240 @@
+
+skeleton.png
+size: 1910,1833
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx-magic
+  rotate: false
+  xy: 1405, 130
+  size: 261, 231
+  orig: 275, 245
+  offset: 8, 2
+  index: -1
+girl-shadow
+  rotate: false
+  xy: 2, 620
+  size: 197, 45
+  orig: 203, 51
+  offset: 3, 3
+  index: -1
+girl/cast/b36
+  rotate: true
+  xy: 2, 667
+  size: 430, 622
+  orig: 569, 700
+  offset: 101, 44
+  index: -1
+girl/cast/b37
+  rotate: false
+  xy: 1144, 1212
+  size: 439, 619
+  orig: 569, 700
+  offset: 98, 44
+  index: -1
+girl/cast/b38
+  rotate: true
+  xy: 1144, 770
+  size: 440, 613
+  orig: 569, 700
+  offset: 97, 44
+  index: -1
+girl/win-jump/b17
+  rotate: true
+  xy: 668, 2
+  size: 359, 735
+  orig: 559, 900
+  offset: 90, 137
+  index: -1
+girl/win-jump/b18
+  rotate: false
+  xy: 384, 1099
+  size: 373, 732
+  orig: 559, 900
+  offset: 84, 141
+  index: -1
+girl/win-jump/b19
+  rotate: false
+  xy: 2, 1100
+  size: 380, 731
+  orig: 559, 900
+  offset: 79, 137
+  index: -1
+girl/win-jump/b20
+  rotate: false
+  xy: 759, 1121
+  size: 383, 710
+  orig: 559, 900
+  offset: 74, 141
+  index: -1
+girl/win-jump/b22
+  rotate: true
+  xy: 2, 95
+  size: 399, 664
+  orig: 559, 900
+  offset: 70, 113
+  index: -1
+girl/win-jump/b23
+  rotate: true
+  xy: 1072, 363
+  size: 405, 657
+  orig: 559, 900
+  offset: 70, 64
+  index: -1
+girl/win-jump/b35
+  rotate: false
+  xy: 626, 496
+  size: 444, 601
+  orig: 559, 900
+  offset: 41, 34
+  index: -1
+girl/win-jump/b40
+  rotate: false
+  xy: 1585, 1222
+  size: 323, 609
+  orig: 559, 900
+  offset: 56, 34
+  index: -1
+riskbuy/coin
+  rotate: false
+  xy: 1759, 1151
+  size: 70, 69
+  orig: 78, 77
+  offset: 4, 4
+  index: -1
+rock-blue
+  rotate: false
+  xy: 1831, 1161
+  size: 57, 59
+  orig: 65, 67
+  offset: 4, 4
+  index: -1
+
+skeleton2.png
+size: 1707,1814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b13
+  rotate: false
+  xy: 860, 185
+  size: 418, 623
+  orig: 569, 700
+  offset: 14, 34
+  index: -1
+girl/cast/b31
+  rotate: false
+  xy: 426, 18
+  size: 432, 606
+  orig: 569, 700
+  offset: 70, 44
+  index: -1
+girl/cast/b32
+  rotate: false
+  xy: 458, 1202
+  size: 428, 610
+  orig: 569, 700
+  offset: 81, 44
+  index: -1
+girl/cast/b33
+  rotate: false
+  xy: 1280, 163
+  size: 422, 615
+  orig: 569, 700
+  offset: 91, 44
+  index: -1
+girl/cast/b34
+  rotate: true
+  xy: 888, 1393
+  size: 419, 620
+  orig: 569, 700
+  offset: 98, 44
+  index: -1
+girl/cast/b35
+  rotate: false
+  xy: 2, 2
+  size: 422, 622
+  orig: 569, 700
+  offset: 102, 44
+  index: -1
+girl/cast/b39
+  rotate: false
+  xy: 2, 1208
+  size: 436, 604
+  orig: 569, 700
+  offset: 99, 44
+  index: -1
+girl/win-jump/b21
+  rotate: true
+  xy: 458, 810
+  size: 390, 668
+  orig: 559, 900
+  offset: 71, 152
+  index: -1
+girl/win-jump/b34
+  rotate: false
+  xy: 2, 626
+  size: 454, 580
+  orig: 559, 900
+  offset: 35, 34
+  index: -1
+girl/win-jump/b36
+  rotate: false
+  xy: 1280, 780
+  size: 425, 611
+  orig: 559, 900
+  offset: 45, 34
+  index: -1
+
+skeleton3.png
+size: 1757,1816
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b12
+  rotate: false
+  xy: 2, 2
+  size: 410, 627
+  orig: 569, 700
+  offset: 19, 33
+  index: -1
+girl/cast/b14
+  rotate: false
+  xy: 449, 1191
+  size: 411, 623
+  orig: 569, 700
+  offset: 21, 33
+  index: -1
+girl/cast/b30
+  rotate: false
+  xy: 2, 1213
+  size: 431, 601
+  orig: 569, 700
+  offset: 59, 44
+  index: -1
+girl/dance/b11
+  rotate: false
+  xy: 1274, 1230
+  size: 434, 584
+  orig: 569, 700
+  offset: 76, 39
+  index: -1
+girl/dance/b12
+  rotate: false
+  xy: 414, 49
+  size: 442, 580
+  orig: 569, 700
+  offset: 67, 39
+  index: -1
+girl/dance/b19
+  rotate: false
+  xy: 1321, 645
+  size: 434, 583
+  orig: 569, 700
+  offset: 74, 39
+  index: -1
+girl/dance/b20
+  rotate: false
+  xy: 2, 631
+  size: 445, 580
+  orig: 569, 700
+  offset: 64, 39
+  index: -1
+girl/dance/b21
+  rotate: false
+  xy: 1321, 59
+  size: 433, 584
+  orig: 569, 700
+  offset: 74, 39
+  index: -1
+girl/dance/b42
+  rotate: true
+  xy: 449, 760
+  size: 429, 595
+  orig: 569, 700
+  offset: 15, 30
+  index: -1
+girl/win-jump/b24
+  rotate: false
+  xy: 862, 1195
+  size: 410, 619
+  orig: 559, 900
+  offset: 72, 33
+  index: -1
+girl/win-jump/b33
+  rotate: false
+  xy: 858, 206
+  size: 461, 552
+  orig: 559, 900
+  offset: 29, 34
+  index: -1
+
+skeleton4.png
+size: 1901,1786
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b10
+  rotate: false
+  xy: 1264, 137
+  size: 387, 635
+  orig: 569, 700
+  offset: 31, 33
+  index: -1
+girl/cast/b11
+  rotate: false
+  xy: 435, 1154
+  size: 398, 630
+  orig: 569, 700
+  offset: 26, 34
+  index: -1
+girl/cast/b15
+  rotate: true
+  xy: 435, 756
+  size: 396, 623
+  orig: 569, 700
+  offset: 37, 33
+  index: -1
+girl/cast/b29
+  rotate: false
+  xy: 427, 2
+  size: 420, 598
+  orig: 569, 700
+  offset: 48, 43
+  index: -1
+girl/cast/b40
+  rotate: false
+  xy: 2, 1188
+  size: 424, 596
+  orig: 569, 700
+  offset: 106, 44
+  index: -1
+girl/dance/b13
+  rotate: false
+  xy: 2, 602
+  size: 431, 584
+  orig: 569, 700
+  offset: 77, 39
+  index: -1
+girl/dance/b33
+  rotate: false
+  xy: 1653, 148
+  size: 246, 624
+  orig: 569, 700
+  offset: 167, 46
+  index: -1
+girl/dance/b34
+  rotate: false
+  xy: 1660, 1168
+  size: 236, 616
+  orig: 569, 700
+  offset: 179, 48
+  index: -1
+girl/dance/b41
+  rotate: true
+  xy: 1060, 774
+  size: 411, 598
+  orig: 569, 700
+  offset: 22, 30
+  index: -1
+girl/dance/b43
+  rotate: false
+  xy: 835, 1187
+  size: 413, 597
+  orig: 569, 700
+  offset: 21, 31
+  index: -1
+girl/dance/b49
+  rotate: false
+  xy: 1250, 1187
+  size: 408, 597
+  orig: 569, 700
+  offset: 21, 31
+  index: -1
+girl/dance/b50
+  rotate: false
+  xy: 2, 6
+  size: 423, 594
+  orig: 569, 700
+  offset: 15, 31
+  index: -1
+girl/win-jump/b25
+  rotate: false
+  xy: 849, 158
+  size: 413, 596
+  orig: 559, 900
+  offset: 88, 35
+  index: -1
+
+skeleton5.png
+size: 1867,1835
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b23
+  rotate: true
+  xy: 1221, 232
+  size: 387, 619
+  orig: 569, 700
+  offset: 45, 34
+  index: -1
+girl/cast/b24
+  rotate: false
+  xy: 1263, 1220
+  size: 395, 613
+  orig: 569, 700
+  offset: 37, 33
+  index: -1
+girl/cast/b25
+  rotate: true
+  xy: 853, 819
+  size: 399, 606
+  orig: 569, 700
+  offset: 33, 33
+  index: -1
+girl/cast/b26
+  rotate: true
+  xy: 2, 793
+  size: 400, 603
+  orig: 569, 700
+  offset: 31, 33
+  index: -1
+girl/cast/b41
+  rotate: true
+  xy: 2, 384
+  size: 407, 589
+  orig: 569, 700
+  offset: 117, 44
+  index: -1
+girl/cast/b8
+  rotate: true
+  xy: 2, 8
+  size: 374, 640
+  orig: 569, 700
+  offset: 31, 34
+  index: -1
+girl/cast/b9
+  rotate: false
+  xy: 471, 1195
+  size: 380, 638
+  orig: 569, 700
+  offset: 32, 34
+  index: -1
+girl/dance/b10
+  rotate: false
+  xy: 853, 1239
+  size: 408, 594
+  orig: 569, 700
+  offset: 100, 39
+  index: -1
+girl/dance/b51
+  rotate: false
+  xy: 1461, 621
+  size: 404, 597
+  orig: 569, 700
+  offset: 22, 31
+  index: -1
+girl/win-jump/b26
+  rotate: true
+  xy: 644, 2
+  size: 420, 556
+  orig: 559, 900
+  offset: 91, 36
+  index: -1
+girl/win-jump/b32
+  rotate: false
+  xy: 2, 1313
+  size: 467, 520
+  orig: 559, 900
+  offset: 23, 34
+  index: -1
+girl/win-jump/b37
+  rotate: true
+  xy: 607, 424
+  size: 393, 612
+  orig: 559, 900
+  offset: 46, 34
+  index: -1
+
+skeleton6.png
+size: 1918,1794
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b16
+  rotate: false
+  xy: 1184, 1169
+  size: 373, 623
+  orig: 569, 700
+  offset: 59, 33
+  index: -1
+girl/cast/b17
+  rotate: false
+  xy: 1559, 1169
+  size: 357, 623
+  orig: 569, 700
+  offset: 75, 33
+  index: -1
+girl/cast/b22
+  rotate: false
+  xy: 806, 574
+  size: 376, 623
+  orig: 569, 700
+  offset: 56, 33
+  index: -1
+girl/cast/b27
+  rotate: false
+  xy: 2, 1191
+  size: 398, 601
+  orig: 569, 700
+  offset: 33, 35
+  index: -1
+girl/cast/b28
+  rotate: false
+  xy: 407, 463
+  size: 397, 598
+  orig: 569, 700
+  offset: 39, 40
+  index: -1
+girl/cast/b7
+  rotate: true
+  xy: 405, 91
+  size: 370, 640
+  orig: 569, 700
+  offset: 28, 34
+  index: -1
+girl/dance/b14
+  rotate: false
+  xy: 2, 2
+  size: 401, 593
+  orig: 569, 700
+  offset: 102, 38
+  index: -1
+girl/dance/b18
+  rotate: false
+  xy: 2, 597
+  size: 403, 592
+  orig: 569, 700
+  offset: 100, 38
+  index: -1
+girl/dance/b22
+  rotate: false
+  xy: 735, 1199
+  size: 398, 593
+  orig: 569, 700
+  offset: 100, 38
+  index: -1
+girl/dance/b5
+  rotate: true
+  xy: 1184, 807
+  size: 360, 641
+  orig: 569, 700
+  offset: 108, 40
+  index: -1
+girl/dance/b6
+  rotate: false
+  xy: 1522, 170
+  size: 363, 635
+  orig: 569, 700
+  offset: 122, 42
+  index: -1
+girl/win-jump/b16
+  rotate: false
+  xy: 407, 1063
+  size: 326, 729
+  orig: 559, 900
+  offset: 107, 140
+  index: -1
+girl/win-jump/b31
+  rotate: false
+  xy: 1047, 81
+  size: 473, 491
+  orig: 559, 900
+  offset: 19, 34
+  index: -1
+
+skeleton7.png
+size: 1735,1750
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b21
+  rotate: true
+  xy: 955, 491
+  size: 365, 623
+  orig: 569, 700
+  offset: 67, 33
+  index: -1
+girl/cast/b42
+  rotate: true
+  xy: 366, 754
+  size: 388, 587
+  orig: 569, 700
+  offset: 132, 44
+  index: -1
+girl/cast/b6
+  rotate: false
+  xy: 2, 1112
+  size: 362, 636
+  orig: 569, 700
+  offset: 28, 34
+  index: -1
+girl/dance/b40
+  rotate: true
+  xy: 2, 376
+  size: 376, 604
+  orig: 569, 700
+  offset: 41, 30
+  index: -1
+girl/dance/b44
+  rotate: false
+  xy: 366, 1144
+  size: 380, 604
+  orig: 569, 700
+  offset: 39, 30
+  index: -1
+girl/dance/b48
+  rotate: false
+  xy: 748, 1144
+  size: 380, 604
+  orig: 569, 700
+  offset: 39, 30
+  index: -1
+girl/dance/b52
+  rotate: true
+  xy: 1130, 858
+  size: 379, 603
+  orig: 569, 700
+  offset: 40, 31
+  index: -1
+girl/dance/b9
+  rotate: true
+  xy: 608, 119
+  size: 370, 605
+  orig: 569, 700
+  offset: 129, 40
+  index: -1
+girl/win-jump/b13
+  rotate: true
+  xy: 2, 2
+  size: 372, 599
+  orig: 559, 900
+  offset: 62, 215
+  index: -1
+girl/win-jump/b27
+  rotate: false
+  xy: 1130, 1239
+  size: 450, 509
+  orig: 559, 900
+  offset: 60, 37
+  index: -1
+girl/win-jump/b28
+  rotate: true
+  xy: 1215, 18
+  size: 471, 475
+  orig: 559, 900
+  offset: 34, 34
+  index: -1
+
+skeleton8.png
+size: 1861,1835
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b18
+  rotate: true
+  xy: 1230, 645
+  size: 350, 623
+  orig: 569, 700
+  offset: 82, 33
+  index: -1
+girl/cast/b19
+  rotate: true
+  xy: 962, 1364
+  size: 352, 623
+  orig: 569, 700
+  offset: 80, 33
+  index: -1
+girl/cast/b20
+  rotate: true
+  xy: 2, 1005
+  size: 357, 623
+  orig: 569, 700
+  offset: 75, 33
+  index: -1
+girl/cast/b43
+  rotate: true
+  xy: 2, 265
+  size: 369, 588
+  orig: 569, 700
+  offset: 148, 44
+  index: -1
+girl/cast/b47
+  rotate: true
+  xy: 1230, 2
+  size: 280, 595
+  orig: 569, 700
+  offset: 198, 44
+  index: -1
+girl/cast/b5
+  rotate: true
+  xy: 627, 1013
+  size: 349, 630
+  orig: 569, 700
+  offset: 35, 34
+  index: -1
+girl/cast/b58
+  rotate: true
+  xy: 1227, 284
+  size: 359, 604
+  orig: 569, 700
+  offset: 70, 34
+  index: -1
+girl/dance/b15
+  rotate: true
+  xy: 627, 648
+  size: 363, 601
+  orig: 569, 700
+  offset: 130, 38
+  index: -1
+girl/dance/b17
+  rotate: true
+  xy: 1259, 997
+  size: 365, 600
+  orig: 569, 700
+  offset: 129, 38
+  index: -1
+girl/dance/b32
+  rotate: true
+  xy: 592, 2
+  size: 280, 636
+  orig: 569, 700
+  offset: 128, 38
+  index: -1
+girl/dance/b7
+  rotate: true
+  xy: 598, 299
+  size: 347, 627
+  orig: 569, 700
+  offset: 138, 42
+  index: -1
+girl/win-jump/b10
+  rotate: true
+  xy: 2, 636
+  size: 367, 594
+  orig: 559, 900
+  offset: 38, 105
+  index: -1
+girl/win-jump/b29
+  rotate: false
+  xy: 481, 1364
+  size: 479, 461
+  orig: 559, 900
+  offset: 21, 34
+  index: -1
+girl/win-jump/b30
+  rotate: false
+  xy: 2, 1364
+  size: 477, 469
+  orig: 559, 900
+  offset: 18, 34
+  index: -1
+
+skeleton9.png
+size: 1863,1702
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b57
+  rotate: true
+  xy: 960, 708
+  size: 356, 601
+  orig: 569, 700
+  offset: 89, 34
+  index: -1
+girl/dance/b23
+  rotate: true
+  xy: 358, 732
+  size: 358, 600
+  orig: 569, 700
+  offset: 128, 38
+  index: -1
+girl/dance/b37
+  rotate: true
+  xy: 620, 2
+  size: 342, 614
+  orig: 569, 700
+  offset: 78, 32
+  index: -1
+girl/dance/b39
+  rotate: true
+  xy: 1244, 356
+  size: 350, 609
+  orig: 569, 700
+  offset: 65, 29
+  index: -1
+girl/dance/b4
+  rotate: true
+  xy: 2, 399
+  size: 331, 645
+  orig: 569, 700
+  offset: 93, 38
+  index: -1
+girl/dance/b45
+  rotate: false
+  xy: 358, 1092
+  size: 355, 608
+  orig: 569, 700
+  offset: 62, 30
+  index: -1
+girl/dance/b47
+  rotate: false
+  xy: 715, 1092
+  size: 355, 608
+  orig: 569, 700
+  offset: 62, 30
+  index: -1
+girl/dance/b53
+  rotate: false
+  xy: 1414, 1093
+  size: 355, 607
+  orig: 569, 700
+  offset: 62, 31
+  index: -1
+girl/dance/b55
+  rotate: true
+  xy: 2, 52
+  size: 345, 616
+  orig: 569, 700
+  offset: 74, 31
+  index: -1
+girl/dance/b56
+  rotate: false
+  xy: 1072, 1066
+  size: 340, 634
+  orig: 569, 700
+  offset: 80, 31
+  index: -1
+girl/dance/b8
+  rotate: true
+  xy: 1244, 11
+  size: 343, 617
+  orig: 569, 700
+  offset: 145, 41
+  index: -1
+girl/win-jump/b11
+  rotate: true
+  xy: 649, 346
+  size: 360, 593
+  orig: 559, 900
+  offset: 54, 156
+  index: -1
+girl/win-jump/b38
+  rotate: false
+  xy: 2, 1088
+  size: 354, 612
+  orig: 559, 900
+  offset: 47, 34
+  index: -1
+
+skeleton10.png
+size: 1817,1739
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b4
+  rotate: false
+  xy: 694, 1114
+  size: 334, 623
+  orig: 569, 700
+  offset: 44, 34
+  index: -1
+girl/cast/b44
+  rotate: true
+  xy: 1226, 10
+  size: 346, 589
+  orig: 569, 700
+  offset: 166, 44
+  index: -1
+girl/dance/b16
+  rotate: false
+  xy: 347, 1133
+  size: 345, 604
+  orig: 569, 700
+  offset: 143, 38
+  index: -1
+girl/dance/b24
+  rotate: true
+  xy: 573, 363
+  size: 340, 603
+  orig: 569, 700
+  offset: 142, 38
+  index: -1
+girl/dance/b25
+  rotate: true
+  xy: 1178, 358
+  size: 345, 594
+  orig: 569, 700
+  offset: 140, 39
+  index: -1
+girl/dance/b26
+  rotate: true
+  xy: 648, 2
+  size: 354, 576
+  orig: 569, 700
+  offset: 131, 40
+  index: -1
+girl/dance/b38
+  rotate: false
+  xy: 1030, 1125
+  size: 340, 612
+  orig: 569, 700
+  offset: 75, 30
+  index: -1
+girl/dance/b46
+  rotate: false
+  xy: 2, 1128
+  size: 343, 609
+  orig: 569, 700
+  offset: 73, 30
+  index: -1
+girl/dance/b54
+  rotate: true
+  xy: 2, 784
+  size: 342, 608
+  orig: 569, 700
+  offset: 74, 31
+  index: -1
+girl/dance/b59
+  rotate: true
+  xy: 2, 44
+  size: 317, 644
+  orig: 569, 700
+  offset: 66, 33
+  index: -1
+girl/win-jump/b12
+  rotate: true
+  xy: 2, 421
+  size: 361, 569
+  orig: 559, 900
+  offset: 78, 210
+  index: -1
+girl/win-jump/b15
+  rotate: false
+  xy: 1372, 1044
+  size: 300, 693
+  orig: 559, 900
+  offset: 110, 166
+  index: -1
+girl/win-jump/b39
+  rotate: true
+  xy: 1167, 705
+  size: 337, 611
+  orig: 559, 900
+  offset: 51, 34
+  index: -1
+girl/win-jump/b9
+  rotate: true
+  xy: 612, 738
+  size: 374, 553
+  orig: 559, 900
+  offset: 62, 60
+  index: -1
+
+skeleton11.png
+size: 1920,1660
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b2
+  rotate: true
+  xy: 976, 65
+  size: 318, 610
+  orig: 569, 700
+  offset: 64, 34
+  index: -1
+girl/cast/b3
+  rotate: false
+  xy: 1303, 1043
+  size: 319, 615
+  orig: 569, 700
+  offset: 55, 34
+  index: -1
+girl/cast/b59
+  rotate: true
+  xy: 2, 683
+  size: 323, 606
+  orig: 569, 700
+  offset: 66, 34
+  index: -1
+girl/dance/b27
+  rotate: false
+  xy: 639, 1101
+  size: 358, 557
+  orig: 569, 700
+  offset: 118, 42
+  index: -1
+girl/dance/b28
+  rotate: true
+  xy: 610, 643
+  size: 356, 549
+  orig: 569, 700
+  offset: 102, 43
+  index: -1
+girl/dance/b35
+  rotate: false
+  xy: 1624, 1043
+  size: 270, 615
+  orig: 569, 700
+  offset: 134, 41
+  index: -1
+girl/dance/b36
+  rotate: true
+  xy: 1303, 722
+  size: 319, 615
+  orig: 569, 700
+  offset: 98, 35
+  index: -1
+girl/dance/b57
+  rotate: false
+  xy: 325, 1008
+  size: 312, 650
+  orig: 569, 700
+  offset: 98, 32
+  index: -1
+girl/dance/b58
+  rotate: false
+  xy: 999, 1001
+  size: 302, 657
+  orig: 569, 700
+  offset: 94, 32
+  index: -1
+girl/dance/b60
+  rotate: true
+  xy: 2, 327
+  size: 314, 620
+  orig: 569, 700
+  offset: 65, 34
+  index: -1
+girl/win-jump/b14
+  rotate: false
+  xy: 2, 1026
+  size: 321, 632
+  orig: 559, 900
+  offset: 71, 209
+  index: -1
+girl/win-jump/b3
+  rotate: true
+  xy: 2, 2
+  size: 323, 599
+  orig: 559, 900
+  offset: 57, 36
+  index: -1
+girl/win-jump/b4
+  rotate: true
+  xy: 1161, 385
+  size: 335, 583
+  orig: 559, 900
+  offset: 58, 36
+  index: -1
+girl/win-jump/b5
+  rotate: false
+  xy: 624, 85
+  size: 350, 556
+  orig: 559, 900
+  offset: 63, 34
+  index: -1
+
+skeleton12.png
+size: 1903,1577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b1
+  rotate: false
+  xy: 980, 967
+  size: 317, 608
+  orig: 569, 700
+  offset: 68, 34
+  index: -1
+girl/cast/b45
+  rotate: true
+  xy: 2, 12
+  size: 324, 591
+  orig: 569, 700
+  offset: 182, 44
+  index: -1
+girl/cast/b49
+  rotate: false
+  xy: 1618, 989
+  size: 283, 586
+  orig: 569, 700
+  offset: 178, 44
+  index: -1
+girl/cast/b52
+  rotate: true
+  xy: 1185, 2
+  size: 327, 584
+  orig: 569, 700
+  offset: 147, 35
+  index: -1
+girl/cast/b53
+  rotate: true
+  xy: 595, 4
+  size: 325, 588
+  orig: 569, 700
+  offset: 149, 34
+  index: -1
+girl/cast/b56
+  rotate: false
+  xy: 655, 977
+  size: 323, 598
+  orig: 569, 700
+  offset: 124, 34
+  index: -1
+girl/cast/b60
+  rotate: true
+  xy: 919, 648
+  size: 317, 607
+  orig: 569, 700
+  offset: 67, 34
+  index: -1
+girl/cast/b61
+  rotate: false
+  xy: 1299, 967
+  size: 317, 608
+  orig: 569, 700
+  offset: 68, 34
+  index: -1
+girl/dance/b1
+  rotate: true
+  xy: 608, 331
+  size: 315, 608
+  orig: 569, 700
+  offset: 68, 34
+  index: -1
+girl/dance/b29
+  rotate: false
+  xy: 309, 1013
+  size: 344, 562
+  orig: 569, 700
+  offset: 91, 43
+  index: -1
+girl/dance/b3
+  rotate: false
+  xy: 2, 940
+  size: 305, 635
+  orig: 569, 700
+  offset: 80, 37
+  index: -1
+girl/dance/b61
+  rotate: true
+  xy: 1218, 331
+  size: 315, 608
+  orig: 569, 700
+  offset: 68, 34
+  index: -1
+girl/win-jump/b1
+  rotate: true
+  xy: 309, 658
+  size: 317, 608
+  orig: 559, 900
+  offset: 58, 34
+  index: -1
+girl/win-jump/b2
+  rotate: true
+  xy: 2, 338
+  size: 318, 604
+  orig: 559, 900
+  offset: 57, 37
+  index: -1
+
+skeleton13.png
+size: 1408,1773
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/cast/b46
+  rotate: false
+  xy: 980, 1178
+  size: 305, 593
+  orig: 569, 700
+  offset: 193, 44
+  index: -1
+girl/cast/b48
+  rotate: false
+  xy: 1105, 2
+  size: 272, 592
+  orig: 569, 700
+  offset: 191, 44
+  index: -1
+girl/cast/b50
+  rotate: false
+  xy: 1105, 596
+  size: 301, 580
+  orig: 569, 700
+  offset: 162, 44
+  index: -1
+girl/cast/b51
+  rotate: false
+  xy: 667, 598
+  size: 320, 576
+  orig: 569, 700
+  offset: 149, 44
+  index: -1
+girl/cast/b54
+  rotate: false
+  xy: 314, 1180
+  size: 319, 591
+  orig: 569, 700
+  offset: 148, 34
+  index: -1
+girl/cast/b55
+  rotate: false
+  xy: 667, 1176
+  size: 311, 595
+  orig: 569, 700
+  offset: 145, 34
+  index: -1
+girl/dance/b2
+  rotate: false
+  xy: 2, 1156
+  size: 310, 615
+  orig: 569, 700
+  offset: 71, 37
+  index: -1
+girl/dance/b30
+  rotate: false
+  xy: 2, 564
+  size: 323, 590
+  orig: 569, 700
+  offset: 89, 44
+  index: -1
+girl/dance/b31
+  rotate: false
+  xy: 364, 556
+  size: 301, 622
+  orig: 569, 700
+  offset: 101, 41
+  index: -1
+girl/win-jump/b6
+  rotate: false
+  xy: 2, 33
+  size: 360, 529
+  orig: 559, 900
+  offset: 71, 33
+  index: -1
+girl/win-jump/b7
+  rotate: false
+  xy: 364, 46
+  size: 368, 508
+  orig: 559, 900
+  offset: 77, 32
+  index: -1
+girl/win-jump/b8
+  rotate: false
+  xy: 734, 97
+  size: 369, 499
+  orig: 559, 900
+  offset: 80, 31
+  index: -1

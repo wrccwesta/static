@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1535,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doll_acid_back
+  rotate: true
+  xy: 802, 7
+  size: 441, 336
+  orig: 441, 336
+  offset: 0, 0
+  index: -1
+doll_acid_dead
+  rotate: false
+  xy: 402, 2
+  size: 398, 436
+  orig: 398, 436
+  offset: 0, 0
+  index: -1
+doll_acid_head
+  rotate: false
+  xy: 1140, 130
+  size: 143, 141
+  orig: 143, 141
+  offset: 0, 0
+  index: -1
+doll_acid_hover
+  rotate: false
+  xy: 599, 450
+  size: 601, 424
+  orig: 601, 424
+  offset: 0, 0
+  index: -1
+doll_acid_live
+  rotate: false
+  xy: 2, 2
+  size: 398, 436
+  orig: 398, 436
+  offset: 0, 0
+  index: -1
+doll_acid_top
+  rotate: true
+  xy: 1202, 273
+  size: 260, 293
+  orig: 260, 293
+  offset: 0, 0
+  index: -1
+doll_acid_top2
+  rotate: true
+  xy: 1202, 535
+  size: 339, 331
+  orig: 339, 331
+  offset: 0, 0
+  index: -1
+fx_dark
+  rotate: false
+  xy: 2, 440
+  size: 595, 434
+  orig: 595, 434
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,10 @@
+skeleton.png
+size:264,134
+filter:Linear,Linear
+circle-1
+bounds:2,6,126,126
+offsets:12,12,150,150
+sparks
+bounds:130,2,130,132
+offsets:10,9,150,150
+rotate:90

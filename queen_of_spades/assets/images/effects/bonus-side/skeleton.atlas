@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 518,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+king_active
+  rotate: false
+  xy: 105, 2
+  size: 100, 128
+  orig: 105, 132
+  offset: 3, 2
+  index: -1
+king_inactive
+  rotate: false
+  xy: 446, 32
+  size: 70, 98
+  orig: 105, 132
+  offset: 18, 17
+  index: -1
+queen_active
+  rotate: false
+  xy: 2, 2
+  size: 101, 128
+  orig: 105, 132
+  offset: 2, 2
+  index: -1
+queen_inactive
+  rotate: false
+  xy: 290, 32
+  size: 71, 98
+  orig: 105, 132
+  offset: 17, 17
+  index: -1
+shine-blue-small
+  rotate: true
+  xy: 207, 41
+  size: 89, 81
+  orig: 94, 86
+  offset: 1, 1
+  index: -1
+shine-pink-small
+  rotate: true
+  xy: 363, 45
+  size: 85, 81
+  orig: 91, 86
+  offset: 1, 1
+  index: -1

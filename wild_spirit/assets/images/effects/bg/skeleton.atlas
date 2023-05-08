@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1664,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_bigwin1
+  rotate: false
+  xy: 2, 2
+  size: 675, 451
+  orig: 675, 451
+  offset: 0, 0
+  index: -1
+fx_bigwin2
+  rotate: false
+  xy: 679, 24
+  size: 675, 429
+  orig: 675, 429
+  offset: 0, 0
+  index: -1
+fx_rune_arrow
+  rotate: true
+  xy: 1356, 20
+  size: 101, 209
+  orig: 101, 209
+  offset: 0, 0
+  index: -1
+fx_rune_home
+  rotate: false
+  xy: 1356, 284
+  size: 166, 169
+  orig: 166, 169
+  offset: 0, 0
+  index: -1
+fx_rune_moon
+  rotate: false
+  xy: 1517, 133
+  size: 134, 149
+  orig: 134, 149
+  offset: 0, 0
+  index: -1
+fx_rune_square
+  rotate: true
+  xy: 1524, 289
+  size: 164, 138
+  orig: 164, 138
+  offset: 0, 0
+  index: -1
+fx_rune_sun
+  rotate: false
+  xy: 1356, 123
+  size: 159, 159
+  orig: 159, 159
+  offset: 0, 0
+  index: -1
+fx_spark
+  rotate: false
+  xy: 679, 11
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

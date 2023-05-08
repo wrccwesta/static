@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 293,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+autoplay_hover
+  rotate: false
+  xy: 2, 111
+  size: 289, 107
+  orig: 289, 107
+  offset: 0, 0
+  index: -1
+btn_big
+  rotate: false
+  xy: 2, 2
+  size: 289, 107
+  orig: 289, 107
+  offset: 0, 0
+  index: -1
+maxbet_hover
+  rotate: false
+  xy: 2, 220
+  size: 289, 107
+  orig: 289, 107
+  offset: 0, 0
+  index: -1

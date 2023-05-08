@@ -1,0 +1,286 @@
+
+skeleton.png
+size: 1714,1714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+drum-lights
+  rotate: false
+  xy: 2, 1372
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+fs-bg
+  rotate: false
+  xy: 2, 1030
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+fs-bg-light
+  rotate: false
+  xy: 1370, 749
+  size: 279, 279
+  orig: 279, 279
+  offset: 0, 0
+  index: -1
+fs-body
+  rotate: false
+  xy: 344, 1372
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+fs-dollar
+  rotate: true
+  xy: 1608, 570
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+fs-ghost
+  rotate: true
+  xy: 1543, 216
+  size: 117, 139
+  orig: 117, 139
+  offset: 0, 0
+  index: -1
+fs-word
+  rotate: false
+  xy: 1348, 215
+  size: 193, 118
+  orig: 193, 118
+  offset: 0, 0
+  index: -1
+fs_border-light
+  rotate: false
+  xy: 1028, 104
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+fx-note1
+  rotate: false
+  xy: 1651, 935
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+fx-note2
+  rotate: false
+  xy: 1651, 974
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+fx-spark
+  rotate: false
+  xy: 1348, 335
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+fx_aim
+  rotate: false
+  xy: 1608, 643
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+gira-lights
+  rotate: false
+  xy: 2, 688
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+gorilla-eyes-full
+  rotate: false
+  xy: 1081, 2
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+gorilla-lights
+  rotate: false
+  xy: 344, 1030
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+hunter-eyes-full
+  rotate: false
+  xy: 1028, 2
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+hunter-lights
+  rotate: false
+  xy: 686, 1372
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+lion-eyes-full
+  rotate: false
+  xy: 1608, 542
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+lion-light
+  rotate: false
+  xy: 2, 346
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+scatter-pink
+  rotate: false
+  xy: 1370, 335
+  size: 243, 73
+  orig: 243, 73
+  offset: 0, 0
+  index: -1
+sym-banana
+  rotate: false
+  xy: 344, 688
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym-coco
+  rotate: false
+  xy: 686, 1030
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym-drum
+  rotate: false
+  xy: 1028, 1372
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym-gira
+  rotate: false
+  xy: 2, 4
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym-gorilla
+  rotate: false
+  xy: 344, 346
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym-hunter
+  rotate: false
+  xy: 686, 688
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym-kiwi
+  rotate: false
+  xy: 1028, 1030
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym-lion
+  rotate: false
+  xy: 1370, 1372
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym-mango
+  rotate: false
+  xy: 344, 4
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym-orange
+  rotate: false
+  xy: 686, 346
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym-plum
+  rotate: false
+  xy: 1028, 688
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym-wilf
+  rotate: false
+  xy: 1370, 1030
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym_circle_bg_light
+  rotate: false
+  xy: 686, 4
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+sym_circle_main
+  rotate: false
+  xy: 1028, 346
+  size: 340, 340
+  orig: 340, 340
+  offset: 0, 0
+  index: -1
+word-bonus
+  rotate: true
+  xy: 1270, 123
+  size: 221, 76
+  orig: 221, 76
+  offset: 0, 0
+  index: -1
+word-light
+  rotate: true
+  xy: 1370, 410
+  size: 337, 117
+  orig: 337, 117
+  offset: 0, 0
+  index: -1
+word-light-pink
+  rotate: true
+  xy: 1489, 410
+  size: 337, 117
+  orig: 337, 117
+  offset: 0, 0
+  index: -1
+word-scatter
+  rotate: false
+  xy: 1028, 28
+  size: 255, 74
+  orig: 255, 74
+  offset: 0, 0
+  index: -1
+word-wild
+  rotate: false
+  xy: 1348, 131
+  size: 195, 82
+  orig: 195, 82
+  offset: 0, 0
+  index: -1
+zirafa-eyes-full
+  rotate: false
+  xy: 1133, 5
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1

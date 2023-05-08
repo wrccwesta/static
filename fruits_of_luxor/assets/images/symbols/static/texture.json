@@ -1,0 +1,100 @@
+{"frames": {
+
+"apple":
+{
+	"frame": {"x":1,"y":1132,"w":279,"h":227},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":54,"w":279,"h":227},
+	"sourceSize": {"w":335,"h":335}
+},
+"banana":
+{
+	"frame": {"x":253,"y":803,"w":249,"h":241},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":49,"w":249,"h":241},
+	"sourceSize": {"w":335,"h":335}
+},
+"bell":
+{
+	"frame": {"x":249,"y":1046,"w":219,"h":235},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":50,"w":219,"h":235},
+	"sourceSize": {"w":335,"h":335}
+},
+"cleo":
+{
+	"frame": {"x":279,"y":1,"w":219,"h":286},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":23,"w":219,"h":286},
+	"sourceSize": {"w":335,"h":335}
+},
+"grapes":
+{
+	"frame": {"x":1,"y":276,"w":273,"h":272},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":36,"w":273,"h":272},
+	"sourceSize": {"w":335,"h":335}
+},
+"orange":
+{
+	"frame": {"x":276,"y":289,"w":257,"h":226},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":53,"w":257,"h":226},
+	"sourceSize": {"w":335,"h":335}
+},
+"pharaoh":
+{
+	"frame": {"x":1,"y":550,"w":250,"h":295},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":13,"w":250,"h":295},
+	"sourceSize": {"w":335,"h":335}
+},
+"seven":
+{
+	"frame": {"x":230,"y":1267,"w":190,"h":228},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":52,"w":190,"h":228},
+	"sourceSize": {"w":335,"h":335}
+},
+"star":
+{
+	"frame": {"x":1,"y":847,"w":246,"h":283},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":62,"y":26,"w":246,"h":283},
+	"sourceSize": {"w":335,"h":335}
+},
+"wild(crown)_luxor":
+{
+	"frame": {"x":1,"y":1,"w":276,"h":273},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":27,"w":276,"h":273},
+	"sourceSize": {"w":335,"h":335}
+},
+"wmelon_p":
+{
+	"frame": {"x":253,"y":550,"w":251,"h":230},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":52,"w":251,"h":230},
+	"sourceSize": {"w":335,"h":335}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":503,"h":1458},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e73823b26641febc4ffa298c449bb076:db1a8911f68466c158b620bf9e838526:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

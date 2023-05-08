@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sparks_green
+  rotate: false
+  xy: 2, 2
+  size: 111, 128
+  orig: 111, 128
+  offset: 0, 0
+  index: -1
+wincircle
+  rotate: false
+  xy: 333, 201
+  size: 263, 263
+  orig: 263, 263
+  offset: 0, 0
+  index: -1
+wincircle3-1
+  rotate: false
+  xy: 2, 132
+  size: 329, 332
+  orig: 329, 332
+  offset: 0, 0
+  index: -1

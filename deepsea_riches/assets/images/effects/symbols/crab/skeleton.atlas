@@ -1,0 +1,253 @@
+skeleton.png
+size:1943,1911
+filter:Linear,Linear
+Lens flare 69
+bounds:2,1561,345,348
+offsets:27,25,400,400
+bubble
+bounds:655,1572,46,46
+offsets:2,2,50,50
+circle-1
+bounds:2,1243,327,316
+offsets:12,16,350,350
+circle-2
+bounds:966,1625,284,312
+offsets:20,19,350,350
+rotate:90
+crab/idle/Crab Idle1
+bounds:2,2,249,315
+offsets:78,35,380,380
+crab/win/Crab Win1
+bounds:2,2,249,315
+offsets:78,35,380,380
+crab/idle/Crab Idle10
+bounds:619,1015,252,330
+offsets:77,24,380,380
+rotate:90
+crab/idle/Crab Idle11
+bounds:890,714,252,330
+offsets:77,24,380,380
+rotate:90
+crab/idle/Crab Idle12
+bounds:1280,1657,252,330
+offsets:77,24,380,380
+rotate:90
+crab/idle/Crab Idle13
+bounds:1036,385,250,329
+offsets:78,25,380,380
+rotate:90
+crab/idle/Crab Idle14
+bounds:1367,308,250,327
+offsets:78,26,380,380
+crab/idle/Crab Idle15
+bounds:510,51,249,326
+offsets:78,27,380,380
+crab/idle/Crab Idle16
+bounds:256,12,249,323
+offsets:78,29,380,380
+crab/idle/Crab Idle17
+bounds:1585,59,247,322
+offsets:79,30,380,380
+rotate:90
+crab/idle/Crab Idle18
+bounds:1619,542,247,319
+offsets:79,32,380,380
+crab/idle/Crab Idle2
+bounds:783,62,250,318
+offsets:78,33,380,380
+crab/idle/Crab Idle3
+bounds:1036,62,250,321
+offsets:78,31,380,380
+crab/idle/Crab Idle4
+bounds:783,382,251,323
+offsets:77,29,380,380
+crab/idle/Crab Idle40
+bounds:1574,1153,248,312
+offsets:79,38,380,380
+rotate:90
+crab/idle/Crab Idle5
+bounds:2,319,252,325
+offsets:77,28,380,380
+crab/idle/Crab Idle6
+bounds:529,379,252,326
+offsets:77,27,380,380
+crab/idle/Crab Idle7
+bounds:1557,1403,252,329
+offsets:77,25,380,380
+rotate:90
+crab/idle/Crab Idle8
+bounds:1612,1657,252,329
+offsets:77,25,380,380
+rotate:90
+crab/idle/Crab Idle9
+bounds:1242,1114,252,330
+offsets:77,24,380,380
+rotate:90
+crab/win/Crab Win17
+bounds:1222,637,329,259
+offsets:25,39,380,380
+rotate:90
+crab/win/Crab Win18
+bounds:331,1285,331,274
+offsets:24,42,380,380
+crab/win/Crab Win19
+bounds:331,964,319,286
+offsets:31,49,380,380
+rotate:90
+crab/win/Crab Win2
+bounds:256,337,252,307
+offsets:76,39,380,380
+crab/win/Crab Win20
+bounds:2,937,304,286
+offsets:39,55,380,380
+rotate:90
+crab/win/Crab Win21
+bounds:655,1620,309,289
+offsets:40,52,380,380
+crab/win/Crab Win22
+bounds:664,1269,301,287
+offsets:47,48,380,380
+rotate:90
+crab/win/Crab Win23
+bounds:951,968,285,299
+offsets:58,43,380,380
+crab/win/Crab Win24
+bounds:619,707,269,306
+offsets:68,39,380,380
+crab/win/Crab Win25
+bounds:1242,1368,255,313
+offsets:75,36,380,380
+rotate:90
+crab/win/Crab Win26
+bounds:1483,863,249,315
+offsets:78,35,380,380
+rotate:90
+crab/win/Crab Win3
+bounds:2,646,262,289
+offsets:68,46,380,380
+crab/win/Crab Win4
+bounds:966,1349,274,274
+offsets:59,49,380,380
+crab/win/Crab Win5
+bounds:266,649,286,261
+offsets:50,47,380,380
+rotate:90
+crab/win/Crab Win6
+bounds:1288,58,295,248
+offsets:43,47,380,380
+sparks
+bounds:349,1607,302,304
+offsets:24,23,350,350
+rotate:90
+
+skeleton_2.png
+size:1996,1198
+filter:Linear,Linear
+crab/idle/Crab Idle19
+bounds:2,880,246,316
+offsets:79,34,380,380
+crab/idle/Crab Idle20
+bounds:2,563,244,315
+offsets:80,35,380,380
+crab/idle/Crab Idle21
+bounds:2,249,244,312
+offsets:80,37,380,380
+crab/idle/Crab Idle22
+bounds:248,568,243,310
+offsets:80,39,380,380
+crab/idle/Crab Idle23
+bounds:493,578,242,307
+offsets:81,41,380,380
+crab/idle/Crab Idle24
+bounds:499,891,242,305
+offsets:81,43,380,380
+crab/idle/Crab Idle25
+bounds:496,273,242,303
+offsets:81,45,380,380
+crab/idle/Crab Idle26
+bounds:743,895,242,301
+offsets:81,47,380,380
+crab/idle/Crab Idle27
+bounds:981,290,241,300
+offsets:81,48,380,380
+crab/idle/Crab Idle28
+bounds:1224,293,242,298
+offsets:81,50,380,380
+crab/idle/Crab Idle29
+bounds:1466,899,242,297
+offsets:81,51,380,380
+crab/idle/Crab Idle30
+bounds:1710,900,242,296
+offsets:81,52,380,380
+crab/idle/Crab Idle31
+bounds:1709,303,242,295
+offsets:81,53,380,380
+crab/idle/Crab Idle32
+bounds:1752,7,242,294
+offsets:81,54,380,380
+crab/idle/Crab Idle33
+bounds:1507,2,243,294
+offsets:81,54,380,380
+crab/idle/Crab Idle34
+bounds:1211,44,244,294
+offsets:80,54,380,380
+rotate:90
+crab/idle/Crab Idle35
+bounds:914,38,244,295
+offsets:80,53,380,380
+rotate:90
+crab/idle/Crab Idle36
+bounds:613,26,245,299
+offsets:80,50,380,380
+rotate:90
+crab/idle/Crab Idle37
+bounds:2,2,245,302
+offsets:80,47,380,380
+rotate:90
+crab/idle/Crab Idle38
+bounds:306,8,247,305
+offsets:79,44,380,380
+rotate:90
+crab/idle/Crab Idle39
+bounds:250,887,247,309
+offsets:79,41,380,380
+crab/win/Crab Win10
+bounds:987,895,301,237
+offsets:39,44,380,380
+rotate:90
+crab/win/Crab Win11
+bounds:976,592,301,238
+offsets:39,42,380,380
+rotate:90
+crab/win/Crab Win12
+bounds:1226,897,299,238
+offsets:40,41,380,380
+rotate:90
+crab/win/Crab Win13
+bounds:1458,597,298,239
+offsets:41,40,380,380
+rotate:90
+crab/win/Crab Win14
+bounds:1468,298,297,239
+offsets:42,40,380,380
+rotate:90
+crab/win/Crab Win15
+bounds:1699,600,297,239
+offsets:42,40,380,380
+rotate:90
+crab/win/Crab Win16
+bounds:248,257,309,246
+offsets:36,39,380,380
+rotate:90
+crab/win/Crab Win7
+bounds:1216,593,300,240
+offsets:39,48,380,380
+rotate:90
+crab/win/Crab Win8
+bounds:740,284,301,239
+offsets:39,46,380,380
+rotate:90
+crab/win/Crab Win9
+bounds:737,587,302,237
+offsets:38,45,380,380
+rotate:90

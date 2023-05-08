@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 1086,768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doll_cross_hover
+  rotate: false
+  xy: 2, 2
+  size: 562, 328
+  orig: 562, 328
+  offset: 0, 0
+  index: -1
+doll_cross_live
+  rotate: true
+  xy: 599, 368
+  size: 398, 436
+  orig: 398, 436
+  offset: 0, 0
+  index: -1
+doll_cross_nail
+  rotate: false
+  xy: 1037, 742
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+doll_cross_neck
+  rotate: true
+  xy: 755, 15
+  size: 86, 101
+  orig: 86, 101
+  offset: 0, 0
+  index: -1
+doll_cross_wood
+  rotate: true
+  xy: 599, 103
+  size: 263, 485
+  orig: 263, 485
+  offset: 0, 0
+  index: -1
+fx_dark
+  rotate: false
+  xy: 2, 332
+  size: 595, 434
+  orig: 595, 434
+  offset: 0, 0
+  index: -1
+fx_line-1
+  rotate: false
+  xy: 566, 6
+  size: 187, 95
+  orig: 187, 95
+  offset: 0, 0
+  index: -1

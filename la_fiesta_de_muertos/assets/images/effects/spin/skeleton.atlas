@@ -1,0 +1,15 @@
+skeleton.png
+size:539,308
+filter:Linear,Linear
+fxs/fire_00000
+bounds:2,15,283,291
+offsets:35,50,400,400
+spin/spin-ball
+bounds:287,2,143,142
+offsets:1,1,145,145
+spin/spin-bg
+bounds:287,146,160,160
+spin/spin-icn
+bounds:432,28,116,105
+offsets:5,8,127,120
+rotate:90

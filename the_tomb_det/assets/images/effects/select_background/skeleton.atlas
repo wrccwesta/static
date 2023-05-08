@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 2588,602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_sparks1
+  rotate: false
+  xy: 765, 51
+  size: 358, 314
+  orig: 358, 314
+  offset: 0, 0
+  index: -1
+fs_column
+  rotate: true
+  xy: 1125, 117
+  size: 248, 367
+  orig: 248, 367
+  offset: 0, 0
+  index: -1
+fs_special_shine
+  rotate: false
+  xy: 1924, 49
+  size: 662, 551
+  orig: 662, 551
+  offset: 0, 0
+  index: -1
+fs_stair1
+  rotate: false
+  xy: 2, 367
+  size: 1920, 110
+  orig: 1920, 110
+  offset: 0, 0
+  index: -1
+fs_stair2
+  rotate: false
+  xy: 2, 479
+  size: 1920, 121
+  orig: 1920, 121
+  offset: 0, 0
+  index: -1
+fs_statue
+  rotate: false
+  xy: 2, 2
+  size: 761, 363
+  orig: 761, 363
+  offset: 0, 0
+  index: -1

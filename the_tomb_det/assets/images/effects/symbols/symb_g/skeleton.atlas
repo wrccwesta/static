@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 538,1596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+emperor_g
+  rotate: false
+  xy: 2, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 371, 992
+  size: 132, 248
+  orig: 132, 248
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 386, 1321
+  size: 115, 273
+  orig: 115, 273
+  offset: 0, 0
+  index: -1
+fx_symbg
+  rotate: false
+  xy: 2, 888
+  size: 367, 352
+  orig: 367, 352
+  offset: 0, 0
+  index: -1
+fx_symfire1
+  rotate: false
+  xy: 2, 1242
+  size: 382, 352
+  orig: 382, 352
+  offset: 0, 0
+  index: -1
+fx_symfire2
+  rotate: false
+  xy: 2, 538
+  size: 365, 348
+  orig: 365, 348
+  offset: 0, 0
+  index: -1
+girl_g
+  rotate: false
+  xy: 2, 270
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+scatter_light
+  rotate: false
+  xy: 371, 833
+  size: 159, 157
+  orig: 159, 157
+  offset: 0, 0
+  index: -1
+sparks
+  rotate: false
+  xy: 369, 631
+  size: 158, 200
+  orig: 158, 200
+  offset: 0, 0
+  index: -1
+warriors_g
+  rotate: false
+  xy: 270, 270
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+zombie_g
+  rotate: false
+  xy: 270, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1

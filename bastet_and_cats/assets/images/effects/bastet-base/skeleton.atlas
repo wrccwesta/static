@@ -1,0 +1,402 @@
+
+skeleton.png
+size: 1701,1798
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl-shadow
+  rotate: false
+  xy: 459, 616
+  size: 197, 45
+  orig: 203, 51
+  offset: 3, 3
+  index: -1
+girl/spawn/b1
+  rotate: true
+  xy: 917, 1318
+  size: 478, 461
+  orig: 509, 650
+  offset: 22, 34
+  index: -1
+girl/spawn/b10
+  rotate: false
+  xy: 1325, 704
+  size: 354, 612
+  orig: 509, 650
+  offset: 47, 34
+  index: -1
+girl/spawn/b11
+  rotate: false
+  xy: 1363, 92
+  size: 336, 610
+  orig: 509, 650
+  offset: 51, 34
+  index: -1
+girl/spawn/b2
+  rotate: true
+  xy: 892, 61
+  size: 472, 469
+  orig: 509, 650
+  offset: 24, 34
+  index: -1
+girl/spawn/b3
+  rotate: false
+  xy: 855, 785
+  size: 468, 490
+  orig: 509, 650
+  offset: 26, 34
+  index: -1
+girl/spawn/b4
+  rotate: false
+  xy: 450, 1277
+  size: 465, 519
+  orig: 509, 650
+  offset: 28, 34
+  index: -1
+girl/spawn/b5
+  rotate: false
+  xy: 430, 61
+  size: 460, 551
+  orig: 509, 650
+  offset: 32, 34
+  index: -1
+girl/spawn/b6
+  rotate: false
+  xy: 2, 614
+  size: 455, 579
+  orig: 509, 650
+  offset: 36, 34
+  index: -1
+girl/spawn/b7
+  rotate: false
+  xy: 2, 1195
+  size: 446, 601
+  orig: 509, 650
+  offset: 41, 34
+  index: -1
+girl/spawn/b8
+  rotate: false
+  xy: 2, 2
+  size: 426, 610
+  orig: 509, 650
+  offset: 45, 34
+  index: -1
+girl/spawn/b9
+  rotate: false
+  xy: 459, 663
+  size: 394, 612
+  orig: 509, 650
+  offset: 46, 34
+  index: -1
+
+skeleton2.png
+size: 1869,1576
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/idle/b10
+  rotate: true
+  xy: 2, 323
+  size: 319, 607
+  orig: 419, 650
+  offset: 26, 34
+  index: -1
+girl/idle/b11
+  rotate: false
+  xy: 1296, 967
+  size: 320, 607
+  orig: 419, 650
+  offset: 26, 34
+  index: -1
+girl/idle/b12
+  rotate: true
+  xy: 650, 646
+  size: 320, 607
+  orig: 419, 650
+  offset: 26, 34
+  index: -1
+girl/idle/b13
+  rotate: false
+  xy: 327, 967
+  size: 321, 607
+  orig: 419, 650
+  offset: 26, 34
+  index: -1
+girl/idle/b14
+  rotate: false
+  xy: 650, 968
+  size: 321, 606
+  orig: 419, 650
+  offset: 26, 34
+  index: -1
+girl/idle/b15
+  rotate: false
+  xy: 973, 968
+  size: 321, 606
+  orig: 419, 650
+  offset: 26, 34
+  index: -1
+girl/idle/b16
+  rotate: true
+  xy: 1222, 324
+  size: 320, 606
+  orig: 419, 650
+  offset: 26, 34
+  index: -1
+girl/idle/b17
+  rotate: true
+  xy: 2, 2
+  size: 319, 606
+  orig: 419, 650
+  offset: 26, 34
+  index: -1
+girl/idle/b4
+  rotate: true
+  xy: 2, 644
+  size: 319, 608
+  orig: 419, 650
+  offset: 21, 34
+  index: -1
+girl/idle/b5
+  rotate: true
+  xy: 1259, 646
+  size: 319, 608
+  orig: 419, 650
+  offset: 22, 34
+  index: -1
+girl/idle/b6
+  rotate: true
+  xy: 612, 325
+  size: 319, 608
+  orig: 419, 650
+  offset: 23, 34
+  index: -1
+girl/idle/b7
+  rotate: true
+  xy: 611, 4
+  size: 319, 607
+  orig: 419, 650
+  offset: 24, 34
+  index: -1
+girl/idle/b9
+  rotate: true
+  xy: 1220, 3
+  size: 319, 607
+  orig: 419, 650
+  offset: 25, 34
+  index: -1
+girl/spawn/b12
+  rotate: false
+  xy: 2, 965
+  size: 323, 609
+  orig: 509, 650
+  offset: 56, 34
+  index: -1
+
+skeleton3.png
+size: 1919,1568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/idle/b1
+  rotate: true
+  xy: 2, 639
+  size: 317, 608
+  orig: 419, 650
+  offset: 18, 34
+  index: -1
+girl/idle/b18
+  rotate: false
+  xy: 642, 960
+  size: 319, 606
+  orig: 419, 650
+  offset: 25, 34
+  index: -1
+girl/idle/b19
+  rotate: false
+  xy: 963, 959
+  size: 318, 607
+  orig: 419, 650
+  offset: 24, 34
+  index: -1
+girl/idle/b2
+  rotate: false
+  xy: 2, 958
+  size: 318, 608
+  orig: 419, 650
+  offset: 19, 34
+  index: -1
+girl/idle/b20
+  rotate: false
+  xy: 1283, 959
+  size: 318, 607
+  orig: 419, 650
+  offset: 23, 34
+  index: -1
+girl/idle/b21
+  rotate: true
+  xy: 642, 639
+  size: 318, 607
+  orig: 419, 650
+  offset: 21, 34
+  index: -1
+girl/idle/b22
+  rotate: true
+  xy: 2, 320
+  size: 317, 607
+  orig: 419, 650
+  offset: 20, 34
+  index: -1
+girl/idle/b23
+  rotate: true
+  xy: 611, 2
+  size: 316, 607
+  orig: 419, 650
+  offset: 19, 34
+  index: -1
+girl/idle/b24
+  rotate: false
+  xy: 1603, 959
+  size: 314, 607
+  orig: 419, 650
+  offset: 18, 34
+  index: -1
+girl/idle/b3
+  rotate: false
+  xy: 322, 958
+  size: 318, 608
+  orig: 419, 650
+  offset: 20, 34
+  index: -1
+girl/idle/b39
+  rotate: true
+  xy: 1222, 3
+  size: 315, 608
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b40
+  rotate: true
+  xy: 612, 320
+  size: 317, 608
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b8
+  rotate: true
+  xy: 1251, 639
+  size: 318, 607
+  orig: 419, 650
+  offset: 25, 34
+  index: -1
+girl/spawn/b13
+  rotate: true
+  xy: 1251, 320
+  size: 317, 608
+  orig: 509, 650
+  offset: 58, 34
+  index: -1
+
+skeleton4.png
+size: 1882,1539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl/idle/b25
+  rotate: false
+  xy: 318, 930
+  size: 313, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b26
+  rotate: false
+  xy: 947, 930
+  size: 311, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b27
+  rotate: false
+  xy: 1260, 930
+  size: 309, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b28
+  rotate: true
+  xy: 921, 311
+  size: 307, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b29
+  rotate: true
+  xy: 2, 11
+  size: 307, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b30
+  rotate: true
+  xy: 611, 2
+  size: 307, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b31
+  rotate: true
+  xy: 1220, 2
+  size: 307, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b32
+  rotate: true
+  xy: 947, 620
+  size: 308, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b33
+  rotate: true
+  xy: 2, 619
+  size: 308, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b34
+  rotate: false
+  xy: 1556, 321
+  size: 308, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b35
+  rotate: false
+  xy: 611, 320
+  size: 308, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b36
+  rotate: false
+  xy: 1571, 930
+  size: 309, 607
+  orig: 419, 650
+  offset: 17, 34
+  index: -1
+girl/idle/b37
+  rotate: false
+  xy: 633, 929
+  size: 312, 608
+  orig: 419, 650
+  offset: 16, 34
+  index: -1
+girl/idle/b38
+  rotate: false
+  xy: 2, 929
+  size: 314, 608
+  orig: 419, 650
+  offset: 16, 34
+  index: -1

@@ -1,0 +1,166 @@
+skeleton.png
+size:2038,1827
+filter:Linear,Linear
+bubble
+bounds:2,1779,46,46
+offsets:2,2,50,50
+diver/idle/Diver Idle1
+bounds:421,1354,236,418
+offsets:72,68,360,540
+rotate:90
+diver/idle/Diver Idle10
+bounds:418,1112,240,412
+offsets:65,86,360,540
+rotate:90
+diver/idle/Diver Idle11
+bounds:1252,1107,243,410
+offsets:63,90,360,540
+rotate:90
+diver/idle/Diver Idle12
+bounds:2,869,245,409
+offsets:62,93,360,540
+rotate:90
+diver/idle/Diver Idle13
+bounds:832,859,249,406
+offsets:60,97,360,540
+rotate:90
+diver/idle/Diver Idle14
+bounds:1240,854,251,405
+offsets:59,100,360,540
+rotate:90
+diver/idle/Diver Idle15
+bounds:2,612,255,404
+offsets:57,103,360,540
+rotate:90
+diver/idle/Diver Idle16
+bounds:828,597,260,402
+offsets:55,106,360,540
+rotate:90
+diver/idle/Diver Idle17
+bounds:1676,1022,265,401
+offsets:52,108,360,540
+diver/idle/Diver Idle18
+bounds:1647,619,269,401
+offsets:50,109,360,540
+diver/idle/Diver Idle19
+bounds:1729,1425,273,400
+offsets:48,110,360,540
+diver/idle/Diver Idle2
+bounds:890,1591,234,418
+offsets:72,68,360,540
+rotate:90
+diver/idle/Diver Idle20
+bounds:1232,574,278,401
+offsets:46,109,360,540
+rotate:90
+diver/idle/Diver Idle21
+bounds:1635,334,283,401
+offsets:44,109,360,540
+rotate:90
+diver/idle/Diver Idle22
+bounds:1258,170,285,402
+offsets:43,107,360,540
+diver/idle/Diver Idle23
+bounds:1545,43,289,403
+offsets:41,105,360,540
+rotate:90
+diver/idle/Diver Idle24
+bounds:836,2,291,404
+offsets:40,103,360,540
+rotate:90
+diver/idle/Diver Idle3
+bounds:470,1592,233,418
+offsets:72,69,360,540
+rotate:90
+diver/idle/Diver Idle33
+bounds:419,36,289,415
+offsets:41,78,360,540
+rotate:90
+diver/idle/Diver Idle34
+bounds:2,63,284,415
+offsets:44,76,360,540
+rotate:90
+diver/idle/Diver Idle35
+bounds:840,295,277,416
+offsets:49,74,360,540
+rotate:90
+diver/idle/Diver Idle36
+bounds:421,327,268,417
+offsets:54,72,360,540
+rotate:90
+diver/idle/Diver Idle37
+bounds:2,349,260,417
+offsets:59,71,360,540
+rotate:90
+diver/idle/Diver Idle38
+bounds:408,611,252,418
+offsets:64,69,360,540
+rotate:90
+diver/idle/Diver Idle39
+bounds:413,865,245,417
+offsets:68,69,360,540
+rotate:90
+diver/idle/Diver Idle4
+bounds:50,1593,232,418
+offsets:72,70,360,540
+rotate:90
+diver/idle/Diver Idle40
+bounds:832,1110,241,418
+offsets:70,68,360,540
+rotate:90
+diver/idle/Diver Idle5
+bounds:1310,1591,234,417
+offsets:70,72,360,540
+rotate:90
+diver/idle/Diver Idle6
+bounds:2,1357,234,417
+offsets:70,74,360,540
+rotate:90
+diver/idle/Diver Idle7
+bounds:841,1353,236,416
+offsets:69,76,360,540
+rotate:90
+diver/idle/Diver Idle8
+bounds:1259,1352,237,415
+offsets:68,79,360,540
+rotate:90
+diver/idle/Diver Idle9
+bounds:2,1116,239,414
+offsets:66,82,360,540
+rotate:90
+
+skeleton_2.png
+size:826,1195
+filter:Linear,Linear
+diver/idle/Diver Idle25
+bounds:417,306,293,406
+offsets:39,100,360,540
+rotate:90
+diver/idle/Diver Idle26
+bounds:417,601,294,406
+offsets:38,98,360,540
+rotate:90
+diver/idle/Diver Idle27
+bounds:417,897,296,407
+offsets:37,95,360,540
+rotate:90
+diver/idle/Diver Idle28
+bounds:415,7,297,409
+offsets:36,92,360,540
+rotate:90
+diver/idle/Diver Idle29
+bounds:2,2,297,410
+offsets:36,89,360,540
+rotate:90
+diver/idle/Diver Idle30
+bounds:2,301,297,411
+offsets:36,86,360,540
+rotate:90
+diver/idle/Diver Idle31
+bounds:2,896,297,413
+offsets:36,83,360,540
+rotate:90
+diver/idle/Diver Idle32
+bounds:2,600,294,413
+offsets:38,81,360,540
+rotate:90

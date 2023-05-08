@@ -1,0 +1,76 @@
+{"frames": {
+
+"btn-get":
+{
+	"frame": {"x":0,"y":0,"w":158,"h":91},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":158,"h":91},
+	"sourceSize": {"w":158,"h":91}
+},
+"btn-play":
+{
+	"frame": {"x":0,"y":91,"w":186,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":186,"h":90},
+	"sourceSize": {"w":186,"h":90}
+},
+"buy":
+{
+	"frame": {"x":0,"y":181,"w":162,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":162,"h":90},
+	"sourceSize": {"w":162,"h":90}
+},
+"dragon_title":
+{
+	"frame": {"x":0,"y":271,"w":243,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":243,"h":94},
+	"sourceSize": {"w":243,"h":94}
+},
+"goddess_title":
+{
+	"frame": {"x":0,"y":365,"w":238,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":238,"h":102},
+	"sourceSize": {"w":238,"h":102}
+},
+"risk":
+{
+	"frame": {"x":0,"y":467,"w":172,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":90},
+	"sourceSize": {"w":172,"h":90}
+},
+"viking_title":
+{
+	"frame": {"x":0,"y":557,"w":219,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":107},
+	"sourceSize": {"w":219,"h":107}
+},
+"wolf_title":
+{
+	"frame": {"x":0,"y":664,"w":210,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":120},
+	"sourceSize": {"w":210,"h":120}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":243,"h":784},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:03ffdc5234fffe7c79e0a2f6eacc31a9:2c1750e44ff1a93ef4131377fb1d7723:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

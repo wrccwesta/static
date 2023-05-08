@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 78,77
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_bubble_one
+  rotate: false
+  xy: 2, 2
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1

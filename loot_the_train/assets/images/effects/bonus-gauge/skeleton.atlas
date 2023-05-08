@@ -1,0 +1,25 @@
+skeleton.png
+size:262,389
+filter:Linear,Linear
+bonus-gauge/Слой 2
+bounds:2,122,120,125
+offsets:0,4,120,129
+rotate:90
+bonus-gauge/кнопка 1
+bounds:153,275,112,107
+offsets:2,0,114,107
+rotate:90
+bonus-gauge/кнопка 2
+bounds:128,9,116,111
+offsets:0,1,116,112
+bonus-gauge/кнопка 3
+bounds:2,2,118,124
+offsets:0,0,119,124
+rotate:90
+bonus-gauge/кнопка 4
+bounds:129,122,120,124
+offsets:0,0,120,125
+rotate:90
+dust
+bounds:2,244,149,143
+offsets:1,1,150,147

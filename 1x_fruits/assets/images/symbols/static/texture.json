@@ -1,0 +1,84 @@
+{"frames": {
+
+"banana":
+{
+	"frame": {"x":1,"y":779,"w":262,"h":215},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":31,"w":262,"h":215},
+	"sourceSize": {"w":279,"h":279}
+},
+"cherry":
+{
+	"frame": {"x":1,"y":255,"w":241,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":241,"h":260},
+	"sourceSize": {"w":279,"h":279}
+},
+"grapes":
+{
+	"frame": {"x":1,"y":517,"w":230,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":9,"w":230,"h":260},
+	"sourceSize": {"w":279,"h":279}
+},
+"joker":
+{
+	"frame": {"x":218,"y":846,"w":278,"h":175},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":52,"w":278,"h":175},
+	"sourceSize": {"w":279,"h":279}
+},
+"lemon":
+{
+	"frame": {"x":233,"y":636,"w":239,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":41,"w":239,"h":208},
+	"sourceSize": {"w":279,"h":279}
+},
+"plum":
+{
+	"frame": {"x":259,"y":1,"w":238,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":44,"w":238,"h":207},
+	"sourceSize": {"w":279,"h":279}
+},
+"scatter":
+{
+	"frame": {"x":1,"y":1,"w":256,"h":252},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":13,"w":256,"h":252},
+	"sourceSize": {"w":279,"h":279}
+},
+"seven":
+{
+	"frame": {"x":259,"y":210,"w":233,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":44,"w":233,"h":192},
+	"sourceSize": {"w":279,"h":279}
+},
+"watermelon":
+{
+	"frame": {"x":244,"y":404,"w":242,"h":230},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":25,"w":242,"h":230},
+	"sourceSize": {"w":279,"h":279}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":498,"h":1042},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:83e2b54577d77daf994c1a50be2ec5ad:442ee8dddeb266e886abaaa343d0ca55:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

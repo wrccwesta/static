@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 506,1994
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++1 Free
+  rotate: false
+  xy: 283, 277
+  size: 203, 78
+  orig: 206, 81
+  offset: 2, 2
+  index: -1
+Click me
+  rotate: true
+  xy: 299, 594
+  size: 245, 79
+  orig: 248, 82
+  offset: 1, 2
+  index: -1
+arrow
+  rotate: true
+  xy: 377, 1806
+  size: 186, 77
+  orig: 186, 77
+  offset: 0, 0
+  index: -1
+arrowshade
+  rotate: false
+  xy: 380, 757
+  size: 42, 82
+  orig: 45, 85
+  offset: 1, 2
+  index: -1
+border-overlay-green
+  rotate: true
+  xy: 2, 986
+  size: 273, 274
+  orig: 273, 274
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: false
+  xy: 377, 1546
+  size: 83, 259
+  orig: 94, 259
+  offset: 5, 0
+  index: -1
+fire2
+  rotate: true
+  xy: 2, 1261
+  size: 357, 387
+  orig: 369, 395
+  offset: 4, 6
+  index: -1
+fx-sparks
+  rotate: true
+  xy: 2, 488
+  size: 221, 295
+  orig: 225, 297
+  offset: 2, 1
+  index: -1
+fx-star
+  rotate: false
+  xy: 2, 1620
+  size: 373, 372
+  orig: 383, 378
+  offset: 5, 1
+  index: -1
+light
+  rotate: false
+  xy: 278, 841
+  size: 190, 190
+  orig: 204, 205
+  offset: 7, 8
+  index: -1
+scatter
+  rotate: true
+  xy: 299, 357
+  size: 235, 81
+  orig: 238, 85
+  offset: 2, 2
+  index: -1
+target/1
+  rotate: true
+  xy: 2, 262
+  size: 224, 279
+  orig: 226, 281
+  offset: 1, 1
+  index: -1
+target/2
+  rotate: true
+  xy: 2, 24
+  size: 236, 261
+  orig: 238, 263
+  offset: 1, 1
+  index: -1
+target/bg
+  rotate: true
+  xy: 2, 711
+  size: 273, 274
+  orig: 275, 276
+  offset: 1, 1
+  index: -1
+target/bgoverlay
+  rotate: false
+  xy: 278, 1033
+  size: 226, 226
+  orig: 228, 228
+  offset: 1, 1
+  index: -1
+target/box
+  rotate: true
+  xy: 265, 2
+  size: 258, 235
+  orig: 258, 235
+  offset: 0, 0
+  index: -1

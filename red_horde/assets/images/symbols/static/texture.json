@@ -1,0 +1,192 @@
+{"frames": {
+
+"10":
+{
+	"frame": {"x":513,"y":293,"w":211,"h":214},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":55,"w":211,"h":214},
+	"sourceSize": {"w":304,"h":317}
+},
+"a":
+{
+	"frame": {"x":424,"y":856,"w":159,"h":209},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":57,"w":159,"h":209},
+	"sourceSize": {"w":304,"h":317}
+},
+"amulet":
+{
+	"frame": {"x":1385,"y":1,"w":256,"h":252},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":256,"h":252},
+	"sourceSize": {"w":304,"h":317}
+},
+"box-x2":
+{
+	"frame": {"x":988,"y":274,"w":260,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":71,"w":260,"h":165},
+	"sourceSize": {"w":304,"h":317}
+},
+"box-x3":
+{
+	"frame": {"x":726,"y":293,"w":260,"h":166},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":75,"w":260,"h":166},
+	"sourceSize": {"w":304,"h":317}
+},
+"box-x5":
+{
+	"frame": {"x":1250,"y":259,"w":260,"h":165},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":75,"w":260,"h":165},
+	"sourceSize": {"w":304,"h":317}
+},
+"boy-wild":
+{
+	"frame": {"x":257,"y":537,"w":304,"h":317},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":304,"h":317},
+	"sourceSize": {"w":304,"h":317}
+},
+"boy-x2":
+{
+	"frame": {"x":257,"y":1,"w":254,"h":534},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":534},
+	"sourceSize": {"w":254,"h":534}
+},
+"boy-x3":
+{
+	"frame": {"x":1,"y":1,"w":254,"h":861},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":861},
+	"sourceSize": {"w":254,"h":861}
+},
+"boy":
+{
+	"frame": {"x":1396,"y":708,"w":256,"h":270},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":23,"w":256,"h":270},
+	"sourceSize": {"w":304,"h":317}
+},
+"cow-wild":
+{
+	"frame": {"x":868,"y":742,"w":268,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":24,"w":268,"h":269},
+	"sourceSize": {"w":304,"h":317}
+},
+"cow":
+{
+	"frame": {"x":1115,"y":441,"w":268,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":24,"w":268,"h":269},
+	"sourceSize": {"w":304,"h":317}
+},
+"j":
+{
+	"frame": {"x":212,"y":864,"w":115,"h":210},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":58,"w":115,"h":210},
+	"sourceSize": {"w":304,"h":317}
+},
+"k":
+{
+	"frame": {"x":1,"y":864,"w":139,"h":209},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":56,"w":139,"h":209},
+	"sourceSize": {"w":304,"h":317}
+},
+"knight-wild":
+{
+	"frame": {"x":1138,"y":712,"w":256,"h":280},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":13,"w":256,"h":280},
+	"sourceSize": {"w":304,"h":317}
+},
+"knight":
+{
+	"frame": {"x":1385,"y":426,"w":256,"h":280},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":13,"w":256,"h":280},
+	"sourceSize": {"w":304,"h":317}
+},
+"ogre-knight":
+{
+	"frame": {"x":513,"y":1,"w":282,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":3,"w":282,"h":290},
+	"sourceSize": {"w":304,"h":317}
+},
+"ogre-shaman":
+{
+	"frame": {"x":797,"y":1,"w":271,"h":291},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":2,"w":271,"h":291},
+	"sourceSize": {"w":304,"h":317}
+},
+"ogre-small":
+{
+	"frame": {"x":563,"y":509,"w":278,"h":287},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":278,"h":287},
+	"sourceSize": {"w":304,"h":317}
+},
+"ogre-warrior":
+{
+	"frame": {"x":843,"y":461,"w":270,"h":279},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":14,"w":270,"h":279},
+	"sourceSize": {"w":304,"h":317}
+},
+"q":
+{
+	"frame": {"x":635,"y":798,"w":186,"h":231},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":45,"w":186,"h":231},
+	"sourceSize": {"w":304,"h":317}
+},
+"redneck":
+{
+	"frame": {"x":1090,"y":1,"w":256,"h":293},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":0,"w":256,"h":293},
+	"sourceSize": {"w":304,"h":317}
+}},
+"animations": {
+	"box-x": ["box-x2","box-x3","box-x5"],
+	"boy-x": ["boy-x2","boy-x3"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":1653,"h":1016},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6254cd9fd3e4dec08bbeb2b5ddc3b5b5:6f2a1cb8ab3518df0e4e226a512192c2:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fish_1
+  rotate: false
+  xy: 409, 4
+  size: 239, 124
+  orig: 239, 124
+  offset: 0, 0
+  index: -1
+fish_2
+  rotate: false
+  xy: 705, 257
+  size: 253, 150
+  orig: 253, 150
+  offset: 0, 0
+  index: -1
+fish_box
+  rotate: false
+  xy: 409, 130
+  size: 294, 277
+  orig: 294, 277
+  offset: 0, 0
+  index: -1
+fish_light
+  rotate: true
+  xy: 705, 129
+  size: 126, 129
+  orig: 126, 129
+  offset: 0, 0
+  index: -1
+fish_water
+  rotate: false
+  xy: 2, 2
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1

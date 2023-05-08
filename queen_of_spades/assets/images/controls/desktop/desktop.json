@@ -1,0 +1,164 @@
+{"frames": {
+
+"btn_autoplay_active":
+{
+	"frame": {"x":1,"y":1,"w":289,"h":107},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_autoplay_hover":
+{
+	"frame": {"x":1,"y":1,"w":289,"h":107},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_autoplay_inactive":
+{
+	"frame": {"x":1,"y":1,"w":289,"h":107},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_autoplay_press":
+{
+	"frame": {"x":1,"y":1,"w":289,"h":107},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_maxbet_active":
+{
+	"frame": {"x":110,"y":1,"w":289,"h":107},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_maxbet_hover":
+{
+	"frame": {"x":110,"y":1,"w":289,"h":107},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_maxbet_inactive":
+{
+	"frame": {"x":110,"y":1,"w":289,"h":107},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_maxbet_press":
+{
+	"frame": {"x":110,"y":1,"w":289,"h":107},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":289,"h":107},
+	"sourceSize": {"w":289,"h":107}
+},
+"btn_small_active":
+{
+	"frame": {"x":1,"y":292,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_hover":
+{
+	"frame": {"x":37,"y":292,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_inactive":
+{
+	"frame": {"x":73,"y":292,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_small_press":
+{
+	"frame": {"x":109,"y":292,"w":34,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":34},
+	"sourceSize": {"w":34,"h":34}
+},
+"btn_spin_active":
+{
+	"frame": {"x":1718,"y":1,"w":146,"h":145},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":145},
+	"sourceSize": {"w":146,"h":145}
+},
+"btn_spin_hover":
+{
+	"frame": {"x":1718,"y":1,"w":146,"h":145},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":145},
+	"sourceSize": {"w":146,"h":145}
+},
+"btn_spin_inactive":
+{
+	"frame": {"x":1718,"y":1,"w":146,"h":145},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":145},
+	"sourceSize": {"w":146,"h":145}
+},
+"btn_spin_press":
+{
+	"frame": {"x":1718,"y":1,"w":146,"h":145},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":145},
+	"sourceSize": {"w":146,"h":145}
+},
+"desktop":
+{
+	"frame": {"x":219,"y":1,"w":1497,"h":237},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1497,"h":237},
+	"sourceSize": {"w":1497,"h":237}
+},
+"icn_spin_active":
+{
+	"frame": {"x":1716,"y":240,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"panel":
+{
+	"frame": {"x":219,"y":240,"w":1495,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1495,"h":100},
+	"sourceSize": {"w":1495,"h":100}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "desktop.png",
+	"format": "RGBA8888",
+	"size": {"w":1864,"h":341},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:123fbf43d412a61dec48923963fc9b0a:d8d0f906fee970a83236e1e809ac8d77:0b077c73a0795f36362c69075e5df9fe$"
+}
+}

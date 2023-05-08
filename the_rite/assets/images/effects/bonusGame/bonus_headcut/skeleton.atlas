@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 2059,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doll_headcut_dead
+  rotate: false
+  xy: 1498, 2
+  size: 398, 436
+  orig: 398, 436
+  offset: 0, 0
+  index: -1
+doll_headcut_eye
+  rotate: false
+  xy: 1995, 184
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+doll_headcut_hover
+  rotate: false
+  xy: 599, 35
+  size: 497, 403
+  orig: 497, 403
+  offset: 0, 0
+  index: -1
+doll_headcut_inside
+  rotate: true
+  xy: 1898, 226
+  size: 212, 159
+  orig: 212, 159
+  offset: 0, 0
+  index: -1
+doll_headcut_live
+  rotate: false
+  xy: 1098, 2
+  size: 398, 436
+  orig: 398, 436
+  offset: 0, 0
+  index: -1
+fx_dark
+  rotate: false
+  xy: 2, 4
+  size: 595, 434
+  orig: 595, 434
+  offset: 0, 0
+  index: -1
+fx_line-1
+  rotate: true
+  xy: 1898, 37
+  size: 187, 95
+  orig: 187, 95
+  offset: 0, 0
+  index: -1

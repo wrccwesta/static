@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 482,852
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust
+  rotate: false
+  xy: 310, 599
+  size: 159, 152
+  orig: 160, 157
+  offset: 0, 0
+  index: -1
+dust-wild-appear
+  rotate: false
+  xy: 310, 445
+  size: 159, 152
+  orig: 160, 157
+  offset: 0, 0
+  index: -1
+stones/stone-1
+  rotate: false
+  xy: 310, 186
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+stones/stone-3
+  rotate: false
+  xy: 310, 134
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+stones/stone-4
+  rotate: false
+  xy: 310, 318
+  size: 101, 83
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+stones/stone-5
+  rotate: false
+  xy: 310, 753
+  size: 170, 97
+  orig: 170, 97
+  offset: 0, 0
+  index: -1
+stones/stone-6
+  rotate: false
+  xy: 310, 228
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+wild-big/body
+  rotate: false
+  xy: 2, 2
+  size: 152, 848
+  orig: 218, 922
+  offset: 33, 37
+  index: -1
+wild-big/light
+  rotate: false
+  xy: 156, 2
+  size: 152, 848
+  orig: 218, 922
+  offset: 33, 37
+  index: -1
+wild-big/wild-word
+  rotate: false
+  xy: 310, 403
+  size: 117, 40
+  orig: 218, 922
+  offset: 48, 56
+  index: -1

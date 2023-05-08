@@ -1,0 +1,17 @@
+skeleton.png
+size:843,652
+filter:Linear,Linear
+dust-win-1
+bounds:2,2,648,753
+offsets:495,282,1427,1223
+rotate:90
+fxs/fallingStar
+bounds:757,134,516,80
+offsets:20,9,604,98
+rotate:90
+fxs/lightStar
+bounds:757,48,84,84
+offsets:8,7,99,98
+starSmall
+bounds:757,3,43,43
+offsets:2,1,46,46

@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1369,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leaves_body
+  rotate: true
+  xy: 2, 5
+  size: 266, 482
+  orig: 266, 482
+  offset: 0, 0
+  index: -1
+top_leaves1
+  rotate: true
+  xy: 1170, 62
+  size: 209, 197
+  orig: 209, 197
+  offset: 0, 0
+  index: -1
+top_leaves2
+  rotate: false
+  xy: 794, 2
+  size: 226, 99
+  orig: 226, 99
+  offset: 0, 0
+  index: -1
+top_leaves3
+  rotate: false
+  xy: 794, 103
+  size: 374, 168
+  orig: 374, 168
+  offset: 0, 0
+  index: -1
+top_leaves4
+  rotate: false
+  xy: 486, 17
+  size: 306, 254
+  orig: 306, 254
+  offset: 0, 0
+  index: -1

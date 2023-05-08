@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 353,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box_fire
+  rotate: true
+  xy: 2, 2
+  size: 39, 80
+  orig: 39, 80
+  offset: 0, 0
+  index: -1
+box_ribbon
+  rotate: true
+  xy: 84, 11
+  size: 30, 125
+  orig: 30, 125
+  offset: 0, 0
+  index: -1
+box_ribbon2
+  rotate: false
+  xy: 287, 3
+  size: 30, 125
+  orig: 30, 125
+  offset: 0, 0
+  index: -1
+box_spark
+  rotate: false
+  xy: 287, 130
+  size: 64, 134
+  orig: 64, 134
+  offset: 0, 0
+  index: -1
+winbox
+  rotate: false
+  xy: 2, 43
+  size: 283, 221
+  orig: 283, 221
+  offset: 0, 0
+  index: -1

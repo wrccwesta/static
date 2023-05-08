@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hyena_bg
+  rotate: false
+  xy: 2, 38
+  size: 266, 216
+  orig: 266, 216
+  offset: 0, 0
+  index: -1
+hyena_body
+  rotate: false
+  xy: 468, 98
+  size: 161, 156
+  orig: 161, 156
+  offset: 0, 0
+  index: -1
+hyena_e1
+  rotate: true
+  xy: 51, 2
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+hyena_e2
+  rotate: true
+  xy: 2, 2
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+hyena_eyes
+  rotate: false
+  xy: 270, 50
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+hyena_head
+  rotate: false
+  xy: 762, 176
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+hyena_light
+  rotate: false
+  xy: 270, 60
+  size: 196, 194
+  orig: 196, 194
+  offset: 0, 0
+  index: -1
+paw
+  rotate: false
+  xy: 631, 121
+  size: 129, 133
+  orig: 129, 133
+  offset: 0, 0
+  index: -1

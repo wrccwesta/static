@@ -1,0 +1,28 @@
+skeleton.png
+size:317,536
+filter:Linear,Linear
+fxs/Lens flare 68
+bounds:2,172,175,169
+offsets:12,19,200,200
+fxs/Lens flare 70
+bounds:2,2,173,168
+offsets:13,15,200,200
+fxs/electricity_00000
+bounds:177,18,121,124
+offsets:39,38,200,200
+rotate:90
+fxs/fire_00000
+bounds:2,343,191,198
+offsets:24,33,270,270
+rotate:90
+spin/base
+bounds:179,141,140,132
+offsets:5,1,146,152
+rotate:90
+spin/icn
+bounds:202,283,109,106
+offsets:18,32,146,152
+spin/shine
+bounds:202,391,143,113
+offsets:0,39,146,152
+rotate:90

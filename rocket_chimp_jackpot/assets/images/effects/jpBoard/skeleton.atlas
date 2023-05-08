@@ -1,0 +1,12 @@
+skeleton.png
+size:768,66
+filter:Linear,Linear
+jpBoard/fxMax
+bounds:2,2,281,62
+offsets:12,17,309,90
+jpBoard/fxMedium
+bounds:285,3,251,61
+offsets:27,17,309,90
+jpBoard/fxMin
+bounds:538,3,228,61
+offsets:38,17,309,90

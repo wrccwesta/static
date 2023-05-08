@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 592,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_merlin_ball
+  rotate: false
+  xy: 239, 13
+  size: 221, 220
+  orig: 221, 220
+  offset: 0, 0
+  index: -1
+fx_rune
+  rotate: false
+  xy: 2, 2
+  size: 235, 231
+  orig: 235, 231
+  offset: 0, 0
+  index: -1
+spin
+  rotate: false
+  xy: 462, 108
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1

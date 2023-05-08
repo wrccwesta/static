@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 2247,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doll_beast_claw
+  rotate: false
+  xy: 2077, 245
+  size: 157, 193
+  orig: 157, 193
+  offset: 0, 0
+  index: -1
+doll_beast_dead
+  rotate: true
+  xy: 1195, 58
+  size: 380, 480
+  orig: 380, 480
+  offset: 0, 0
+  index: -1
+doll_beast_hover
+  rotate: true
+  xy: 2, 2
+  size: 436, 594
+  orig: 436, 594
+  offset: 0, 0
+  index: -1
+doll_beast_live
+  rotate: false
+  xy: 1677, 2
+  size: 398, 436
+  orig: 398, 436
+  offset: 0, 0
+  index: -1
+doll_beast_table1
+  rotate: false
+  xy: 2077, 110
+  size: 146, 133
+  orig: 146, 133
+  offset: 0, 0
+  index: -1
+doll_beast_table2
+  rotate: true
+  xy: 2077, 3
+  size: 105, 168
+  orig: 105, 168
+  offset: 0, 0
+  index: -1
+fx_dark
+  rotate: false
+  xy: 598, 4
+  size: 595, 434
+  orig: 595, 434
+  offset: 0, 0
+  index: -1

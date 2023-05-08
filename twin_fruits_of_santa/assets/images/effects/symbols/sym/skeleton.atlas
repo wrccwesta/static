@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 1874,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+apple/fruit
+  rotate: true
+  xy: 548, 285
+  size: 302, 257
+  orig: 335, 335
+  offset: 33, 42
+  index: -1
+athen/body
+  rotate: false
+  xy: 289, 281
+  size: 257, 306
+  orig: 335, 335
+  offset: 59, 27
+  index: -1
+banana/fruit
+  rotate: true
+  xy: 258, 8
+  size: 268, 252
+  orig: 335, 335
+  offset: 40, 48
+  index: -1
+bell/body
+  rotate: true
+  xy: 1639, 370
+  size: 217, 233
+  orig: 335, 335
+  offset: 59, 51
+  index: -1
+circle
+  rotate: true
+  xy: 1185, 336
+  size: 251, 250
+  orig: 255, 252
+  offset: 2, 0
+  index: -1
+lemon/fruit
+  rotate: true
+  xy: 512, 12
+  size: 267, 238
+  orig: 335, 335
+  offset: 25, 46
+  index: -1
+orange/fruit
+  rotate: true
+  xy: 752, 2
+  size: 281, 254
+  orig: 335, 335
+  offset: 38, 40
+  index: -1
+raspberry/fruit
+  rotate: false
+  xy: 1272, 87
+  size: 246, 247
+  orig: 335, 335
+  offset: 47, 49
+  index: -1
+rays
+  rotate: true
+  xy: 1679, 24
+  size: 154, 151
+  orig: 160, 156
+  offset: 3, 2
+  index: -1
+scatter/star
+  rotate: false
+  xy: 807, 307
+  size: 243, 280
+  orig: 335, 335
+  offset: 63, 27
+  index: -1
+seven/body
+  rotate: true
+  xy: 1639, 180
+  size: 188, 226
+  orig: 335, 335
+  offset: 74, 56
+  index: -1
+spark
+  rotate: false
+  xy: 1272, 39
+  size: 46, 46
+  orig: 49, 48
+  offset: 1, 1
+  index: -1
+sparks
+  rotate: true
+  xy: 1520, 13
+  size: 165, 157
+  orig: 167, 167
+  offset: 2, 3
+  index: -1
+wild/crown
+  rotate: true
+  xy: 1437, 342
+  size: 245, 200
+  orig: 335, 335
+  offset: 48, 107
+  index: -1
+wild/wild-olymp
+  rotate: true
+  xy: 1052, 331
+  size: 256, 131
+  orig: 335, 335
+  offset: 47, 40
+  index: -1
+wmelon-piece/fruit
+  rotate: true
+  xy: 1008, 39
+  size: 266, 262
+  orig: 335, 335
+  offset: 43, 37
+  index: -1
+wmelon/fruit
+  rotate: true
+  xy: 2, 7
+  size: 269, 254
+  orig: 335, 335
+  offset: 27, 26
+  index: -1
+zeus-eyes
+  rotate: false
+  xy: 1520, 291
+  size: 116, 49
+  orig: 140, 58
+  offset: 18, 5
+  index: -1
+zeus/body
+  rotate: false
+  xy: 2, 278
+  size: 285, 309
+  orig: 335, 335
+  offset: 22, 24
+  index: -1

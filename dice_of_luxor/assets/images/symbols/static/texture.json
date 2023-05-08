@@ -1,0 +1,100 @@
+{"frames": {
+
+"dice1":
+{
+	"frame": {"x":0,"y":0,"w":206,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":202},
+	"sourceSize": {"w":206,"h":202}
+},
+"dice2":
+{
+	"frame": {"x":206,"y":0,"w":206,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":202},
+	"sourceSize": {"w":206,"h":202}
+},
+"dice3":
+{
+	"frame": {"x":0,"y":202,"w":206,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":202},
+	"sourceSize": {"w":206,"h":202}
+},
+"dice4":
+{
+	"frame": {"x":206,"y":202,"w":206,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":202},
+	"sourceSize": {"w":206,"h":202}
+},
+"dice5":
+{
+	"frame": {"x":0,"y":404,"w":206,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":202},
+	"sourceSize": {"w":206,"h":202}
+},
+"dice6":
+{
+	"frame": {"x":206,"y":404,"w":206,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":202},
+	"sourceSize": {"w":206,"h":202}
+},
+"dice_cleo":
+{
+	"frame": {"x":0,"y":606,"w":206,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":202},
+	"sourceSize": {"w":206,"h":202}
+},
+"dice_luck":
+{
+	"frame": {"x":206,"y":606,"w":206,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":202},
+	"sourceSize": {"w":206,"h":202}
+},
+"dice_pharaoh":
+{
+	"frame": {"x":0,"y":808,"w":206,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":202},
+	"sourceSize": {"w":206,"h":202}
+},
+"dice_star":
+{
+	"frame": {"x":206,"y":808,"w":206,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":202},
+	"sourceSize": {"w":206,"h":202}
+},
+"dice_wild":
+{
+	"frame": {"x":0,"y":1010,"w":206,"h":202},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":202},
+	"sourceSize": {"w":206,"h":202}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":412,"h":1212},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8c47acdde7a0b2e142e7dd21bb5b1568:655f2b062d524d16142a04f92724638f:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

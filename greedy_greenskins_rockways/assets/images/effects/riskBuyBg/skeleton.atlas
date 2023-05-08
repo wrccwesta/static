@@ -1,0 +1,9 @@
+skeleton.png
+size:100,64
+filter:Linear,Linear
+bubbleBlue
+bounds:64,28,34,34
+offsets:8,8,50,50
+spark2
+bounds:2,2,60,60
+offsets:10,10,80,80

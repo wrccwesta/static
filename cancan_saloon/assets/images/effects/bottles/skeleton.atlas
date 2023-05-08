@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 3120,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottle1_hit
+  rotate: true
+  xy: 986, 183
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle1_normal
+  rotate: true
+  xy: 704, 183
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle2_hit
+  rotate: true
+  xy: 1268, 183
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle2_normal
+  rotate: true
+  xy: 1550, 183
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle3_hit
+  rotate: true
+  xy: 1832, 183
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle3_normal
+  rotate: true
+  xy: 2114, 183
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle4_hit
+  rotate: true
+  xy: 2396, 183
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle4_normal
+  rotate: true
+  xy: 2678, 183
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle5_hit
+  rotate: true
+  xy: 704, 2
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle5_normal
+  rotate: true
+  xy: 986, 2
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle6_hit
+  rotate: true
+  xy: 1268, 2
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle6_normal
+  rotate: true
+  xy: 1550, 2
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle7_hit
+  rotate: true
+  xy: 1832, 2
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle7_normal
+  rotate: true
+  xy: 2114, 2
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle8_hit
+  rotate: true
+  xy: 2396, 2
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+bottle8_normal
+  rotate: true
+  xy: 2678, 2
+  size: 179, 280
+  orig: 179, 280
+  offset: 0, 0
+  index: -1
+fx_glass-1
+  rotate: false
+  xy: 340, 36
+  size: 362, 326
+  orig: 362, 326
+  offset: 0, 0
+  index: -1
+fx_shootshine
+  rotate: false
+  xy: 2960, 190
+  size: 158, 172
+  orig: 158, 172
+  offset: 0, 0
+  index: -1
+fx_water
+  rotate: false
+  xy: 2, 30
+  size: 336, 332
+  orig: 336, 332
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 437,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+turban_body
+  rotate: true
+  xy: 2, 2
+  size: 269, 207
+  orig: 269, 207
+  offset: 0, 0
+  index: -1
+turban_eyes
+  rotate: true
+  xy: 403, 212
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+turban_head2
+  rotate: false
+  xy: 211, 106
+  size: 190, 165
+  orig: 190, 165
+  offset: 0, 0
+  index: -1
+turban_head3
+  rotate: false
+  xy: 211, 2
+  size: 224, 102
+  orig: 224, 102
+  offset: 0, 0
+  index: -1

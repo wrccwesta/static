@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+special_dragon_bg
+  rotate: false
+  xy: 2, 137
+  size: 393, 339
+  orig: 393, 339
+  offset: 0, 0
+  index: -1
+special_dragon_bot
+  rotate: false
+  xy: 2, 2
+  size: 171, 133
+  orig: 171, 133
+  offset: 0, 0
+  index: -1
+special_dragon_top
+  rotate: false
+  xy: 397, 188
+  size: 287, 288
+  orig: 287, 288
+  offset: 0, 0
+  index: -1

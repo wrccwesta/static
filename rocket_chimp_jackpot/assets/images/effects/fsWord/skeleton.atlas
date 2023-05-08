@@ -1,0 +1,15 @@
+skeleton.png
+size:228,173
+filter:Linear,Linear
+labels/textFreeSpins
+bounds:84,5,166,70
+offsets:3,14,181,86
+rotate:90
+labels/textFreeSpinsInactive
+bounds:156,5,166,70
+offsets:3,14,181,86
+rotate:90
+labels/textFreeSpinsShadow
+bounds:2,2,169,80
+offsets:0,5,181,86
+rotate:90

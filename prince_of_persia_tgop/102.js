@@ -1,0 +1,2 @@
+/*! @mascot-banner branch: task-446-change-risk-ex - commit: f0eecec76ad666941288c57b4dc234de3003e417 */
+"use strict";(self.webpackChunkprince_of_persia_tgop=self.webpackChunkprince_of_persia_tgop||[]).push([[102],{7102:(e,p,s)=>{s.r(p),s.d(p,{ANALYTICS:()=>c});var a=s(8511),r=s(6950),c=(0,a.cp)({app:"mascot-games",version:"1.0.0",plugins:[(0,r.Z)({measurementIds:["G-3273EBNHSB"],debug:!0})]})}}]);

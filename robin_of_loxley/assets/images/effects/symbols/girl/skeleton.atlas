@@ -1,0 +1,125 @@
+
+skeleton.png
+size: 1722,354
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border-overlay
+  rotate: false
+  xy: 348, 78
+  size: 273, 274
+  orig: 273, 274
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 1126, 2
+  size: 236, 128
+  orig: 242, 133
+  offset: 3, 2
+  index: -1
+mist-purplee
+  rotate: false
+  xy: 2, 26
+  size: 344, 326
+  orig: 347, 341
+  offset: 3, 3
+  index: -1
+princess/bg
+  rotate: false
+  xy: 623, 78
+  size: 273, 274
+  orig: 275, 276
+  offset: 1, 1
+  index: -1
+princess/bg-overlay
+  rotate: false
+  xy: 898, 126
+  size: 226, 226
+  orig: 228, 228
+  offset: 1, 1
+  index: -1
+princess/body
+  rotate: false
+  xy: 1597, 194
+  size: 123, 158
+  orig: 123, 164
+  offset: 0, 4
+  index: -1
+princess/chelka-left
+  rotate: false
+  xy: 1562, 25
+  size: 121, 105
+  orig: 124, 107
+  offset: 1, 1
+  index: -1
+princess/chelka-right
+  rotate: true
+  xy: 582, 10
+  size: 66, 83
+  orig: 69, 85
+  offset: 2, 1
+  index: -1
+princess/eyes
+  rotate: false
+  xy: 730, 51
+  size: 89, 25
+  orig: 91, 27
+  offset: 1, 1
+  index: -1
+princess/flowers
+  rotate: true
+  xy: 1465, 132
+  size: 159, 130
+  orig: 163, 133
+  offset: 2, 2
+  index: -1
+princess/hair-base
+  rotate: false
+  xy: 1312, 132
+  size: 151, 220
+  orig: 154, 223
+  offset: 2, 2
+  index: -1
+princess/hair-long-1
+  rotate: true
+  xy: 348, 4
+  size: 72, 232
+  orig: 74, 237
+  offset: 1, 3
+  index: -1
+princess/hair-long-2
+  rotate: true
+  xy: 898, 2
+  size: 122, 203
+  orig: 128, 206
+  offset: 5, 2
+  index: -1
+princess/hair-long-3
+  rotate: true
+  xy: 1364, 4
+  size: 126, 196
+  orig: 128, 198
+  offset: 1, 1
+  index: -1
+princess/hair-long-4
+  rotate: false
+  xy: 667, 3
+  size: 61, 73
+  orig: 90, 165
+  offset: 1, 90
+  index: -1
+princess/head
+  rotate: false
+  xy: 1126, 137
+  size: 184, 215
+  orig: 186, 217
+  offset: 1, 1
+  index: -1
+princess/lips (merged)
+  rotate: false
+  xy: 730, 14
+  size: 60, 35
+  orig: 63, 39
+  offset: 2, 1
+  index: -1

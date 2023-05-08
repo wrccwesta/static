@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 1812,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+risknbuy-fx
+  rotate: false
+  xy: 1708, 142
+  size: 102, 102
+  orig: 120, 120
+  offset: 9, 9
+  index: -1
+risknbuy/buy_bg
+  rotate: true
+  xy: 580, 8
+  size: 236, 562
+  orig: 236, 562
+  offset: 0, 0
+  index: -1
+risknbuy/lights
+  rotate: true
+  xy: 2, 2
+  size: 242, 576
+  orig: 242, 576
+  offset: 0, 0
+  index: -1
+risknbuy/risk_bg
+  rotate: true
+  xy: 1144, 8
+  size: 236, 562
+  orig: 236, 562
+  offset: 0, 0
+  index: -1

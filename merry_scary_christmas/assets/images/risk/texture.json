@@ -1,0 +1,84 @@
+{"frames": {
+
+"btn-get":
+{
+	"frame": {"x":255,"y":1,"w":159,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":116},
+	"sourceSize": {"w":159,"h":116}
+},
+"btn-play":
+{
+	"frame": {"x":0,"y":254,"w":220,"h":138},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":138},
+	"sourceSize": {"w":220,"h":138}
+},
+"buy_bg":
+{
+	"frame": {"x":0,"y":392,"w":450,"h":784},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":450,"h":784},
+	"sourceSize": {"w":450,"h":784}
+},
+"buy_button":
+{
+	"frame": {"x":194,"y":117,"w":188,"h":137},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":188,"h":137},
+	"sourceSize": {"w":188,"h":137}
+},
+"buy_divider":
+{
+	"frame": {"x":0,"y":0,"w":154,"h":1},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":1},
+	"sourceSize": {"w":154,"h":1}
+},
+"fs_label":
+{
+	"frame": {"x":0,"y":1,"w":255,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":255,"h":94},
+	"sourceSize": {"w":255,"h":94}
+},
+"risk_bg":
+{
+	"frame": {"x":0,"y":1176,"w":478,"h":784},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":784},
+	"sourceSize": {"w":478,"h":784}
+},
+"risk_button":
+{
+	"frame": {"x":0,"y":117,"w":194,"h":119},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":194,"h":119},
+	"sourceSize": {"w":194,"h":119}
+},
+"risk_divider":
+{
+	"frame": {"x":154,"y":0,"w":222,"h":1},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":222,"h":1},
+	"sourceSize": {"w":222,"h":1}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "texture.png",
+	"format": "RGBA8888",
+	"size": {"w":478,"h":1960},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d013d73ac5cfa99288ef6fd026d0f34a:b6128ac8a3417130cfffa9982fd17c32:88db1022cd6b660616541d2788fcd4f7$"
+}
+}

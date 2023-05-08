@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 771,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wild
+  rotate: false
+  xy: 648, 23
+  size: 94, 65
+  orig: 94, 65
+  offset: 0, 0
+  index: -1
+wild_bg
+  rotate: false
+  xy: 2, 2
+  size: 281, 198
+  orig: 281, 198
+  offset: 0, 0
+  index: -1
+wild_body
+  rotate: false
+  xy: 512, 14
+  size: 134, 186
+  orig: 134, 186
+  offset: 0, 0
+  index: -1
+wild_chain
+  rotate: true
+  xy: 285, 17
+  size: 9, 50
+  orig: 9, 50
+  offset: 0, 0
+  index: -1
+wild_light
+  rotate: false
+  xy: 285, 28
+  size: 225, 172
+  orig: 225, 172
+  offset: 0, 0
+  index: -1
+wild_sparks
+  rotate: false
+  xy: 648, 90
+  size: 121, 110
+  orig: 121, 110
+  offset: 0, 0
+  index: -1

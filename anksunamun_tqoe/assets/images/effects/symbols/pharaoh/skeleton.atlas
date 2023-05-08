@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: false
+  xy: 360, 137
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+ank_light
+  rotate: false
+  xy: 2, 2
+  size: 239, 241
+  orig: 239, 241
+  offset: 0, 0
+  index: -1
+pharaoh_acc 1
+  rotate: false
+  xy: 796, 278
+  size: 78, 218
+  orig: 78, 218
+  offset: 0, 0
+  index: -1
+pharaoh_acc2
+  rotate: false
+  xy: 715, 270
+  size: 79, 226
+  orig: 79, 226
+  offset: 0, 0
+  index: -1
+pharaoh_bg
+  rotate: false
+  xy: 287, 230
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+pharaoh_body
+  rotate: false
+  xy: 555, 254
+  size: 158, 242
+  orig: 158, 242
+  offset: 0, 0
+  index: -1
+pharaoh_head
+  rotate: false
+  xy: 876, 310
+  size: 105, 186
+  orig: 105, 186
+  offset: 0, 0
+  index: -1
+pharaoh_moon
+  rotate: false
+  xy: 983, 445
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+pharaoh_moonbg
+  rotate: false
+  xy: 243, 113
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+pharaoh_moonlight
+  rotate: false
+  xy: 451, 177
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+pharaph_backlight
+  rotate: false
+  xy: 2, 245
+  size: 283, 251
+  orig: 283, 251
+  offset: 0, 0
+  index: -1
+spark_blue_3
+  rotate: false
+  xy: 243, 18
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1

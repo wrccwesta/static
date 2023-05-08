@@ -1,0 +1,2 @@
+/*! @mascot-banner branch: task-446-change-risk-ex - commit: f0eecec76ad666941288c57b4dc234de3003e417 */
+"use strict";(self.webpackChunkpinup_dolls=self.webpackChunkpinup_dolls||[]).push([[102],{7102:(s,e,p)=>{p.r(e),p.d(e,{ANALYTICS:()=>l});var u=p(8511),a=p(6950),l=(0,u.cp)({app:"mascot-games",version:"1.0.0",plugins:[(0,a.Z)({measurementIds:["G-3273EBNHSB"],debug:!0})]})}}]);

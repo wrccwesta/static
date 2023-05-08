@@ -1,0 +1,124 @@
+{"frames": {
+
+"bonus_bg":
+{
+	"frame": {"x":1,"y":1,"w":1717,"h":748},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1717,"h":748},
+	"sourceSize": {"w":1717,"h":748}
+},
+"bonus_table_divider":
+{
+	"frame": {"x":408,"y":1872,"w":1,"h":110},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":110},
+	"sourceSize": {"w":1,"h":110}
+},
+"bonusContinueButton":
+{
+	"frame": {"x":751,"y":517,"w":421,"h":110},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":421,"h":110},
+	"sourceSize": {"w":421,"h":110}
+},
+"bottle_free":
+{
+	"frame": {"x":818,"y":1548,"w":138,"h":90},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":138,"h":90},
+	"sourceSize": {"w":138,"h":90}
+},
+"bottle_miss":
+{
+	"frame": {"x":751,"y":1336,"w":210,"h":114},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":114},
+	"sourceSize": {"w":210,"h":114}
+},
+"logo_bonus":
+{
+	"frame": {"x":1,"y":1720,"w":405,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":405,"h":176},
+	"sourceSize": {"w":405,"h":176}
+},
+"table_freegames":
+{
+	"frame": {"x":867,"y":1336,"w":199,"h":42},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":199,"h":42},
+	"sourceSize": {"w":199,"h":42}
+},
+"tip":
+{
+	"frame": {"x":751,"y":1,"w":514,"h":65},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":514,"h":65},
+	"sourceSize": {"w":514,"h":65}
+},
+"tip_continue_free":
+{
+	"frame": {"x":818,"y":1,"w":316,"h":68},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":316,"h":68},
+	"sourceSize": {"w":316,"h":68}
+},
+"tip_finish":
+{
+	"frame": {"x":751,"y":1548,"w":235,"h":65},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":235,"h":65},
+	"sourceSize": {"w":235,"h":65}
+},
+"title":
+{
+	"frame": {"x":408,"y":1720,"w":275,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":275,"h":150},
+	"sourceSize": {"w":275,"h":150}
+},
+"title_end":
+{
+	"frame": {"x":751,"y":1114,"w":220,"h":153},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":153},
+	"sourceSize": {"w":220,"h":153}
+},
+"title_more":
+{
+	"frame": {"x":751,"y":940,"w":172,"h":158},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":172,"h":158},
+	"sourceSize": {"w":172,"h":158}
+},
+"title_shot":
+{
+	"frame": {"x":818,"y":319,"w":142,"h":88},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":88},
+	"sourceSize": {"w":142,"h":88}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bonusgame.png",
+	"format": "RGBA8888",
+	"size": {"w":910,"h":1897},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:76a51bf0eab359f7b2bfa38499edbe7b:53cb7a183d45c75e05ab0d59375e6dcf:fe7845503a3a3ecadb84f73969a37f73$"
+}
+}

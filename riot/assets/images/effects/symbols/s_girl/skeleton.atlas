@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 1860,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame
+  rotate: true
+  xy: 351, 33
+  size: 230, 306
+  orig: 232, 308
+  offset: 1, 1
+  index: -1
+frame  win
+  rotate: true
+  xy: 659, 33
+  size: 230, 306
+  orig: 232, 308
+  offset: 1, 1
+  index: -1
+girl-revolt-1/bg
+  rotate: true
+  xy: 967, 41
+  size: 222, 298
+  orig: 224, 300
+  offset: 1, 1
+  index: -1
+girl-revolt-1/body
+  rotate: false
+  xy: 1267, 22
+  size: 232, 241
+  orig: 234, 244
+  offset: 1, 2
+  index: -1
+girl-revolt-1/eyes
+  rotate: true
+  xy: 1843, 202
+  size: 61, 14
+  orig: 63, 16
+  offset: 1, 1
+  index: -1
+girl-revolt-1/head
+  rotate: false
+  xy: 1677, 38
+  size: 144, 225
+  orig: 144, 225
+  offset: 0, 0
+  index: -1
+girl-revolt-1/wires
+  rotate: false
+  xy: 1821, 145
+  size: 22, 118
+  orig: 22, 119
+  offset: 0, 0
+  index: -1
+sym/fist
+  rotate: false
+  xy: 1501, 43
+  size: 174, 220
+  orig: 176, 223
+  offset: 1, 2
+  index: -1
+sym/fx
+  rotate: false
+  xy: 2, 2
+  size: 347, 261
+  orig: 359, 284
+  offset: 4, 6
+  index: -1

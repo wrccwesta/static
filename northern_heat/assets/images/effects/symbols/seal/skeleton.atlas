@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 789,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+seal_bg
+  rotate: false
+  xy: 2, 6
+  size: 272, 215
+  orig: 272, 215
+  offset: 0, 0
+  index: -1
+seal_body
+  rotate: false
+  xy: 550, 92
+  size: 237, 129
+  orig: 237, 129
+  offset: 0, 0
+  index: -1
+seal_head
+  rotate: true
+  xy: 550, 2
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+seal_top
+  rotate: false
+  xy: 276, 6
+  size: 272, 215
+  orig: 272, 215
+  offset: 0, 0
+  index: -1

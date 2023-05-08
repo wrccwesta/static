@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 1702,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aquila_full
+  rotate: false
+  xy: 836, 121
+  size: 307, 153
+  orig: 307, 153
+  offset: 0, 0
+  index: -1
+aquila_spark
+  rotate: true
+  xy: 836, 30
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+fire_spark
+  rotate: true
+  xy: 908, 73
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+flag1
+  rotate: true
+  xy: 2, 2
+  size: 272, 276
+  orig: 272, 276
+  offset: 0, 0
+  index: -1
+flag4
+  rotate: true
+  xy: 280, 2
+  size: 272, 276
+  orig: 272, 276
+  offset: 0, 0
+  index: -1
+wild
+  rotate: true
+  xy: 558, 2
+  size: 272, 276
+  orig: 272, 276
+  offset: 0, 0
+  index: -1
+wild_plus1
+  rotate: true
+  xy: 1282, 7
+  size: 267, 135
+  orig: 267, 135
+  offset: 0, 0
+  index: -1
+wild_randompng
+  rotate: true
+  xy: 1574, 33
+  size: 241, 126
+  orig: 241, 126
+  offset: 0, 0
+  index: -1
+wild_word
+  rotate: true
+  xy: 1419, 42
+  size: 232, 153
+  orig: 232, 153
+  offset: 0, 0
+  index: -1
+wild_x2_small
+  rotate: true
+  xy: 1145, 5
+  size: 269, 135
+  orig: 269, 135
+  offset: 0, 0
+  index: -1

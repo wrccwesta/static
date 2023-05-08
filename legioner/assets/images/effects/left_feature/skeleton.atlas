@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 1633,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flag_b_main
+  rotate: true
+  xy: 783, 23
+  size: 162, 214
+  orig: 162, 214
+  offset: 0, 0
+  index: -1
+flag_b_second
+  rotate: true
+  xy: 1351, 2
+  size: 95, 243
+  orig: 95, 243
+  offset: 0, 0
+  index: -1
+flag_r_main
+  rotate: false
+  xy: 1020, 242
+  size: 157, 210
+  orig: 157, 210
+  offset: 0, 0
+  index: -1
+flag_r_second
+  rotate: false
+  xy: 1179, 258
+  size: 163, 194
+  orig: 163, 194
+  offset: 0, 0
+  index: -1
+left_handles
+  rotate: true
+  xy: 1541, 229
+  size: 223, 90
+  orig: 223, 90
+  offset: 0, 0
+  index: -1
+purple_top (merged)
+  rotate: true
+  xy: 999, 20
+  size: 165, 201
+  orig: 165, 201
+  offset: 0, 0
+  index: -1
+purple_under (merged)
+  rotate: false
+  xy: 1351, 99
+  size: 135, 205
+  orig: 135, 205
+  offset: 0, 0
+  index: -1
+wild_plus1
+  rotate: false
+  xy: 514, 28
+  size: 267, 135
+  orig: 267, 135
+  offset: 0, 0
+  index: -1
+wild_wildreel
+  rotate: false
+  xy: 258, 3
+  size: 254, 121
+  orig: 254, 121
+  offset: 0, 0
+  index: -1
+wild_wildreelrespin
+  rotate: false
+  xy: 764, 187
+  size: 254, 265
+  orig: 254, 265
+  offset: 0, 0
+  index: -1
+wild_x2wild
+  rotate: false
+  xy: 258, 126
+  size: 248, 326
+  orig: 248, 326
+  offset: 0, 0
+  index: -1
+wild_x2wildreel
+  rotate: false
+  xy: 508, 165
+  size: 254, 287
+  orig: 254, 287
+  offset: 0, 0
+  index: -1
+wild_x2wildrespin
+  rotate: false
+  xy: 2, 21
+  size: 254, 431
+  orig: 254, 431
+  offset: 0, 0
+  index: -1
+yellow_bot (merged)
+  rotate: false
+  xy: 1202, 58
+  size: 147, 198
+  orig: 147, 198
+  offset: 0, 0
+  index: -1
+yellow_top (merged)
+  rotate: true
+  xy: 1344, 306
+  size: 146, 195
+  orig: 146, 195
+  offset: 0, 0
+  index: -1

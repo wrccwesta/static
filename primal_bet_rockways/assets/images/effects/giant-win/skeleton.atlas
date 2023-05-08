@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 723,1048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust-win
+  rotate: false
+  xy: 2, 153
+  size: 690, 893
+  orig: 1427, 1223
+  offset: 465, 171
+  index: -1
+leafs/leaf-1
+  rotate: false
+  xy: 153, 40
+  size: 131, 111
+  orig: 150, 149
+  offset: 12, 1
+  index: -1
+leafs/leaf-2
+  rotate: false
+  xy: 526, 2
+  size: 94, 149
+  orig: 150, 149
+  offset: 31, 0
+  index: -1
+leafs/leaf-3
+  rotate: false
+  xy: 2, 40
+  size: 149, 111
+  orig: 150, 149
+  offset: 1, 16
+  index: -1
+leafs/leaf-4
+  rotate: false
+  xy: 417, 22
+  size: 107, 129
+  orig: 150, 149
+  offset: 25, 6
+  index: -1
+leafs/leaf-5
+  rotate: false
+  xy: 622, 34
+  size: 99, 117
+  orig: 150, 149
+  offset: 28, 13
+  index: -1
+leafs/leaf-6
+  rotate: false
+  xy: 286, 21
+  size: 129, 130
+  orig: 150, 149
+  offset: 13, 6
+  index: -1

@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 2604,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_g
+  rotate: false
+  xy: 2, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+a_g
+  rotate: false
+  xy: 538, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+emperor_g
+  rotate: false
+  xy: 806, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+girl_g
+  rotate: false
+  xy: 1074, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+hiero_yellow_bg
+  rotate: false
+  xy: 2414, 77
+  size: 188, 191
+  orig: 188, 191
+  offset: 0, 0
+  index: -1
+j_g
+  rotate: false
+  xy: 1342, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+k_g
+  rotate: false
+  xy: 1610, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+q_g
+  rotate: false
+  xy: 1878, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+warriors_g
+  rotate: false
+  xy: 2146, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+zombie_g
+  rotate: false
+  xy: 270, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 588,1426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+riskbuy/bg-buy
+  rotate: true
+  xy: 2, 351
+  size: 197, 584
+  orig: 197, 584
+  offset: 0, 0
+  index: -1
+riskbuy/bg-risk
+  rotate: true
+  xy: 2, 152
+  size: 197, 584
+  orig: 197, 584
+  offset: 0, 0
+  index: -1
+riskbuy/btn-buy
+  rotate: false
+  xy: 157, 53
+  size: 197, 97
+  orig: 197, 97
+  offset: 0, 0
+  index: -1
+riskbuy/btn-risk
+  rotate: false
+  xy: 356, 53
+  size: 197, 97
+  orig: 197, 97
+  offset: 0, 0
+  index: -1
+riskbuy/light-buy
+  rotate: false
+  xy: 291, 555
+  size: 285, 869
+  orig: 291, 898
+  offset: 6, 7
+  index: -1
+riskbuy/light-risj
+  rotate: false
+  xy: 2, 550
+  size: 287, 874
+  orig: 291, 898
+  offset: 4, 6
+  index: -1
+riskbuy/scat
+  rotate: false
+  xy: 2, 2
+  size: 153, 148
+  orig: 155, 149
+  offset: 1, 1
+  index: -1

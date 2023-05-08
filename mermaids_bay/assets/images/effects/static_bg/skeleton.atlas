@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 1305,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_star_blue
+  rotate: false
+  xy: 1237, 134
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+fx_star_purple
+  rotate: false
+  xy: 1237, 68
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+fx_star_white
+  rotate: false
+  xy: 1237, 2
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+fx_water_top
+  rotate: false
+  xy: 2, 7
+  size: 1233, 191
+  orig: 1233, 191
+  offset: 0, 0
+  index: -1

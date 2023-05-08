@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 232,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+W
+  rotate: true
+  xy: 97, 53
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+d
+  rotate: false
+  xy: 97, 2
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 148, 65
+  size: 17, 49
+  orig: 17, 49
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 140, 2
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+wild_box
+  rotate: true
+  xy: 2, 258
+  size: 272, 215
+  orig: 272, 215
+  offset: 0, 0
+  index: -1
+wild_pawshine
+  rotate: true
+  xy: 2, 10
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+wild_snow
+  rotate: false
+  xy: 2, 116
+  size: 228, 140
+  orig: 228, 140
+  offset: 0, 0
+  index: -1

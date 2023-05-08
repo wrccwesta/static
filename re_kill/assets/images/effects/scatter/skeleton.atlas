@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 926,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Free Spins
+  rotate: false
+  xy: 752, 170
+  size: 172, 60
+  orig: 172, 60
+  offset: 0, 0
+  index: -1
+scatter_bg
+  rotate: false
+  xy: 2, 15
+  size: 313, 215
+  orig: 313, 215
+  offset: 0, 0
+  index: -1
+scatter_blood
+  rotate: false
+  xy: 317, 2
+  size: 227, 228
+  orig: 227, 228
+  offset: 0, 0
+  index: -1
+scatter_light
+  rotate: false
+  xy: 752, 75
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+scatter_sign
+  rotate: true
+  xy: 546, 16
+  size: 214, 204
+  orig: 214, 204
+  offset: 0, 0
+  index: -1
+scatter_word
+  rotate: false
+  xy: 752, 13
+  size: 139, 60
+  orig: 139, 60
+  offset: 0, 0
+  index: -1

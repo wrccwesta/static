@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 177,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spin_sparks
+  rotate: false
+  xy: 2, 2
+  size: 173, 209
+  orig: 173, 209
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,12 @@
+skeleton.png
+size:371,147
+filter:Linear,Linear
+dust
+bounds:2,2,149,143
+offsets:1,1,150,147
+spin/circle
+bounds:153,3,142,140
+offsets:1,0,144,141
+rotate:90
+spin/icn
+bounds:295,60,74,85

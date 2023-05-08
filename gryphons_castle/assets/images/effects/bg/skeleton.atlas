@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1924,1471
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_finish
+  rotate: false
+  xy: 2, 389
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 1482, 214
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 1482, 39
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 1657, 214
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 1657, 39
+  size: 173, 173
+  orig: 173, 173
+  offset: 0, 0
+  index: -1
+fx_mist
+  rotate: false
+  xy: 637, 33
+  size: 442, 354
+  orig: 442, 354
+  offset: 0, 0
+  index: -1
+fx_mist_blue
+  rotate: false
+  xy: 1081, 2
+  size: 399, 385
+  orig: 399, 385
+  offset: 0, 0
+  index: -1
+fx_spark
+  rotate: false
+  xy: 1832, 370
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+fx_spark_purple
+  rotate: false
+  xy: 1482, 9
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+ray_bg
+  rotate: true
+  xy: 2, 169
+  size: 218, 633
+  orig: 218, 633
+  offset: 0, 0
+  index: -1
+statue_light
+  rotate: false
+  xy: 2, 97
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+skeleton.png
+size:361,208
+filter:Linear,Linear
+big-win/gold-1
+bounds:2,100,238,106
+offsets:1,0,243,108
+big-win/gold-2
+bounds:242,5,201,117
+offsets:5,0,207,118
+rotate:90
+big-win/gold-3
+bounds:2,2,189,96
+offsets:4,0,194,97

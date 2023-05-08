@@ -1,0 +1,164 @@
+{"frames": {
+
+"btn_autoplay_active":
+{
+	"frame": {"x":177,"y":1,"w":266,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":100},
+	"sourceSize": {"w":266,"h":100}
+},
+"btn_autoplay_hover":
+{
+	"frame": {"x":177,"y":1,"w":266,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":100},
+	"sourceSize": {"w":266,"h":100}
+},
+"btn_autoplay_inactive":
+{
+	"frame": {"x":177,"y":1,"w":266,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":100},
+	"sourceSize": {"w":266,"h":100}
+},
+"btn_autoplay_press":
+{
+	"frame": {"x":177,"y":1,"w":266,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":100},
+	"sourceSize": {"w":266,"h":100}
+},
+"btn_maxbet_active":
+{
+	"frame": {"x":445,"y":1,"w":266,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":100},
+	"sourceSize": {"w":266,"h":100}
+},
+"btn_maxbet_hover":
+{
+	"frame": {"x":445,"y":1,"w":266,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":100},
+	"sourceSize": {"w":266,"h":100}
+},
+"btn_maxbet_inactive":
+{
+	"frame": {"x":445,"y":1,"w":266,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":100},
+	"sourceSize": {"w":266,"h":100}
+},
+"btn_maxbet_press":
+{
+	"frame": {"x":445,"y":1,"w":266,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":100},
+	"sourceSize": {"w":266,"h":100}
+},
+"btn_small_active":
+{
+	"frame": {"x":831,"y":1,"w":46,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":46},
+	"sourceSize": {"w":46,"h":46}
+},
+"btn_small_hover":
+{
+	"frame": {"x":831,"y":49,"w":46,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":46},
+	"sourceSize": {"w":46,"h":46}
+},
+"btn_small_inactive":
+{
+	"frame": {"x":879,"y":1,"w":46,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":46},
+	"sourceSize": {"w":46,"h":46}
+},
+"btn_small_press":
+{
+	"frame": {"x":879,"y":49,"w":46,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":46},
+	"sourceSize": {"w":46,"h":46}
+},
+"btn_spin_active":
+{
+	"frame": {"x":1,"y":1,"w":178,"h":174},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":174},
+	"sourceSize": {"w":178,"h":174}
+},
+"btn_spin_hover":
+{
+	"frame": {"x":1,"y":1,"w":178,"h":174},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":174},
+	"sourceSize": {"w":178,"h":174}
+},
+"btn_spin_inactive":
+{
+	"frame": {"x":1,"y":1,"w":178,"h":174},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":174},
+	"sourceSize": {"w":178,"h":174}
+},
+"btn_spin_press":
+{
+	"frame": {"x":1,"y":1,"w":178,"h":174},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":178,"h":174},
+	"sourceSize": {"w":178,"h":174}
+},
+"icn_spin_active":
+{
+	"frame": {"x":713,"y":1,"w":59,"h":59},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":59},
+	"sourceSize": {"w":59,"h":59}
+},
+"icn_spin_inactive":
+{
+	"frame": {"x":774,"y":1,"w":55,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":55},
+	"sourceSize": {"w":55,"h":55}
+},
+"panel":
+{
+	"frame": {"x":177,"y":103,"w":1491,"h":98},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1491,"h":98},
+	"sourceSize": {"w":1491,"h":98}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "desktop.png",
+	"format": "RGBA8888",
+	"size": {"w":1669,"h":202},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:9ac65113c24d26f3234786fd6a403b24:26a321faa86b981c89e238c2aadbdfb8:0b077c73a0795f36362c69075e5df9fe$"
+}
+}

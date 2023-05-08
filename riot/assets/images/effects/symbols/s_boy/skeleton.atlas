@@ -1,0 +1,62 @@
+
+skeleton.png
+size: 1992,265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fist
+  rotate: false
+  xy: 1816, 43
+  size: 174, 220
+  orig: 176, 223
+  offset: 1, 2
+  index: -1
+frame
+  rotate: true
+  xy: 351, 33
+  size: 230, 306
+  orig: 232, 308
+  offset: 1, 1
+  index: -1
+frame-win
+  rotate: true
+  xy: 659, 33
+  size: 230, 306
+  orig: 230, 306
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 2
+  size: 347, 261
+  orig: 359, 284
+  offset: 4, 6
+  index: -1
+man-revolt-1/bg
+  rotate: true
+  xy: 967, 41
+  size: 222, 298
+  orig: 224, 300
+  offset: 1, 1
+  index: -1
+man-revolt-1/body
+  rotate: true
+  xy: 1267, 27
+  size: 236, 334
+  orig: 236, 334
+  offset: 0, 0
+  index: -1
+man-revolt-1/hand
+  rotate: true
+  xy: 1603, 8
+  size: 255, 211
+  orig: 280, 211
+  offset: 0, 0
+  index: -1
+man-revolt-1/унуы
+  rotate: false
+  xy: 1267, 246
+  size: 65, 17
+  orig: 66, 18
+  offset: 1, 0
+  index: -1

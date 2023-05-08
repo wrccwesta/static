@@ -1,0 +1,379 @@
+
+skeleton.png
+size: 1792,1705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon-fire/fire-dragon_00000
+  rotate: false
+  xy: 2, 1133
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00001
+  rotate: false
+  xy: 885, 990
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00002
+  rotate: false
+  xy: 2, 756
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00003
+  rotate: false
+  xy: 885, 613
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00004
+  rotate: false
+  xy: 2, 379
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00005
+  rotate: false
+  xy: 885, 236
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00006
+  rotate: false
+  xy: 2, 2
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+left-leg
+  rotate: true
+  xy: 1021, 1402
+  size: 301, 389
+  orig: 301, 389
+  offset: 0, 0
+  index: -1
+lower-jaw
+  rotate: false
+  xy: 346, 1547
+  size: 157, 156
+  orig: 160, 165
+  offset: 3, 9
+  index: -1
+right-leg
+  rotate: true
+  xy: 505, 1513
+  size: 190, 313
+  orig: 198, 313
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 1651
+  size: 342, 52
+  orig: 348, 57
+  offset: 3, 3
+  index: -1
+smoke/smoke
+  rotate: false
+  xy: 820, 1510
+  size: 199, 193
+  orig: 200, 197
+  offset: 1, 0
+  index: -1
+upper-jaw
+  rotate: true
+  xy: 1412, 1367
+  size: 336, 378
+  orig: 336, 378
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1768,1510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon-fire/fire-dragon_00007
+  rotate: false
+  xy: 2, 1133
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00008
+  rotate: false
+  xy: 885, 1133
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00009
+  rotate: false
+  xy: 2, 756
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00010
+  rotate: false
+  xy: 885, 756
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00011
+  rotate: false
+  xy: 2, 379
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00012
+  rotate: false
+  xy: 885, 379
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00013
+  rotate: false
+  xy: 2, 2
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00014
+  rotate: false
+  xy: 885, 2
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1768,1510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon-fire/fire-dragon_00015
+  rotate: false
+  xy: 2, 1133
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00016
+  rotate: false
+  xy: 885, 1133
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00017
+  rotate: false
+  xy: 2, 756
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00018
+  rotate: false
+  xy: 885, 756
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00019
+  rotate: false
+  xy: 2, 379
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00020
+  rotate: false
+  xy: 885, 379
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00021
+  rotate: false
+  xy: 2, 2
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00022
+  rotate: false
+  xy: 885, 2
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 1768,1510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon-fire/fire-dragon_00023
+  rotate: false
+  xy: 2, 1133
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00024
+  rotate: false
+  xy: 885, 1133
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00025
+  rotate: false
+  xy: 2, 756
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00026
+  rotate: false
+  xy: 885, 756
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00027
+  rotate: false
+  xy: 2, 379
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00028
+  rotate: false
+  xy: 885, 379
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00029
+  rotate: false
+  xy: 2, 2
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00030
+  rotate: false
+  xy: 885, 2
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+
+skeleton5.png
+size: 1768,1510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon-fire/fire-dragon_00031
+  rotate: false
+  xy: 2, 1133
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00032
+  rotate: false
+  xy: 885, 1133
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00033
+  rotate: false
+  xy: 2, 756
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00034
+  rotate: false
+  xy: 885, 756
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00035
+  rotate: false
+  xy: 2, 379
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00036
+  rotate: false
+  xy: 885, 379
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00037
+  rotate: false
+  xy: 2, 2
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+dragon-fire/fire-dragon_00038
+  rotate: false
+  xy: 885, 2
+  size: 881, 375
+  orig: 1000, 375
+  offset: 0, 0
+  index: -1
+
+skeleton6.png
+size: 1896,1593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1323, 2
+  size: 403, 909
+  orig: 403, 909
+  offset: 0, 0
+  index: -1
+left-wing
+  rotate: true
+  xy: 2, 23
+  size: 412, 1319
+  orig: 412, 1328
+  offset: 0, 9
+  index: -1
+right-wing
+  rotate: true
+  xy: 2, 437
+  size: 474, 1296
+  orig: 474, 1296
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 913
+  size: 1892, 678
+  orig: 1892, 678
+  offset: 0, 0
+  index: -1

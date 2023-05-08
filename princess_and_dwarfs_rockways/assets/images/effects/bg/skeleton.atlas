@@ -1,0 +1,11 @@
+skeleton.png
+size:1050,544
+filter:Linear,Linear
+bg-map
+bounds:2,2,960,540
+fxs/light
+bounds:964,458,84,84
+offsets:8,7,99,98
+spark
+bounds:964,427,28,29
+offsets:6,5,40,40

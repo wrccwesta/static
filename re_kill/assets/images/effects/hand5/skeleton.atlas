@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 2095,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h1
+  rotate: true
+  xy: 2, 2
+  size: 393, 816
+  orig: 393, 816
+  offset: 0, 0
+  index: -1
+h1 1
+  rotate: true
+  xy: 1721, 215
+  size: 180, 199
+  orig: 180, 199
+  offset: 0, 0
+  index: -1
+h1 2
+  rotate: false
+  xy: 1922, 154
+  size: 122, 241
+  orig: 122, 241
+  offset: 0, 0
+  index: -1
+h1 3
+  rotate: false
+  xy: 1721, 10
+  size: 125, 203
+  orig: 125, 203
+  offset: 0, 0
+  index: -1
+h1 4
+  rotate: false
+  xy: 1918, 23
+  size: 175, 129
+  orig: 175, 129
+  offset: 0, 0
+  index: -1
+h1 5
+  rotate: true
+  xy: 1848, 85
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: -1
+wild_blood
+  rotate: true
+  xy: 820, 106
+  size: 289, 899
+  orig: 289, 899
+  offset: 0, 0
+  index: -1
